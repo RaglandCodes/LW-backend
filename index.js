@@ -2,6 +2,7 @@
 
 const express = require('express');
 const fs = require('fs');
+const moment = require('moment');
 const path = require('path');
 const Parser = require('rss-parser');
 const nanoid = require('nanoid');
@@ -16,14 +17,21 @@ app.use(function (req, res, next) {
 
 let parser = new Parser();
 
-var timeNow = new Date;
-
 // --------------- functions ----------
 function stronger(weakTitle) {
     const removeRegex = / on | in | as | by | into | s | its | a | an | the | your | will | her | so | with | for | we | at | to | be | if | that | of | are | and | is |- BBC News|- video|:|’s|-|–|, |‘|\s+|'|’|“|”/ig;
 
     let strongTitle = weakTitle.replace(removeRegex, ' ').replace(removeRegex, ' ').replace(removeRegex, ' ');
     return strongTitle.toLowerCase();
+}
+
+function timePast(then)
+{
+    
+    var timeNow = new Date;
+    console.log(moment(then).fromNow());
+    //console.log(timeNow - then);
+    
 }
 
 function liason(pages) {
@@ -60,7 +68,7 @@ function cleaner(dirtyPage) {
         let cleanPage = [];
         for (const word of source['newsItems']) {
 
-            if (word['timePast'] < 25) {
+            if (timePast(word['date']) < 25) {
                 cleanPage.push(word)
             }
         }
@@ -90,7 +98,7 @@ async function refresh(data) {
                     strongTitle: stronger(word.title),
                     url: word.link,
                     date: word.pubDate,
-                    timePast: (timeNow - publishedDate) / 3600000,
+                    //timePast: (timeNow - publishedDate) / 3600000,
                     publisher: source.name,
                     uid: nanoid(4),
                     matchid: 0,
