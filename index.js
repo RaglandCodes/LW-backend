@@ -55,7 +55,7 @@ function liason(pages) {
         } else if (page[i].matchid != 0 && page[j].matchid == 0) {
           page[j].matchid = page[i].matchid;
         } else {
-          console.log("You have a propblem in mathings");
+          console.log("You have a propblem in mathcings");
         }
       }
     } // end of j loop
