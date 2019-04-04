@@ -115,21 +115,21 @@ function cleaner(page) {
 }
 
 function selectData(fullData, offSting) {
-  if (offSting == undefined)
-  {
-    console.log("undefined of");
+  if (offSting == undefined) {
     return fullData;
   }
-  let fullTry = JSON.parse(fullData);
-  let offArray = offSting.split("ANDAND");
-  console.log(`offArra = ${offArray  }`)
 
-  fullTry = fullTry.filter(word => {
-    let titleArray = word["title"].split(" ");
+  let offArray = offSting.toLowerCase().split("andand");
 
-    //for (let off of offArray) console.log(titleArray.indexOf(off));
+  fullData = JSON.parse(fullData);
+
+  let likedData = fullData.filter(word => {
+    let splitTitle = word["strongTitle"].toLowerCase().split(" ");
+    if (splitTitle.filter(v => -1 !== offArray.indexOf(v)).length == 0)
+      return true;
   });
-  return fullData;
+
+  return likedData;
 }
 async function refresh(data) {
   // function to add the new news stories to the database
