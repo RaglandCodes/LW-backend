@@ -38,14 +38,23 @@ function liason(pages) {
 
   for (const source of pages) {
     page = page.concat(source["newsItems"]);
+    console.log("in concat");
   }
 
   for (var i = 0; i < page.length; i++) {
     let t1 = page[i].strongTitle.split(/\s+/);
     for (let j = i + 1; j < page.length; j++) {
-      if (page[i].matchid == page[j].matchid) continue;
+      if (
+        page[i].matchid == page[j].matchid &&
+        page[i].matchid != 0 &&
+        page[j].matchid != 0
+      )
+        continue;
+
       let t2 = page[j].strongTitle.split(/\s+/);
+
       let matches = t1.filter(v => -1 !== t2.indexOf(v));
+
       if (matches.length > 2) {
         if (page[j].matchid != 0 && page[i].matchid == 0) {
           page[i].matchid = page[j].matchid;
@@ -61,11 +70,24 @@ function liason(pages) {
     } // end of j loop
   } //end of i loop
 
-  fs.writeFileSync(
-    path.join(__dirname, "./fullWorld.json"),
-    JSON.stringify(page)
-  );
-  return pages;
+  return page;
+}
+
+function removeOldItems(oldPage) {
+  let newPage = oldPage.filter(word => {
+    let hoursPased =
+      (moment(moment().format()) - moment(word["date"])) / (1000 * 60 * 60);
+
+    if (hoursPased > 72) return false;
+    else if (word.matchid == 0 && hoursPased > 24) return false;
+    else if (word.matchid != 1) return true;
+    else if (hoursPased < 24) return true;
+    else console.log(`!!!⚠!!${word.matchid}   ${hoursPased}   ${word.title}`);
+  });
+
+  console.log(`old page is this big => ${oldPage.length}`);
+  console.log(`new page is this big => ${newPage.length}`);
+  return oldPage;
 }
 
 function cleaner(page) {
@@ -92,11 +114,31 @@ function cleaner(page) {
   return page;
 }
 
+function selectData(fullData, offSting) {
+  if (offSting == undefined)
+  {
+    console.log("undefined of");
+    return fullData;
+  }
+  let fullTry = JSON.parse(fullData);
+  let offArray = offSting.split("ANDAND");
+  console.log(`offArra = ${offArray  }`)
+
+  fullTry = fullTry.filter(word => {
+    let titleArray = word["title"].split(" ");
+
+    //for (let off of offArray) console.log(titleArray.indexOf(off));
+  });
+  return fullData;
+}
 async function refresh(data) {
   // function to add the new news stories to the database
   data = JSON.parse(data);
+  console.log("Refreshing!!!");
 
   for (const source of data) {
+    console.log(`Refreshing!!! ${source["name"]}`);
+
     let newPage = [];
     let feed = await parser.parseURL(source.rssLink);
 
@@ -139,14 +181,24 @@ app.get("/update", (q, a) => {
     .toString();
 
   refresh(worldData)
-    .then(dirty => cleaner(dirty))
-    .then(seperate => liason(seperate))
-    .then(d => {
-      console.log("returned");
+    //.then(dirty => cleaner(dirty))
+    .then(seperate => {
       fs.writeFileSync(
         path.join(__dirname, "./dataWorld.json"),
-        JSON.stringify(d)
+        JSON.stringify(seperate)
       );
+
+      return liason(seperate);
+    })
+    .then(old => removeOldItems(old))
+    .then(finalData => {
+      fs.writeFileSync(
+        path.join(__dirname, "./fullWorld.json"),
+        JSON.stringify(finalData)
+      );
+    })
+    .then(d => {
+      console.log("returned");
     })
     .catch(c => {
       console.log("this is the error", c);
@@ -155,14 +207,15 @@ app.get("/update", (q, a) => {
 
 app.get("/show", (q, a) => {
   // This is called by the front end to get the data
-  let response = fs
+  let fullData = fs
     .readFileSync(path.join(__dirname, "fullWorld.json"))
     .toString();
-  a.send(JSON.parse(response));
-});
+
+  a.send(selectData(fullData, q.query.off));
+}); // end of GET show
 
 app.listen(2345, () => {
-  console.log("Running @ port 2345");
+  console.log("🏃‍ @ port 2345");
 });
 
 /*  
