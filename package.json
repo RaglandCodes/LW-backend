@@ -12,8 +12,8 @@
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.4",
     "html-metadata": "^1.7.0",
+    "metafetch": "^1.9.2",
     "moment": "^2.24.0",
     "nanoid": "^2.0.1"
-    
   }
 }

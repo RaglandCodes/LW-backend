@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Hindu",
+    "rssLink": "https://www.thehindu.com/news/international/feeder/default.rss"
+  },
+  {
+    "name": "BBC",
+    "rssLink": "https://feeds.bbci.co.uk/news/world/rss.xml"
+  },
+  {
+    "name": "The Guardian",
+    "rssLink": "https://www.theguardian.com/world/rss"
+  }
+]
