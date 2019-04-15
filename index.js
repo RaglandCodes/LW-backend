@@ -7,6 +7,9 @@ const path = require("path");
 const Parser = require("rss-parser");
 const metafetch = require("metafetch");
 const nanoid = require("nanoid");
+//const graphql = require("graphql");
+const graphqlHTTP = require("express-graphql");
+const schema = require("./schema");
 
 // --------------- initialisations ----------
 const app = express();
@@ -19,10 +22,51 @@ app.use(function(req, res, next) {
   next();
 });
 
-function getMeta(dURL) {
+app.use(
+  "/graphql",
+  graphqlHTTP({
+    schema,
+    graphiql: true
+  })
+);
+
+//getMeta("https://www.bbc.co.uk/news/world-africa-47913338");
+
+let parser = new Parser();
+
+// --------------- functions ----------
+function stronger(weakTitle, description) {
+  //const dangerPhrases = /- BBC News|– live|- video|– in pictures|– video|– as it happened|Morning digest:|What you need to know/gi;
+  const removeRegex = / on | his | in | as | by | into |’s| how | they | say | said | its | from | but | it | a | an | the | why | your | will | her | he | have | has | so | with | for | we | at | to | be | if | that | of | are | and | is |:|’s|-|–|, |‘|\s+|'|’|“|”/gi;
+
+  let strongTitle = weakTitle
+    .concat(" ", description)
+    .toLowerCase()
+    .replace(removeRegex, " ")
+    .replace(removeRegex, " ")
+    .replace(removeRegex, " ")
+    .replace(removeRegex, " ")
+    .replace(removeRegex, " ")
+    .split(/\s+/);
+
+  //let strongTitle = weakTitle.replace(dangerPhrases, " ");
+  // let strongTitle = weakTitle
+  //   .replace(removeRegex, " ")
+  //   .replace(removeRegex, " ")
+  //   .replace(removeRegex, " ");
+  return [...new Set(strongTitle)].join(" ").trim();
+}
+
+function sanction(title) {
+  const dangerPhrases = /– live|- video|– video|– in pictures|– video|Morning digest:/gi;
+  if (title.search(dangerPhrases) !== -1) return false;
+  return true;
+}
+
+function getMeta(linkURL) {
   return new Promise((resolve, reject) => {
     metafetch.fetch(
-      dURL,
+      linkURL,
       {
         flags: {
           images: false,
@@ -33,40 +77,31 @@ function getMeta(dURL) {
           headers: false,
           siteName: false,
           type: false,
+          meta: false,
           uri: false
         }
       },
       (err, meta) => {
-        resolve({
-          ampURL: meta.ampURL,
-          description: meta.description,
-          image: meta.image
-        });
+        //fs.writeFileSync(path.join(__dirname, "./try.json"), JSON.stringify(meta))
+        if (err == null) {
+          resolve({
+            ampURL: meta.ampURL,
+            description: meta.description,
+            image: meta.image
+          });
+        } else {
+          resolve({
+            ampURL: undefined,
+            description: undefined,
+            image: undefined
+          });
+          console.log(`${err} 👈 error in meta. Resolved undefined`);
+        }
       }
     ); // end of fetch
   }); // end of return new promise
-}
+} // end of function getMeta
 
-let parser = new Parser();
-
-// --------------- functions ----------
-function stronger(weakTitle) {
-  //const dangerPhrases = /- BBC News|– live|- video|– in pictures|– video|– as it happened|Morning digest:|What you need to know/gi;
-  const removeRegex = / on | in | as | by | into | s | its | a | an | the | your | will | her | so | with | for | we | at | to | be | if | that | of | are | and | is |:|’s|-|–|, |‘|\s+|'|’|“|”/gi;
-
-  //let strongTitle = weakTitle.replace(dangerPhrases, " ");
-  let strongTitle = weakTitle
-    .replace(removeRegex, " ")
-    .replace(removeRegex, " ")
-    .replace(removeRegex, " ");
-  return strongTitle.toLowerCase();
-}
-
-function sanction(title) {
-  const dangerPhrases = /– live|- video|– in pictures|– video|Morning digest:/gi;
-  if (title.search(dangerPhrases) !== -1) return false;
-  return true;
-}
 function liason(page) {
   console.log("in liason");
 
@@ -87,6 +122,19 @@ function liason(page) {
       let matches = t1.filter(v => -1 !== t2.indexOf(v));
 
       if (matches.length > 2) {
+        console.log(
+          page[i].title,
+          "- -",
+          page[i].strongTitle,
+          "- \n -",
+          page[j].title,
+          "- -",
+          page[j].strongTitle,
+          "- -",
+          matches,
+          " \n\n"
+        );
+
         if (page[j].matchid != 0 && page[i].matchid == 0) {
           page[i].matchid = page[j].matchid;
         } else if (page[i].matchid == 0 && page[j].matchid == 0) {
@@ -103,10 +151,9 @@ function liason(page) {
   return page;
 }
 
-function getTimePassedInMinutes(date)
-{
-  return (moment(moment().format()) - moment(word["date"])) / (1000 * 60);
-}
+// function getTimePassedInMinutes(date) {
+//   return (moment(moment().format()) - moment(date)) / (1000 * 60);
+// }
 function removeOldItems(oldPage) {
   let newPage = oldPage.filter(word => {
     let hoursPased =
@@ -135,11 +182,17 @@ function selectData(fullData, offSting) {
 
   fullData = JSON.parse(fullData);
 
-  let likedData = fullData.filter(word => {
-    let splitTitle = word["strongTitle"].toLowerCase().split(" ");
-    if (splitTitle.filter(v => -1 !== offArray.indexOf(v)).length == 0)
-      return true;
-  });
+  let likedData = fullData
+    .filter(word => {
+      let splitTitle = word["strongTitle"].toLowerCase().split(" ");
+      if (splitTitle.filter(v => -1 !== offArray.indexOf(v)).length == 0)
+        return true;
+    })
+    .map(w => {
+      w["minutesPassed"] = getTimePassedInMinutes(w.date);
+      return w;
+    })
+    .sort((a, b) => a["minutesPassed"] - b["minutesPassed"]);
 
   return likedData;
 }
@@ -166,10 +219,10 @@ async function refresh(info, data) {
       if (exists.length == 0 && sanctioned == true) {
         //console.log("new news title is", word.title, " from ", source.name);
         let metaData = await getMeta(word["link"]);
-        
+
         let newWord = {
           title: word.title,
-          strongTitle: stronger(word.title),
+          strongTitle: stronger(word.title, metaData.description),
           url: word.link,
           ampURL: metaData.ampURL,
           description: metaData.description,
@@ -196,6 +249,7 @@ app.get("/", (q, a) => {
   a.send("HELLO!!!");
 });
 
+//app.get();
 app.get("/update", (q, a) => {
   // This function gets called every 30 minutes by  https://cron-job.org
   a.send("K");
@@ -231,12 +285,13 @@ app.get("/show", (q, a) => {
 }); // end of GET show
 
 app.listen(2345, () => {
-  console.log("🚀 @ port 2345");
+  console.log("👂 @ port 2345");
 });
 
 /*  
 This exists for delpoying in glitch.com
 Check it out @ glitch => https://glitch.com/~lw-back
+-✂----------
 
 const listener = app.listen(process.env.PORT, function() {
     console.log('Your app is listening on port ' + listener.address().port);
