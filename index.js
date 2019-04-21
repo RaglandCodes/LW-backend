@@ -37,11 +37,14 @@ let parser = new Parser();
 // --------------- functions ----------
 function stronger(weakTitle, description) {
   //const dangerPhrases = /- BBC News|– live|- video|– in pictures|– video|– as it happened|Morning digest:|What you need to know/gi;
-  const removeRegex = / on | his | in | as | by | into |’s| how | they | say | said | its | from | but | it | a | an | the | why | your | will | her | he | have | has | so | with | for | we | at | to | be | if | that | of | are | and | is |:|’s|-|–|, |‘|\s+|'|’|“|”/gi;
+  const removeFirst = /’s|’s/gi;
+  //throught???
+  const removeRegex = / on | his | was | in | this | as | by | after | into | how | they | say | says | said | its | from | but | it | would | which | a | an | the | why | your | will | her | he | have | has | so | with | for | we | at | to | be | if | that | than | of | are | and | is |:|-|–|—|, |‘|\s+|'|’|“|”/gi;
 
   let strongTitle = weakTitle
     .concat(" ", description)
     .toLowerCase()
+    .replace(removeFirst, " ")
     .replace(removeRegex, " ")
     .replace(removeRegex, " ")
     .replace(removeRegex, " ")
