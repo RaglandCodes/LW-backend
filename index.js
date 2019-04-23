@@ -10,7 +10,7 @@ const nanoid = require("nanoid");
 //const graphql = require("graphql");
 const graphqlHTTP = require("express-graphql");
 const schema = require("./schema");
-
+require('dotenv').config()
 // --------------- initialisations ----------
 const app = express();
 app.use(function(req, res, next) {
@@ -31,6 +31,8 @@ app.use(
 );
 
 //getMeta("https://www.bbc.co.uk/news/world-africa-47913338");
+
+console.log(process.env.YOUTUBE_API_KEY);
 
 let parser = new Parser();
 
