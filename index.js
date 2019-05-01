@@ -4,13 +4,15 @@ const express = require("express");
 const fs = require("fs");
 const moment = require("moment");
 const path = require("path");
+const request = require("request");
+const axios = require("axios");
 const Parser = require("rss-parser");
 const metafetch = require("metafetch");
 const nanoid = require("nanoid");
 //const graphql = require("graphql");
 const graphqlHTTP = require("express-graphql");
 const schema = require("./schema");
-require('dotenv').config()
+require("dotenv").config();
 // --------------- initialisations ----------
 const app = express();
 app.use(function(req, res, next) {
@@ -32,21 +34,43 @@ app.use(
 
 //getMeta("https://www.bbc.co.uk/news/world-africa-47913338");
 
-console.log(process.env.YOUTUBE_API_KEY);
-
 let parser = new Parser();
 
+function tryRegexMeta() {
+  let URL =
+    "https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece?homepage=true";
+  request(URL, function(error, response, body) {
+    let tt = body;
+    getAmpRegex
+    let getAmpRegex = /<link[\s+]+rel=['"]amphtml['"][\s+]href=["'](.*)">/gi;
+    tt = body.match(getAmpRegex);
+    console.log(tt);
+
+    tt = tt[0].replace(getAmpRegex, "$1");
+    console.log(tt);
+
+    fs.writeFileSync(path.join(__dirname, "./reg.txt"), body);
+    if (error) {
+      console.log(`${error} 👈 error in requestt`);
+    }
+    //console.log(body);
+  });
+} // end of tryRegexMeta
+
+//tryRegexMeta();
 // --------------- functions ----------
 function stronger(weakTitle, description) {
   //const dangerPhrases = /- BBC News|– live|- video|– in pictures|– video|– as it happened|Morning digest:|What you need to know/gi;
-  const removeFirst = /’s|’s/gi;
+  const removeFirst = /’s|’s|'s|’t|’t|'t/gi;
   //throught???
-  const removeRegex = / on | his | was | in | this | as | by | after | into | how | they | say | says | said | its | from | but | it | would | which | a | an | the | why | your | will | her | he | have | has | so | with | for | we | at | to | be | if | that | than | of | are | and | is |:|-|–|—|, |‘|\s+|'|’|“|”/gi;
-
+  const removeRegex = / on | his | you | very | what | can | news | over | country | about | was | in | this | as | by | after | into | how | they | say | says | said | its | from | but | it | would | which | a | an | the | why | your | will | her | he | have | has | so | with | for | we | at | to | be | if | that | than | of | are | and | is |:|-|–|—|, |‘|\s+|'|’|“|”/gi;
+  const publishersNamesRegex = /BBC/gi;
   let strongTitle = weakTitle
     .concat(" ", description)
     .toLowerCase()
     .replace(removeFirst, " ")
+    .replace(removeFirst, " ")
+    .replace(publishersNamesRegex, " ")
     .replace(removeRegex, " ")
     .replace(removeRegex, " ")
     .replace(removeRegex, " ")
@@ -54,17 +78,16 @@ function stronger(weakTitle, description) {
     .replace(removeRegex, " ")
     .split(/\s+/);
 
-  //let strongTitle = weakTitle.replace(dangerPhrases, " ");
-  // let strongTitle = weakTitle
-  //   .replace(removeRegex, " ")
-  //   .replace(removeRegex, " ")
-  //   .replace(removeRegex, " ");
   return [...new Set(strongTitle)].join(" ").trim();
 }
 
 function sanction(title) {
-  const dangerPhrases = /– live|- video|– video|– in pictures|– video|Morning digest:/gi;
-  if (title.search(dangerPhrases) !== -1) return false;
+  const dangerPhrases = /– live|- video|– video|– in pictures|in pictures|– video|Morning digest:/gi;
+  if (title.search(dangerPhrases) !== -1) {
+    console.log(`${title} 👈 will not be published`);
+
+    return false;
+  }
   return true;
 }
 
@@ -129,13 +152,13 @@ function liason(page) {
       if (matches.length > 2) {
         console.log(
           page[i].title,
-          "- -",
+          "===",
           page[i].strongTitle,
-          "- \n -",
+          "= \n =",
           page[j].title,
-          "- -",
+          "===",
           page[j].strongTitle,
-          "- -",
+          "===",
           matches,
           " \n\n"
         );
@@ -156,9 +179,9 @@ function liason(page) {
   return page;
 }
 
-// function getTimePassedInMinutes(date) {
-//   return (moment(moment().format()) - moment(date)) / (1000 * 60);
-// }
+function getTimePassedInMinutes(date) {
+  return (moment(moment().format()) - moment(date)) / (1000 * 60);
+}
 function removeOldItems(oldPage) {
   let newPage = oldPage.filter(word => {
     let hoursPased =
@@ -170,20 +193,20 @@ function removeOldItems(oldPage) {
     else if (hoursPased < 24) return true;
     else console.log(`!!!⚠!!${word.matchid}   ${hoursPased}   ${word.title}`);
   });
-
+  // TODO remove unmatched video items
   console.log(`old page is this big => ${oldPage.length}`);
   console.log(`new page is this big => ${newPage.length}`);
   return newPage;
 }
 
-function addInformation(page) {} // end of function addInformation
+//function addInformation(page) {} // end of function addInformation
 
-function selectData(fullData, offSting) {
-  if (offSting == undefined) {
+function selectData(fullData, offString) {
+  if (offString == undefined) {
     return fullData;
   }
 
-  let offArray = offSting.toLowerCase().split("andand");
+  let offArray = offString.toLowerCase().split("andand");
 
   fullData = JSON.parse(fullData);
 
@@ -201,10 +224,69 @@ function selectData(fullData, offSting) {
 
   return likedData;
 }
+
+function addVideos(textData, info) {
+  const topic = "world"; // for now
+  info = JSON.parse(info);
+
+  return new Promise((resolve, reject) => {
+    let axiosVideoqueries = info
+      .filter(
+        source => source["type"] === "video" && source["domain"] === topic
+      )
+      .map(source =>
+        axios.get(
+          `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=10&playlistId=${
+            source.id
+          }&key=${process.env.YOUTUBE_API_KEY}`
+        )
+      );
+    //console.log(`${JSON.stringify(videoSources)} 👈 videoSources`);
+    axios
+      .all(axiosVideoqueries)
+      .then(
+        axios.spread((...results) => {
+          for (const result of results) {
+            for (const item of result.data.items) {
+              if (
+                textData.filter(
+                  word => word["videoID"] == item.snippet.resourceId.videoId
+                ).length !== 0
+              )
+                continue;
+
+              let newWord = {
+                title: item.snippet.title,
+                strongTitle: stronger(
+                  item.snippet.title,
+                  item.snippet.description
+                ),
+                videoID: item.snippet.resourceId.videoId,
+                type: "video",
+                publisher: item.snippet.channelTitle,
+                date: item.snippet.publishedAt,
+                uid: nanoid(4),
+                matchid: 0
+              };
+              console.log(JSON.stringify(newWord));
+
+              textData.push(newWord);
+            } // end of for item loop
+          }
+        })
+      )
+      .then(a => {
+        resolve(textData);
+      })
+
+      .catch(error => console.log(`axios YouTube API error ${error}`));
+  }); // end of return new Promise
+} // end of function addVideos
+
 async function refresh(info, data) {
   // function to add the new news stories to the database
   data = JSON.parse(data);
-  info = JSON.parse(info);
+  info = JSON.parse(info).filter(word => word["type"] === "text");
 
   console.log(`${data.length} <== old data.length`);
 
@@ -221,7 +303,12 @@ async function refresh(info, data) {
       //TODO use promises . all
 
       let sanctioned = sanction(word["title"]);
-      if (exists.length == 0 && sanctioned == true) {
+
+      if (
+        exists.length == 0 &&
+        sanctioned == true &&
+        getTimePassedInMinutes(word.pubDate) < 4321
+      ) {
         //console.log("new news title is", word.title, " from ", source.name);
         let metaData = await getMeta(word["link"]);
 
@@ -261,13 +348,16 @@ app.get("/update", (q, a) => {
   console.time("Update");
   const worldInfo = fs.readFileSync(path.join(__dirname, "./worldInfo.json"));
   // TODO make that ⬆ const
+  //console.log(`${typeof(worldInfo)} 👈 winfo`);
 
   let worldData = fs.readFileSync(path.join(__dirname, "./fullWorld.json"));
 
   refresh(worldInfo, worldData)
     //.then(sparsePage => addInformation(sparsePage))
+    .then(textData => addVideos(textData, worldInfo))
     .then(newData => liason(newData))
     .then(liasonedData => removeOldItems(liasonedData))
+
     .then(newData => {
       fs.writeFileSync(
         path.join(__dirname, "./fullWorld.json"),
@@ -291,6 +381,7 @@ app.get("/show", (q, a) => {
 
 app.listen(2345, () => {
   console.log("👂 @ port 2345");
+  
 });
 
 /*  

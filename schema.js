@@ -6,7 +6,7 @@ const {
   GraphQLObjectType,
   GraphQLString,
   GraphQLSchema,
-  GraphQLBoolean,
+//  GraphQLBoolean,
   GraphQLList
 } = graphql;
 
@@ -39,7 +39,7 @@ const RootQuery = new GraphQLObjectType({
       type: new GraphQLList(wordType),
       args: { offPhrases: { type: GraphQLList(GraphQLString) } },
       resolve(parent, args) {
-        console.log(`${JSON.stringify(args)} 👈 Grapgql args    `);
+        console.log(`${JSON.stringify(args)} 👈 Grapgql args`);
         console.log(args.offPhrases);
         let fullData = JSON.parse(
           fs.readFileSync(path.join(__dirname, "./fullWorld.json"))
@@ -52,12 +52,14 @@ const RootQuery = new GraphQLObjectType({
                 .length == 0
             )
               return true;
+              //TODO remove return true and if
           });
         } // end of if (args.offPhrases !== undefined)
 
         fullData = fullData
           .map(w => {
             w["minutesPassed"] = getTimePassedInMinutes(w.date);
+            //TODO use spread operator
             return w;
           })
           .sort((a, b) => a["minutesPassed"] - b["minutesPassed"]);

@@ -1,0 +1,5630 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>
+Pragya says pendency of trial does not bar her from contesting election - The Hindu
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="title" content="Pragya says pendency of trial does not bar her from contesting election"/>
+<meta name="atdlayout" content="articlepage"/>
+<meta name="description" content="BJP candidate in the Bhopal Lok Sabha constituency and main accused in the 2008 Malegaon blast case Pragya Singh Thakur told a National Investigation Agency (NIA) court on Tuesday that pendency of the"/>
+<meta name="robots" content="index, follow"/>
+<meta name="fragment" content="!">
+<meta name="keywords" content="Malegaon blast case,Sadhvi Pragya,Pragya Singh Thakur,saffron terror"/>
+<meta name="news_keywords" content="Malegaon blast case,Sadhvi Pragya,Pragya Singh Thakur,saffron terror"/>
+<meta name="publish-date" content="2019-04-23T15:36:07+05:30"/>
+<meta name="created-date" content="2019-04-23T15:36:07+05:30"/>	<meta name="modified-date" content="2019-04-23T15:53:34+05:30"/>
+<meta name="twitter:creator" content="Sonam Saigal">
+<meta name="twitter:title" content="Pragya says pendency of trial does not bar her from contesting election">
+<meta name="twitter:description" content="BJP candidate in the Bhopal Lok Sabha constituency and main accused in the 2008 Malegaon blast case Pragya Singh Thakur told a National Investigation Agency (NIA) court on Tuesday that pendency of the">
+<meta name="twitter:image" content="https://www.thehindu.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/ALTERNATES/LANDSCAPE_615/IN25PRAGYA">
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@The_Hindu"/>
+<meta name="twitter:domain" content="thehindu.com"/>
+<meta name="twitter:app:name:ipad" content="The Hindu"/>
+<meta name="twitter:app:name:googleplay" content="The Hindu (Official App)"/>
+<meta name="twitter:app:id:googleplay" content="com.mobstac.thehindu"/>
+<meta name="twitter:app:name:iphone" content="The Hindu for iPhone"/>
+<meta name="twitter:app:id:iphone" content="771672321"/>
+<meta name="apple-itunes-app" content="app-id=584786636"/>
+<meta name="google-play-app" content="app-id=com.mobstac.thehindu"/>
+<meta property="fb:app_id" content="137450626398044"/>
+<meta property="fb:pages" content="163974433696568" />
+<meta property="og:site_name" content="The Hindu"/>
+<meta property="og:url" content="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Pragya says pendency of trial does not bar her from contesting election" />
+<meta property="og:description" content="BJP candidate in the Bhopal Lok Sabha constituency and main accused in the 2008 Malegaon blast case Pragya Singh Thakur told a National Investigation Agency (NIA) court on Tuesday that pendency of the" />
+<meta property="og:image" content="https://www.thehindu.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/ALTERNATES/LANDSCAPE_615/IN25PRAGYA" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:author" content="Sonam Saigal"/>
+<meta property="article:tag" content="Malegaon blast case" />
+<meta property="article:tag" content="Sadhvi Pragya" />
+<meta property="article:tag" content="Pragya Singh Thakur" />
+<meta property="article:tag" content="saffron terror" />
+<meta property="article:section" content="Other States"/>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece"
+},
+"headline": "Pragya says pendency of trial does not bar her from contesting election",
+"description": "BJP candidate in the Bhopal Lok Sabha constituency and main accused in the 2008 Malegaon blast case Pragya Singh Thakur told a National Investigation Agency (NIA) court on Tuesday that pendency of the",
+"keywords":"Malegaon blast case,Sadhvi Pragya,Pragya Singh Thakur,saffron terror",
+"datePublished": "2019-04-23T15:36:07+05:30",
+"dateModified": "2019-04-23T15:53:34+05:30",
+"author": {
+"@type": "Person",
+"name": "Sonam Saigal"
+},
+"image":{
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "300",
+"height": "187",
+"url":"https://www.thehindu.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/ALTERNATES/LANDSCAPE_300/IN25PRAGYA"
+},
+"publisher":{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"logo": {
+"@context": "https://schema.org",
+"@type": "ImageObject",
+"width": "600",
+"height": "60",
+"url": "https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png"
+},
+"url":"https://www.thehindu.com/"
+}
+}
+</script>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "The Hindu",
+"url": "https://www.thehindu.com/",
+"logo":"https://www.thehindu.com/static/theme/default/base/img/thfooterlogo.png",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Kasturi Building, Anna Salai, 859-860, Mount Road",
+"addressLocality": "Chennai",
+"addressRegion": "Tamil Nadu",
+"postalCode": "600002",
+"Telephone": "+91-44-2857 6300"
+},
+"sameAs": [
+"https://www.facebook.com/thehindu",
+"https://twitter.com/The_Hindu",
+"https://instagram.com/the_hindu/?ref=badge",
+"https://www.youtube.com/user/The1878Hindu"
+]
+}
+</script>
+<link href="//www.googletagservices.com" rel="dns-prefetch">
+<link href="//www.googletagservices.com" rel="preconnect">
+<link href="//securepubads.g.doubleclick.net" rel="dns-prefetch">
+<link href="//securepubads.g.doubleclick.net" rel="preconnect">
+<link href="//pubads.g.doubleclick.net" rel="dns-prefetch">
+<link href="//pubads.g.doubleclick.net" rel="preconnect">
+<link href="//sb.scorecardresearch.com" rel="dns-prefetch">
+<link href="//www.google-analytics.com" rel="dns-prefetch">
+<link href="//tpc.googlesyndication.com" rel="dns-prefetch">
+<link href="//pagead2.googlesyndication.com" rel="dns-prefetch">
+<link rel="prefetch" href="https://www.googletagservices.com/tag/js/gpt.js" as="script">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.thehindu.com/thfavicon.ico"/>
+<link rel="icon" type="image/ico" href="https://www.thehindu.com/thfavicon.ico"/>
+<link rel="apple-touch-icon" href="https://www.thehindu.com/thapple-touch-icon.png"/>
+<link rel="apple-touch-icon-precomposed" href="https://www.thehindu.com/thapple-touch-icon-precomposed.png"/>
+<link rel="amphtml" href="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece/amp/">
+<link rel="canonical" href="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece"/> <link rel="manifest" href="https://www.thehindu.com/manifest.json">
+<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,600" rel="stylesheet">
+<link href="https://th.thgim.com/static/theme/default/base/css/default-base.83560249c4c70d93659525612ea281c7.min.css" rel="stylesheet"> <script>(function (w, d, u) {
+w.readyQ = [];
+w.bindReadyQ = [];
+function p(x, y) {
+if (x == "ready") {
+w.bindReadyQ.push(y);
+} else {
+w.readyQ.push(x);
+}
+};
+var a = {ready: p, bind: p};
+w.$ = w.jQuery = function (f) {
+if (f === d || f === u) {
+return a
+} else {
+p(f)
+}
+}
+})(window, document)
+</script>
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"audioPlayer":"mediaelement","media.jwplayer.options.primary":"flash","media.jwplayer.ga.enabled":"true","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","videoPlayer":"flowplayer","media.jwplayer.sharing.enabled":"true","media.jwplayer.hls.enabled":"true"};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "https://www.thehindu.com/";
+/* Client-side device detection */
+var WFClientTypeDef = {"xlarge":"(min-width: 1600px)","large":"(min-width: 1024px) and (max-width: 1599px)","small":"(max-width: 767px)","medium":"(min-width: 768px) and (max-width: 1023px)"};
+var imageSizes = [80, 100, 115, 155, 170, 215, 230, 240, 300, 320, 355, 435, 460, 480, 615, 660, 730, 810, 960, 1080, 1140, 1200];
+var isMobile=false;
+var isTablet=false;
+var isDesktop=false;
+var isLargeDesktop=false;
+var DevIdf = {
+isMobile: false,
+isTablet: false,
+isDesktop: false,
+isLargeDesktop:false
+};
+for ( var type in WFClientTypeDef) {
+if (window.matchMedia(WFClientTypeDef[type]).matches) {
+switch (type) {
+case "xlarge":
+isLargeDesktop=true; DevIdf.isLargeDesktop=true;
+break;
+case "large":
+isDesktop=true;
+DevIdf.isDesktop=true;
+break;
+case "medium":
+isTablet=true; DevIdf.isTablet=true;	break;
+case "small":
+isMobile=true;
+DevIdf.isMobile=true;
+break;
+}
+break;
+}
+}
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+var isUser = true;
+var UserStatus = "anonymous";
+function isNonSubcribedUser(){
+return isUser;
+}
+function UserCurrentStatus(){
+if(isUserDetails != "" && !isNonSubcribedUser()){
+UserStatus = "paid";
+}
+else if (isUserDetails != "" && isNonSubcribedUser()){
+UserStatus = "registered";
+}
+return UserStatus;
+}
+function readCookie(name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++) {
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+}
+return null;
+}
+function deleteCookie(name) {
+createCookiewithdomain(name,null,-1);
+}
+function createCookiewithdomain(name,value,days) {
+if (days) {
+var date = new Date();
+date.setTime(date.getTime()+(days*24*60*60*1000));
+var expires = "; expires="+date.toGMTString();
+}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; domain="+document.location.host.match(/\.[.\w]*/)+";path=/";
+}
+function getUrlParameter( name, url ) {
+if (!url) url = location.href;
+name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+var regexS = "[\\?&]"+name+"=([^&#]*)";
+var regex = new RegExp(regexS,"i");
+var results = regex.exec( url );
+return results == null ? null : results[1];
+}
+function getHostName(){
+return window.location.hostname;
+} function loadAsyncURL(url){ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+s.type = "text/javascript";
+s.async = true; s.src = url; el.parentNode.insertBefore(s, el);
+}
+function loadSyncURL(url){ var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+s.type = "text/javascript";
+s.src = url; el.parentNode.insertBefore(s, el);
+}
+var isUserDetails = "";
+var deviceId = guidId();
+var siteId = "TRC-J3AFTO";
+var userId = "";
+function guidId() {
+var nav = window.navigator;
+var screen = window.screen;
+// var guid = nav.mimeTypes.length;
+var guid = nav.userAgent.replace(/\D+/g, '');
+// guid += nav.plugins.length;
+guid += screen.height || '';
+guid += screen.width || '';
+guid += screen.pixelDepth || '';
+document.cookie = "browserDeviceId="+guid;
+return guid;
+};
+if (!String.prototype.includes) {
+String.prototype.includes = function(search, start) {
+if (typeof start !== 'number') {
+start = 0;
+}
+if (start + search.length > this.length) {
+return false;
+} else {
+return this.indexOf(search, start) !== -1;
+}
+};
+}
+function taiApi(url){	var params = {"deviceId":deviceId, "siteId":siteId};
+if(url.includes("logout")){ params = {"userId":userId,"deviceId":deviceId, "siteId":siteId};}
+if (window.XMLHttpRequest)
+{
+// code for IE7+, Firefox, Chrome, Opera, Safari
+xhr =new XMLHttpRequest();
+}
+else
+{
+// code for IE6, IE5
+xhr =new ActiveXObject("Microsoft.XMLHTTP");
+}
+xhr.open('POST', url, false);
+xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+xhr.setRequestHeader('Content-type', 'application/json; charset=utf-8');
+xhr.withCredentials = true;
+xhr.crossDomain = true;
+xhr.onreadystatechange = function()
+{
+var status = xhr.status;
+if (xhr.readyState == 4 && xhr.status == 200)
+{
+var res = JSON.parse(xhr.response); if(res.status == "success" && url.includes("userInfo")){
+userId = res.userId;	if (userId != "") {
+isUserDetails = res; if(res.userPlanList.length > 0){
+for(var i =0; i < res.userPlanList.length ; i++){
+if(res.userPlanList[i].status == "success" && res.userPlanList[i].isActive == "1"){
+isUser = false;
+return false;
+}
+}
+}
+}
+else{
+eraseCookie("thuser");
+}
+}else if(url.includes("logout")){
+eraseCookie("thuser")
+window.location.reload();
+}
+}	};
+xhr.send(JSON.stringify(params));
+}
+if(readCookie("thuser")){
+taiApi("https://tai.thehindu.com/taiauth/userInfo/HINDU");	}
+var advtFillerFallback = "";
+var ReccoFillerFallback = "";
+function crossdomainXHR(curl,callbackfn){
+var url =curl;
+if (window.XMLHttpRequest)
+{
+// code for IE7+, Firefox, Chrome, Opera, Safari
+xhr =new XMLHttpRequest();
+}
+else
+{
+// code for IE6, IE5
+xhr =new ActiveXObject("Microsoft.XMLHTTP");
+}
+xhr.open('GET', url, false);
+xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+xhr.setRequestHeader('Content-type', 'application/json; charset=utf-8');
+xhr.withCredentials = true;
+xhr.crossDomain = true;
+xhr.onreadystatechange = function()
+{
+var status = xhr.status;
+if (xhr.readyState == 4 && xhr.status == 200)
+{
+callbackfn(xhr.response); }	};
+xhr.send();
+}
+</script>
+<script type="text/javascript">
+(function() {
+/** CONFIGURATION START **/
+var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+_sf_async_config.uid = 65925;
+_sf_async_config.domain = getHostName(); //CHANGE THIS TO THE ROOT DOMAIN
+_sf_async_config.flickerControl = false;
+_sf_async_config.useCanonical = true;
+_sf_async_config.useCanonicalDomain = true;
+_sf_async_config.sections = 'Other States'; // CHANGE THIS TO YOUR SECTION NAME(s)
+_sf_async_config.authors = 'Sonam Saigal'; // CHANGE THIS TO YOUR AUTHOR NAME(s)
+var _cbq = window._cbq = (window._cbq || []);
+if(UserCurrentStatus() == "paid"){
+_cbq.push(['_acct', 'paid']);	}
+else if (UserCurrentStatus() == "registered") {
+_cbq.push(['_acct', 'lgdin']);	}
+else {
+_cbq.push(['_acct', 'anon']);	}
+/** CONFIGURATION END **/
+function loadChartbeat() {
+var e = document.createElement('script');
+var n = document.getElementsByTagName('script')[0];
+e.type = 'text/javascript';
+e.async = true;
+e.src = '//static.chartbeat.com/js/chartbeat.js';;
+n.parentNode.insertBefore(e, n);
+}
+loadChartbeat();
+})();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<!--[if lt IE 9]>
+<script src="https://th.thgim.com/static/js/html5shiv.js"></script>
+<script src="https://th.thgim.com/static/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-10158580-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript"> var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "11398210" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();</script><noscript> <img src="https://sb.scorecardresearch.com/p?c1=2&c2=123456&cv=2.0&cj=1" /></noscript>
+<script type="text/javascript">	function isDeviceEnabled(skipOnDeviceValue){	if(skipOnDeviceValue.indexOf("large") > -1 && (DevIdf.isDesktop || DevIdf.isLargeDesktop)){return false;}	if(skipOnDeviceValue.indexOf("medium") > -1 && DevIdf.isTablet){return false;}	if(skipOnDeviceValue.indexOf("small") > -1 && DevIdf.isMobile){return false;}	return true;	}
+function isIE() {
+var sAgent = window.navigator.userAgent;
+var Idx = sAgent.indexOf("MSIE"); if (Idx > 0) return true;
+else if (!!navigator.userAgent.match(/Trident\/7\./)) return true;
+else
+return false; }
+var infiniteScroll = false;
+</script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+googletag.cmd.push(function() {
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_Overaly_1x1', [1, 1], 'div-gpt-ad-1527225526136-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_Overaly_1x1', [1, 1], 'div-gpt-ad-1527169441053-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_HP_LB', [[970, 90], [728, 90]], 'div-gpt-ad-1525929888153-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_HP_CPD', [300, 250], 'div-gpt-ad-1521709628297-1').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_HP_RT', [300, 250], 'div-gpt-ad-1521709628297-2').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_HP_300x100_1', [300, 100], 'div-gpt-ad-1521709628297-4').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_HP_300x100_2', [300, 100], 'div-gpt-ad-1521709628297-5').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_HP_BTF01', [300, 250], 'div-gpt-ad-1521709628297-7').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_HP_BTF02', [300, 250], 'div-gpt-ad-1521709628297-8').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_HP_RB', [300, 250], 'div-gpt-ad-1521709628297-6').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_Text_640x65', [640, 65], 'div-gpt-ad-1525336073032-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_ROS_BTF03', [[300, 250], [336, 280]], 'div-gpt-ad-1532934634309-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_AT_Bottom02', [[300, 100], [300, 250], [336, 280], [320, 50]], 'div-gpt-ad-1532934750977-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_Interstitial', [1, 1], 'div-gpt-ad-1522819933630-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_AT_TOP', [320, 50], 'div-gpt-ad-1518418788389-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_AT_Middle', [[336, 280], [300, 250]], 'div-gpt-ad-1518418788389-1').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_AT_Bottom', [[336, 280], [300, 250]], 'div-gpt-ad-1518418788389-2').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_AT_Footer', [[300, 600], [300, 250], [320, 50], [336, 280]], 'div-gpt-ad-1518418788389-3').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[large, medium]')) {
+googletag.defineSlot('/22390678/Hindu_WAP_Inarticle_1x1', [1, 1], 'div-gpt-ad-1531980463264-0').addService(googletag.pubads());
+}
+if(isDeviceEnabled('[medium, small]')) {
+googletag.defineSlot('/22390678/Hindu_Desktop_Inarticle_1x1', [1, 1], 'div-gpt-ad-1552914402102-0').addService(googletag.pubads());
+}
+googletag.pubads().enableSingleRequest();
+googletag.pubads().setTargeting('Section', ['News']);
+googletag.pubads().setTargeting('articleid', ['26920453']);
+googletag.pubads().enableLazyLoad();
+googletag.pubads().disableInitialLoad();
+googletag.enableServices();
+});
+</script>
+<script>
+if(isNonSubcribedUser()){ loadAsyncURL("https://go.automatad.com/geo/EwrTRc/afihbs.js"); }
+</script>
+<script>
+if(isNonSubcribedUser() && (DevIdf.isDesktop || DevIdf.isLargeDesktop)){ loadAsyncURL("https://saxp.zedo.com/sclient/tt3/fmos.js"); }
+</script>
+<script>
+var zmt_mtag;
+function zd_get_placements(){
+zmt_mtag = zmt_get_tag(2132,"283916");
+p283916_1 = zmt_mtag.zmt_get_placement("zt_283916_1", "283916", "1" , "87" , "16" , "1" ,"1", "1");
+zmt_mtag.zmt_set_async();
+zmt_mtag.zmt_load(zmt_mtag); } </script>
+<script type="text/javascript">
+if(isNonSubcribedUser()){
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto', tracking:'utm_source=taboola'});
+_taboola.push({article :'auto'});
+!function (e, f, u, i) {
+if (!document.getElementById(i)){
+e.async = 1;
+e.src = u;
+e.id = i;
+f.parentNode.insertBefore(e, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/thehindu-hindunews/loader.js',
+'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function')
+{window.performance.mark('tbl_ic');}
+}
+</script>
+<script type="text/javascript">
+if(isNonSubcribedUser()){
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+}
+</script>
+<!-- Taboola Pixel Code -->
+<script type='text/javascript'>
+$(function(){
+if(isNonSubcribedUser()){
+window._tfa = window._tfa || [];
+window._tfa.push({notify: 'event', name: 'page_view', id: 1179651});
+!function (t, f, a, x) {
+if (!document.getElementById(x)) {
+t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/unip/1179651/tfa.js',
+'tb_tfa_script');
+}
+});
+</script>
+<noscript>
+<img src='//trc.taboola.com/1179651/log/3/unip?en=page_view'
+width='0' height='0' style='display:none'/>
+</noscript>
+<!-- End of Taboola Pixel Code -->
+<meta name="msvalidate.01" content="00762243DAFA333A5A6D97CE4545BDB2" />
+<meta name="yandex-verification" content="ff4648e5089d361d" />
+<meta name="ahrefs-site-verification" content="6df5b97abf2ea60f2d4123265496b92b4faa009ceff5444e0b8482ebddd508d6">
+<script src="https://dm.thehindu.com/feeder/v2/js/segment.js" async></script>
+<meta name="branch:deeplink:show_journeys" content="true" />
+<div class="overlay-screen"></div>
+<script>
+$(document).ready(function () {
+$('div.tag-button').each(function() {
+var x = $(this).find("a").text() ;
+var url = $("a",this).attr('href');
+var isAdded = false;
+var newtab = "";
+if(DevIdf.isDesktop || DevIdf.isLargeDesktop){
+newtab ='target="_blank"';
+}
+$('div[id^="content-body"] > p:not(:has(*))').each(function() {
+if(!isAdded){
+var re = new RegExp("((^" +x+"|"+ x + ")[,. ()] *)","i");
+if($(this).html().match(re) !=null){
+$(this).html($(this).html().replace( re, '<a href="' + url+ '?utm=bodytag' +'"'+ newtab +' ><strong>$1</strong></a>'));
+isAdded=true;
+}
+}
+});
+});
+});
+</script>
+<script>
+$(function () {
+var close = true;
+$('.close').click(function(){
+close = false;
+$('#stickyfooterarticle').hide();
+});
+var w = $(window).width();
+var stickyfooterimg= false;
+var slideFotterStaus="down";
+if($('#stickyfooterarticle').length > 0){
+var withoutbodycontent =$('div[id^="content-body"]' ).length;
+if(!DevIdf.isMobile){
+$(window).scroll(function() {
+if(withoutbodycontent > 0){
+stickyfooterarticleheight =$('div[id^="content-body"]' ).offset().top + $('div[id^="content-body"]' ).height() - $(window).height();
+var scrollpos = $(window).scrollTop() | $("body").scrollTop();
+if(scrollpos > stickyfooterarticleheight && close && slideFotterStaus == "down"){
+if(w < 1200){
+$('.back-top').css("bottom", "175px");
+}
+$('#stickyfooterarticle').css("visibility", "visible");
+$('.entryBcg').hide();
+}else{ if(w < 1200){
+$('.back-top').css("bottom", "70px");
+}
+$('#stickyfooterarticle').css("visibility", "hidden");
+$('.entryBcg').show();
+}
+}
+else if ($(this).scrollTop() > 230){
+if(w < 1200){
+$('.back-top').css("bottom", "175px");
+}
+$('#stickyfooterarticle').css("visibility", "visible");
+$('.entryBcg').hide();
+}
+else{ if(w < 1200){
+$('.back-top').css("bottom", "70px");
+}
+$('#stickyfooterarticle').css("visibility", "hidden");
+$('.entryBcg').show();
+}
+});
+}
+else{ $('#stickyfooterarticle').css({"visibility":"visible","position":"relative"});
+}
+}
+});
+</script>
+<style>
+#audio_player {
+background: #133b5a;
+padding: 10px;
+margin-top: 10px;
+display: table;
+width: 100%;
+}
+.jp-audio, .jp-audio-stream{
+font-size: 16px;
+font-family: Verdana,Arial,sans-serif;
+line-height: 1.6;
+}
+.jp-interface {
+width: 100%;
+display: table;
+background: #231f20;
+padding: 5px;
+border-radius: 10px;
+}
+.jp-jplayer {
+background-color: #000;
+margin-right: 15px;
+float: left;
+}
+.jp-audio {
+width: calc(100% - 135px);
+float: left;
+}
+.audiologo {
+float: left;
+padding: 0 10px 10px 0;
+}
+.mobileaudiologo {display:none;}
+.audioplayerwrap {
+float: left;
+width: calc(100% - 90px);
+position: relative;
+}
+#seek-bar {
+width: calc(100% - 110px);
+height: 6px;
+display: inline-block;
+vertical-align: middle;
+border-radius: 15px;
+overflow: visible;
+background: #828282;
+cursor: pointer;
+}
+.jp-seek-bar {
+background: #828282;
+width: 100% !important;
+border-radius: 20px;
+height:100%
+}
+.jp-play-bar {
+background: #fff;
+position: relative;
+overflow: visible !important;
+border-radius: 20px;
+height:100%;
+width:0%;
+}
+.jp-play-bar:before ,.jp-volume-bar-value:before{
+content: "";
+width: 14px;
+height: 14px;
+position: absolute;
+border-radius: 100%;
+top: -4px;
+right: -10px;
+background: #2a5e88;
+overflow:visible !important;
+}
+#duarationtime{
+position: unset;
+float:right;
+clear:both;
+line-height: 32px;
+width: unset;
+}
+.jp-duration {
+float: left;
+display: inline;
+text-align: right;
+cursor: pointer;
+}
+.jp-current-time, .jp-duration {
+opacity: 0.8;
+font-family: Myriad Pro;
+font-size: 16px;
+text-align: right;
+color: rgba(255, 255, 255, 0.5);
+font-style: normal;
+float: left;
+}
+.timebar{
+float: left;
+display: inline;
+text-align: right;
+cursor: pointer;
+padding: 0 5px;
+opacity: 0.8;
+font-family: Myriad Pro;
+font-size: 16px;
+text-align: right;
+color: rgba(255, 255, 255, 0.5);
+}
+.jp-audio .jp-controls {
+padding: 0;
+display: inline-block;
+}
+.jp-toggles{display:none;}
+.audioplayicons a {
+position:relative;
+padding: 5px;
+font-size: 24px;
+line-height: 1.25;
+color: rgba(255, 255, 255, 0.3);
+}
+.audioplayicons a.jp-play{color:#fff;}
+.fa-step-backward:before {
+content: "\f048";
+}
+.fa-step-forward:before {
+content: "\f051";
+}
+.fa-forward:before {
+content: "\f04e";
+}
+.fa-backward:before {
+content: "\f04a";
+}
+.fa-volume-off:before {
+content: "\f026";
+}
+.fa-volume-down:before {
+content: "\f027";
+}
+.fa-share:before {
+content: "\f064";
+}
+.fa-code:before {
+content: "\f121";
+}
+.fa-copy:before, .fa-files-o:before {
+content: "\f0c5";
+}
+.fa-stop:before {
+content: "\f04d";
+}
+.jp-state-playing .jp-play .fa-play:before{
+content: "\f04c";
+}
+.audioplayicons {
+display: table;
+width: 100%;
+padding-top: 10px;
+border-top: 1px solid;
+clear: both;
+}
+#playlist{display:none;}
+.jp-volume-bar {
+background: #828282;
+width: calc(100% - 40px);
+height: 6px;
+border-radius: 20px;
+float: left;
+margin-top: 12px;
+cursor: pointer;
+overflow:visible;
+margin-right:10px;
+}
+.jp-volume-controls {
+position: unset;
+width: 35%;
+float: right;
+}
+.audioplayicons a.jp-mute {
+padding: 0 3px;
+width: 25px;
+display: inline-block;
+}
+.jp-state-muted .jp-mute .fa-volume-up:before{
+content: "\f026";
+}
+.jp-volume-bar-value{
+background: #fff;
+position: relative;
+height: 100%;
+border-radius: 20px;
+cursor: pointer;
+}
+.jp-title {
+color: #fff;
+}
+a#share {
+display: none;
+}
+#audiosharediv ul.audioshare {
+width: 100%;
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+#audiosharediv ul.audioshare li {
+display: inline-block;
+margin-right: 10px;
+}
+ul.audioshare li a {
+display: block;
+}
+ul.audioshare li a i {
+width: 45px;
+height: 45px;
+border: 1px solid;
+border-radius: 100%;
+padding: 13px;
+color: #fff;
+}
+ul.audioshare li .tw {
+background: #55acee;
+}
+ul.audioshare li .fb {
+background: #3b5998;
+}
+ul.audioshare li .wa {
+background: #43d854;
+}
+ul.audioshare li .mailaudio {
+background: #133b5a;
+}
+ul.audioshare li .redit{
+background: #828282;
+}
+ul.audioshare li .embedcode{
+background: #828282;
+}
+#audiosharediv{
+position: fixed;
+background: rgba(0, 0, 0, 0.5);
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: 9999999;display:none;
+}
+.audiosharewrapper{
+position: relative;
+margin: 30px auto;
+width: 310px;
+top: 40%;
+background: #fff;
+padding: 15px 0px 10px 10px;
+}
+.textcode{
+width: 100%;
+padding-right: 10px;
+margin-top: 15px;
+display: table;
+}
+.copycode{
+float: right;
+color: #fff;
+background-color: transparent;
+border: 1px solid #828282;
+background: #828282;
+}
+.copycode:hover {
+background: #828282;
+}
+a#share:after {
+content: "Share";
+position: absolute;
+top: 5px;
+left: 30px;
+font-size: 16px;
+}
+.textcode textarea {
+resize: vertical;
+width: 100%;
+margin-bottom:10px;
+}
+@media (max-width: 767px) and (min-width: 1px) {
+.jp-jplayer{ width: 80px !important;
+height: 80px !important;
+margin: 10px;
+}
+.jp-jplayer img{ width: 80px !important;
+height: 80px !important;object-fit:contain;
+}
+.jp-audio {
+width: 100%;
+float: none;
+}
+.audioplayerwrap {
+width: 100%;
+}
+.seekbar {
+padding: 5px;
+}
+.jp-title {
+margin-bottom: 5px;
+height: 85px;
+overflow: hidden;
+padding: 10px 10px 10px 0;
+position: relative;
+}
+.audioplayicons {
+width: calc(100% - 50px);
+border-top: none;
+clear: both;
+float: left;
+}
+#audio_player {
+padding: 0px;
+}
+.jp-interface {
+border-radius: 0;
+}
+.mobileaudiologo {
+padding: 5px;
+width: 50px;
+float: left;
+display:block;
+}
+.jp-volume-controls {
+display:none;
+}
+a#share:after {
+top: 7px;
+left: 35px;
+}
+.audiologo {
+padding: 10px 10px 10px 0;
+width: 70px;
+}
+.audioplayicons a {
+font-size: 20px;
+}
+h4.jp-title:after {
+content: '';
+position: absolute;
+display: block;
+width: 80%;
+height: 16px;
+bottom: 0;
+z-index: 1;
+background: -moz-linear-gradient(top,rgba(19,59,90,0) 0,rgba(19,59,90,1) 19%);
+background: -webkit-linear-gradient(top,rgba(19,59,90,0) 0,rgba(19,59,90,1) 19%);
+background: linear-gradient(to right,rgba(255,255,255,0) 0,rgb(19, 59, 90) 50%,rgb(19, 59, 90) 100%);
+right: 0;
+}
+}
+</style>
+<style type="text/css">
+.addblockersection .callout{
+width: 100%;
+padding: 10px;
+}
+li.dropdown.signinbtn:after, #mobilesignin:after {
+content: "" !important;
+}
+.Inarticle div{
+margin-bottom: 0;
+}
+.dfp-ad ~ .subs-promoted-story {
+width: 300px;
+height: 250px;
+margin: 0 auto 20px;
+clear:both;
+}
+/* New text -Start #main-menu>ul>li:nth-child(3){position:relative;}
+#main-menu>ul>li:nth-child(3):after {
+content: " New!";
+top: -8px;
+left: 37px;
+color: rgb(255, 0, 31);
+font-size: 10px;
+font-family: 'Fira Sans', sans-serif; font-weight:600;
+position: absolute;
+} .dfp-ad {
+float: left;
+}
+New text - End*/
+@media (max-width: 420px){
+body {
+overflow-x: hidden;
+overflow-y: scroll;
+}
+body>div.container-main {
+overflow-x: hidden;
+overflow-y: auto;
+}
+}
+/* Mydashboard-Start*/
+#mobilesignin li.dropdown:hover .dropdown-menu {
+display: block !important;
+}
+#mobilesignin .dropdown-menu:after {
+bottom: 100%;
+left: auto;
+right: 12%;
+border: solid transparent;
+content: " ";
+height: 0;
+width: 0;
+position: absolute !important;
+pointer-events: none;
+border-color: rgba(136,183,213,0);
+border-bottom-color: #fff;
+border-width: 8px;
+margin-left: -5px;
+}
+#mobilesignin .dropdown-menu{
+min-width:auto !important;
+right: 35px;
+padding: 0px 20px;
+}
+#mobilesignin .dropdown-menu {
+top: 38px;
+}
+#mobilesignin .dropdown-menu li {
+padding:5px;
+}
+#mobilesignin .dropdown-menu li a{
+display:block;
+}
+@media only screen and (max-width: 767px) and (min-width: 1px) {
+.author-bottom {padding: 20px 0 0px 6px;
+/*padding-left: 6px;*/
+position: relative;
+/*margin: 0px;*/
+width: 100%;
+border-top: 0px solid #d1ced2;
+}
+}
+@media( min-width : 480px) and (max-width:768px) {
+#mobilesignin .dropdown-menu{
+min-width:auto !important;
+right: 0px;
+padding: 0px 20px;
+}
+#mobilesignin .dropdown-menu:after {
+right: 0%;
+}
+}
+/* Mydashboard-End*/
+@media(max-width: 420px) {
+div[id^='content-body-'] .ng_header{
+width: 100%;
+}
+}
+.article-block-multiple .live-snippet-border{overflow: visible;}
+.dropdown {
+top: auto !important;
+}
+.microsite-sections {
+width: 87%;
+}
+.timebar {
+cursor: default;
+}
+.audioplayicons a:hover {
+color: #fff;
+}
+.jp-current-time, .jp-duration {
+cursor: default;
+}
+@media (max-width: 1599px){
+.article h2.special-article-heading{
+width: 600px !important;
+}
+}
+@media(max-width :1023px) and (min-width:768px){
+.article h2.special-article-heading{
+width: 670px !important;
+}
+}
+@media ( max-width : 1024px) and (min-width: 768px) {
+.jp-volume-controls {
+display: none;
+}
+button.ui-datepicker-trigger {
+width: 13px;
+height: 28px;
+z-index: 99999999;
+}
+}
+@media ( max-width : 767px) {
+button.ui-datepicker-trigger {
+width: 13px;
+height: 28px;
+z-index: 99999999;
+}
+.date-picker-cont {
+width: 175px;
+}
+#stickyfooterarticle .slick-list {
+padding: 0;
+}
+}
+@media ( min-width : 1239px) {
+.sticky li.dropdown.ssologin:after {
+bottom:15px;
+}
+li.dropdown.signinbtn:after {
+color: #ff001f !important;
+font-size: 12px !important;
+}
+header.sticky li.dropdown.signinbtn:after {
+color: #ff001f !important;
+font-size: 10px !important;
+}
+}
+header.article-header-cont.sticky .subsEntrymenu {
+display: none !important;
+}
+li.dropdown.signinbtn:after {
+text-transform: uppercase;
+}
+.story-card-33-news::before{background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */}
+@media print{
+._yeti_main_container _left, ._yeti_ad_container, #taboola-below-article-thumbnails, .trc_rbox_container{display: none;}
+}
+@media (max-width: 767px) and (min-width: 1px){
+.article h2.special-article-heading {
+width: 90%!important;
+}
+.infobox-container {
+width: 100%;
+margin-left: 0;
+margin-right: 0;
+border-bottom: none; padding: 10px;
+}
+}
+</style>
+<script>
+function appURL(){	return "https://www.thehindu.com/";
+}
+function pagesource(){
+return "article-page-other-states";
+}
+function PageSourceType(){
+return "articlepage";
+}
+</script>
+</head>
+<body class="">
+<noscript id="deferred-styles">
+<link href="https://th.thgim.com/static/theme/default/base/css/lazystyles.b54ec9f4bf4c31301279834266f504e3.min.css" rel="stylesheet"> <link rel="stylesheet" type="text/css" href="https://th.thgim.com/static/css/print.min.css" media="print"/>
+</noscript> <script>
+var loadDeferredStyles = function() {
+var addStylesNode = document.getElementById("deferred-styles");
+var replacement = document.createElement("div");
+replacement.innerHTML = addStylesNode.textContent;
+document.body.appendChild(replacement)
+addStylesNode.parentElement.removeChild(addStylesNode);
+};
+var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+else window.addEventListener('load', loadDeferredStyles);
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W5VV9N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>$(function(){(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5VV9N');});</script>
+<!-- End Google Tag Manager -->
+<section class=" " >
+<div id="24254344">
+<script type="text/javascript">
+new function(d) {
+var adcode = "<!-- Ad Slot 1 tag: --> " +
+"<!-- begin ZEDO for channel:- HIndu_Interstitial, Publisher: Hindu, Ad Dimension: Intromercial-1x1 --> " +
+"<div id=\"zt_283916_1\" style=\"display:show;height:0px;\"> " +
+"<" + "script id=\"zt_283916_1\" language=\"javascript\"> " +
+"" +
+"if(typeof zmt_mtag !='undefined' && typeof zmt_mtag.zmt_render_placement !='undefined')" +
+"{" +
+" zmt_mtag.zmt_render_placement(p283916_1);" +
+"}" +
+"<" + "/script>" +
+"</div>" +
+"<!-- end ZEDO for channel: - HIndu_Interstitial, Publisher: Hindu, Ad Dimension: Intromercial-1x1 --> ";	if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+d.write(adcode);
+}
+}(document);
+</script>
+</div>
+<!-- Begin DFP : /22390678/Hindu_WAP_Interstitial, publisher: The Hindu -->
+<div id="div-gpt-ad-1522819933630-0" class="dfp-ad " style="height:0px !important;margin-bottom: 0px;">
+<script>
+if(isDeviceEnabled("[large, medium]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1522819933630-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_Interstitial, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_Desktop_Overaly_1x1, publisher: The Hindu -->
+<div id="div-gpt-ad-1527225526136-0" class="dfp-ad " style="height:0px !important;margin-bottom: 0px;">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1527225526136-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_Overaly_1x1, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_WAP_Overaly_1x1, publisher: The Hindu -->
+<div id="div-gpt-ad-1527169441053-0" class="dfp-ad " style="height:0px !important;margin-bottom: 0px;">
+<script>
+if(isDeviceEnabled("[large, medium]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1527169441053-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_Overaly_1x1, publisher: The Hindu -->
+<div class="26703357 test ">
+<div id="26703357">
+<script type="text/javascript">
+new function(d) {
+var adcode = "<style>" +
+"@media (max-width: 767px) and (min-width: 1px)" +
+"{" +
+"iframe#budgetid {" +
+" margin-left: 10px !important;" +
+"}" +
+"}" +
+"</style>" +
+"<div class=\"container\">" +
+"<iframe scrolling=\"no\" frameborder=\"0\" width=\"100%\" id=\"budgetid\" style='width: 100%; padding: 0px;margin: 0; border: none; display: block;height:0px;'> </iframe>" +
+"</div>" +
+"" +
+"<" + "script>" +
+"" +
+"var iframe = document.getElementById('budgetid');" +
+"if(DevIdf.isMobile){" +
+"iframe.setAttribute('src', 'https://creatives.thehindu.com/04-04-2019/320x50(Election)/index.html');" +
+"iframe.style.height=\"60px\";" +
+"}" +
+"else{" +
+"iframe.setAttribute('src', 'https://creatives.thehindu.com/04-04-2019/1240x65%20(Election)/index.html');" +
+"iframe.style.height=\"75px\";" +
+"}" +
+"" +
+"<" + "/script>";	if(isDeviceEnabled("") && isNonSubcribedUser()) {
+d.write(adcode);
+}
+}(document);
+</script>
+</div>
+</div>
+<div class="top-add hidden-xs hidden-sm ad-box">
+<!-- Begin DFP : /22390678/Hindu_Desktop_HP_LB, publisher: The Hindu -->
+<div id="div-gpt-ad-1525929888153-0" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525929888153-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_HP_LB, publisher: The Hindu -->
+</div>
+</section>
+<div class="container-main">
+<header class="article-header-cont " role="banner">
+<script>
+if(DevIdf.isMobile && isNonSubcribedUser()){
+(function(url) {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = url; el.parentNode.insertBefore(s, el);
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-3185547171517244",
+enable_page_level_ads: true
+});
+}
+)("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js");
+}
+</script>
+<div class="container">
+<div class="row " >
+<div class="col-sm-12 col-xs-12">
+<section class="header-top clear hidden-xs">
+<div class="small-logo">
+<a href="https://www.thehindu.com/">
+<img src="https://www.thehindu.com/static/theme/default/base/img/logo.png" alt="Return to frontpage"/>
+</a>
+</div>
+<div class="search-block">
+<form action="https://www.thehindu.com/search/">	<input type="text" data-type="search" title ="Please enter your search text" placeholder="Search here"
+name="q" required oninvalid="setCustomValidity('Please enter your search text.')" oninput="setCustomValidity('')" pattern=".*\S+.*" autocomplete="off">	<button class="fa fa-search search-selection-icon"
+style="background: none !important; color: black"></button>
+<input type="hidden" name="order" value="DESC">
+<input type="hidden" name="sort" value="publishdate">
+</form>
+</div>
+<!-- [Socialize] -->
+<div class="socialize hidden-xs">
+<ul>
+<li><a href="https://www.facebook.com/thehindu" class="fb" title="Connect on Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/The_Hindu" class="tw" title="Follow on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.linkedin.com/school/the-hindu/" class="in" title="Connect on Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+<li><a href="https://instagram.com/the_hindu/?ref=badge" class="ins" title="Follow on Instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><<a target="_blank" href="https://www.thehindu.com/newsletter-subscription/" class="usernews" title="Subscribe to our Newsletter"><i class="fa fa-envelope"></i></a></li>
+<li><a href="https://www.thehindu.com/social/" class="user androidos" title="Install our Android &amp; iOS apps"><i class="fa fa-mobile"></i></a></li>
+<li><a href="https://store.thehindu.com/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" class="ePaper" title="ePaper">ePaper</a></li>
+<!-- <li><a href="https://epaper.thehindu.com/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" class="user" title="ePaper"><i class="fa fa-newspaper-o"></i></a></li> -->
+</ul>
+</div>
+<!-- [/Socialize] -->
+</section>
+<div class="logo-block hidden-lg hidden-md hidden-sm">
+<div id="logo" class="logo">
+<a href="https://www.thehindu.com/">
+<img src="https://www.thehindu.com/static/theme/default/base/img/logo.png" alt="Return to frontpage">
+</a>
+</div>
+</div>
+<div class="100_3x_JustIn hidden-xs">
+<div class="justin-100x3-container justin-article-header">
+<span class="cutout-arrow-1"></span>
+<span class="cutout-arrow-2"></span>
+<span class="cutout-arrow-3"></span>
+<span class="cutout-arrow-4"></span>
+<span class="justIn-heaing">Just In</span>
+<ul class="justin-slider"data-label="article-page-other-states"data-category="just-in ">
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/national/telangana/youth-from-telanganas-bellampally-drowns-in-usa/article26920660.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>6mins</span></span>
+Youth from Telangana’s Bellampally drowns in USA
+</a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>20mins</span></span>
+Pragya says pendency of trial does not bar her from contesting election
+</a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/national/sc-orders-gujarat-govt-to-pay-50-lakh-compensation-to-bilkis-bano/article26919852.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>1hr</span></span>
+SC orders Gujarat govt to pay ₹50 lakh compensation to Bilkis Bano
+</a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/international/citizens-of-at-least-12-countries-died-in-sri-lanka-bombings/article26919659.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>1hr</span></span>
+Citizens of at least 12 countries died in Sri Lanka bombings </a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/national/chowkidar-chor-hai-remark-sc-issues-formal-contempt-notice-against-rahul-gandhi/article26919705.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>1hr</span></span>
+‘Chowkidar chor hai’ remark: SC issues formal contempt notice against Rahul Gandhi
+</a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/international/japanese-emperor-visits-fathers-tomb-before-abdication/article26919120.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>2hrs</span></span>
+Japanese Emperor visits father’s tomb before abdication
+</a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/people-brave-maoist-threat-hilly-terrain-to-vote-in-wayanad/article26919116.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>2hrs</span></span>
+Lok Sabha Election 2019: People brave Maoist threat, hilly terrain to vote in Wayanad </a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/national/kerala/people-brave-maoist-threat-hilly-terrain-to-vote-in-wayanad/article26919100.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>2hrs</span></span>
+People brave Maoist threat, hilly terrain to vote in Wayanad </a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/hindi-cinema-actor-sunny-deol-joins-bjp/article26918965.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Hindi cinema actor Sunny Deol joins BJP </a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/national/karnataka/families-of-sri-lanka-blasts-victims-demand-special-flight-to-transport-bodies/article26918935.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Families of Sri Lanka blasts victims demand special flight to transport bodies
+</a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/anantnag-mehbooba-muftis-hometown-in-boycott-mode-congress-pockets-polling/article26918884.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Lok Sabha 2019: Mehbooba Mufti’s hometown in boycott mode, Congress pockets polling </a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/entertainment/movies/video-of-aamir-khan-flying-in-economy-class-goes-viral/article26918823.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Video of Aamir Khan flying in economy class goes viral
+</a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/international/unidentified-gunmen-shot-dead-policeman-escorting-polio-team-in-pakistan/article26918813.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Unidentified gunmen shot dead policeman escorting polio team in Pakistan </a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/snake-inside-vvpat-machine-holds-up-polling-in-kannur-kerala/article26918791.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Snake inside VVPAT machine holds up polling in Kannur, Kerala </a>
+</li>
+<li class="justin-slide">
+<a href="https://www.thehindu.com/news/national/icici-videocon-case-ed-summons-chanda-kochhar-husband-at-delhi/article26918675.ece" class="justIn-story">
+<span class="justIn-number"></span>
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+ICICI-Videocon case: ED summons Chanda Kochhar, husband at Delhi </a>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+$(".100_3x_JustIn ul li").each(function(index) {
+var count = index + 1;
+$(this).find('.justIn-number').html(count);
+});
+$('.justin-slider').slick({
+infinite: true,
+slidesToShow: 4,
+slidesToScroll: 1,
+focusOnSelect: true,
+autoplay: true,
+autoplaySpeed: 3500,
+variableWidth: true,
+prevArrow: '<div class="pc-prev"></div>',
+nextArrow: '<div class="pc-next"></div>',
+responsive: [{
+breakpoint: 1599,
+settings: {
+slidesToShow: 3
+}
+},
+{
+breakpoint: 1023,
+settings: {
+slidesToShow: 3
+}
+}
+]
+});
+});
+</script>
+</div>
+<nav class="navbar main-menu clear " role="navigation" >
+<div class="just-in-conatiner hidden-sm hidden-md hidden-lg">
+<i class="fa fa-bell"></i>
+<span class="just-in-counter"></span>
+</div>
+<div class="logo hidden-lg hidden-md hidden-sm" id="logo">
+<a href="https://www.thehindu.com/">
+<img src="https://www.thehindu.com/static/theme/default/base/img/logo.png" alt="Return to frontpage">
+</a>
+</div>
+<div class="hidden-md hidden-lg submobileentry" style="display:none;">
+<div class="dashboardiconentry">
+<a href="https://www.thehindu.com/my-dashboard/"><i class="fa fa-newspaper-o"></i></a></div>
+<div class="sigininmobile sso-signin" id="mobilesignin">
+<a href="https://subscription.thehindu.com/signup?utm_source=thmobilemenu&utm_medium=signupbutton&utm_campaign=subscription" id="mobilesigninlink"><i class="fa fa-user"></i></a>
+</div>
+</div>
+<style>
+.sigininmobile .fa-user{
+color: #133b5a;
+font-size: 18px;
+line-height: 18px;
+position: absolute;
+right: 55px;
+top: 13px;
+cursor: pointer;
+}
+.dashboardiconentry{
+color: #133b5a;
+font-size: 18px !important;
+line-height: 18px;
+position: absolute;
+right: 82px;
+top: 13px;
+cursor: pointer;
+}
+@media( min-width : 480px) and (max-width:768px) {
+#main-menu>ul>li>a {
+padding: 0 10px 5px 10px!important;
+}
+}
+@media ( min-width : 420px) and (max-width: 767px) {
+div#logo a {
+height: auto;
+width: 280px;
+}
+}
+@media ( max-width :419px) {
+div#logo a {
+height: 30px;
+width: 245px;
+}
+.dashboardiconentry{display:none;}
+}
+@media ( max-width :320px) {
+div#logo a {
+height: 30px;
+width: 205px;
+}
+}
+@media (max-width: 767px) and (min-width: 1px){
+.logo-block{ display:none;}
+.main-menu {
+border-bottom: none !important;
+position: relative;
+top: unset;
+left: unset;
+}
+nav.main-menu {
+border-bottom: medium none white;
+left: unset;
+position: relative;
+top: unset;
+width: 100%;
+}
+div#logo a {
+margin: 0 40px;
+}
+}
+@media ( max-width : 1023px) and (min-width: 768px) {
+.dashboardiconentry {
+right: 26px;
+top: 24px;
+}
+.sigininmobile .fa-user{
+right: 0px;
+top: 24px;
+}
+.home.sticky .sigininmobile .fa-user,.home.sticky .dashboardiconentry{
+top: 13px;
+}
+}
+</style>
+<div data-label="article-page-other-states"data-category="hamburgermenu-icon">
+<div class="menu-icon">
+<a href="javascript:void(0)" id="menu-button">
+<!-- <span class="menu-text hidden-xs">Menu</span> --><i class="icon"></i>
+</a>
+</div>
+</div>
+<div id="main-menu"
+>
+<ul class=" hidden-xs">
+<li class="">
+<a href="https://www.thehindu.com/">
+Home
+</a>
+</li>
+<li class="dropdown active">
+<a href="https://www.thehindu.com/news/" class="dropdown-toggle" data-toggle="dropdown">News <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/news/national/">National </a></li>
+<li><a href="https://www.thehindu.com/news/international/">International </a></li>
+<li><a href="https://www.thehindu.com/news/states/">States </a></li>
+<li><a href="https://www.thehindu.com/news/cities/">Cities </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/elections/" class="dropdown-toggle" data-toggle="dropdown">Elections <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/elections/lok-sabha-2019/">Lok Sabha Election 2019 </a></li>
+<li><a href="https://www.thehindu.com/elections/andhra-pradesh-assembly/">Andhra Pradesh 2019 </a></li>
+<li><a href="https://www.thehindu.com/elections/arunachal-pradesh-assembly/">Arunachal Pradesh 2019 </a></li>
+<li><a href="https://www.thehindu.com/elections/odisha-assembly/">Odisha 2019 </a></li>
+<li><a href="https://www.thehindu.com/elections/sikkim-assembly/">Sikkim 2019 </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/opinion/" class="dropdown-toggle" data-toggle="dropdown">Opinion <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/opinion/cartoon/">Cartoon </a></li>
+<li><a href="https://www.thehindu.com/opinion/columns/">Columns </a></li>
+<li><a href="https://www.thehindu.com/opinion/editorial/">Editorial </a></li>
+<li><a href="https://www.thehindu.com/opinion/interview/">Interview </a></li>
+<li><a href="https://www.thehindu.com/opinion/lead/">Lead </a></li>
+<li><a href="https://www.thehindu.com/opinion/Readers-Editor/">Readers&#039; Editor </a></li>
+<li><a href="https://www.thehindu.com/opinion/op-ed/">Comment </a></li>
+<li><a href="https://www.thehindu.com/opinion/open-page/">Open Page </a></li>
+<li><a href="https://www.thehindu.com/opinion/letters/">Letters </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/business/" class="dropdown-toggle" data-toggle="dropdown">Business <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/business/agri-business/">Agri-Business </a></li>
+<li><a href="https://www.thehindu.com/business/Industry/">Industry </a></li>
+<li><a href="https://www.thehindu.com/business/Economy/">Economy </a></li>
+<li><a href="https://www.thehindu.com/business/markets/">Markets </a></li>
+<li><a href="https://www.thehindu.com/business/budget/">Budget </a></li>
+<li><a href="https://www.thehindubusinessline.com/markets/" target="">Stock Quotes </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/sport/" class="dropdown-toggle" data-toggle="dropdown">Sport <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/sport/cricket/">Cricket </a></li>
+<li><a href="https://www.thehindu.com/sport/football/">Football </a></li>
+<li><a href="https://www.thehindu.com/sport/hockey/">Hockey </a></li>
+<li><a href="https://www.thehindu.com/sport/tennis/">Tennis </a></li>
+<li><a href="https://www.thehindu.com/sport/athletics/">Athletics </a></li>
+<li><a href="https://www.thehindu.com/sport/motorsport/">Motorsport </a></li>
+<li><a href="https://www.thehindu.com/sport/races/">Races </a></li>
+<li><a href="https://www.thehindu.com/sport/other-sports/">Other Sports </a></li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/sport/cricket/">
+Cricket
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/crossword/">
+Crossword
+</a>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/entertainment/" class="dropdown-toggle" data-toggle="dropdown">Entertainment <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/entertainment/art/">Art </a></li>
+<li><a href="https://www.thehindu.com/entertainment/dance/">Dance </a></li>
+<li><a href="https://www.thehindu.com/entertainment/movies/">Movies </a></li>
+<li><a href="https://www.thehindu.com/entertainment/music/">Music </a></li>
+<li><a href="https://www.thehindu.com/entertainment/reviews/">Reviews </a></li>
+<li><a href="https://www.thehindu.com/entertainment/theatre/">Theatre </a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="https://www.thehindu.com/life-and-style/" class="dropdown-toggle" data-toggle="dropdown">Life & Style <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="https://www.thehindu.com/life-and-style/fashion/">Fashion </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/fitness/">Fitness </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/food/">Food </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/motoring/">Motoring </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/travel/">Travel </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/homes-and-gardens/">Homes and gardens </a></li>
+<li><a href="https://www.thehindu.com/life-and-style/luxury/">Luxury </a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="subsEntrymenu hidden-sm hidden-xs" style="display:none;">
+<ul>
+<li class="dashboard" data-category="Dashboard iCon" data-label="article-page-other-states"><a title="Dashboard" href="https://www.thehindu.com/my-dashboard/"><i class="fa fa-newspaper-o"></i></a></li>
+<li class="Subscribebtn Subscribebtnremove" data-category="SUBSCRIBE NOW icon" data-label="article-page-other-states"><a href="https://subscription.thehindu.com/subscription?utm_source=thmenu&utm_medium=subscribebutton&utm_campaign=subscription">Subscribe now</a></li>
+<li class="dropdown signinbtn" data-category="Sign in/up icon" data-label="article-page-other-states"><a class="sso-signin" id="sso-signin" href="https://subscription.thehindu.com/signup?utm_source=thmenu&utm_medium=signupbutton&utm_campaign=subscription">Sign in / Sign up</a></li>
+</ul>
+</div>
+<style>
+li.dropdown.signinbtn:after {
+bottom: 25px;
+right: 0;
+color: #479fc6;
+font-size: 10px;
+font-family: 'Fira Sans', sans-serif;
+font-weight: 600;
+position: absolute;
+content: "Beta !";
+}
+.dropdown.open .dropdown-menu {
+display: block;
+}
+.fa-newspaper-o:before {
+content: "\f1ea";
+}
+.subsEntrymenu {
+float: right;
+margin-top: 20px;
+text-align: right;
+position: absolute;
+right: 0;
+}
+.subsEntrymenu>ul>li {
+float: left;
+margin-left: 10px;
+}
+.subsEntrymenu>ul>li>a {
+display: block;
+line-height: 25px;
+color: #828282;
+font-size: 10px;
+letter-spacing: 1.2px;
+padding: 0 11px;
+font-family: 'Fira Sans', sans-serif;
+font-weight: 600;
+text-transform: uppercase;
+}
+.subsEntrymenu>ul>li>a i {
+font-size: 26px;
+}
+li.Subscribebtn {
+background: #479fc6;
+color: #fff;
+border-radius: 6px;
+border: 1px solid #479fc6;
+}
+li.signinbtn {
+background: #f5f5f5;
+color: #479fc6;
+border-radius: 6px;
+border: 1px solid #479fc6;
+position: relative;
+}
+.subsEntrymenu>ul>li.Subscribebtn>a {
+color: #fff;
+}
+.subsEntrymenu>ul>li.signinbtn>a {
+color: #479fc6;
+}
+.subsEntrymenu>ul>li.dashboard>a {
+padding: 0;
+}
+.subsEntrymenu>ul>li.dropdown.ssologin {
+border: none;
+color: #828282;
+}
+.subsEntrymenu>ul>li.dropdown.ssologin a {
+color: #828282;
+display: block;
+margin-bottom: 2px;
+}
+.subsEntrymenu>ul>li.dropdown.ssologin>a {
+max-width: 110px;
+display: block;
+white-space: nowrap;
+text-overflow: ellipsis;
+overflow: hidden;
+padding-left: 0;
+}
+.subsEntrymenu .dropdown-menu {
+right: 0;
+}
+.subsEntrymenu .dropdown-menu:after {
+left: auto;
+right: 10px;
+}
+header.sticky .subsEntrymenu {
+margin-top: 7px;
+}
+header.article-header-cont.sticky .subsEntrymenu {
+display: none !important;
+}
+.subsEntrymenu>ul>li.signinbtn>a:hover {
+background: #479fc6;
+color: #fff !important;
+}
+.subsEntrymenu>ul>li.ssologin>a:hover {
+background: none;
+color: #828282 !important;
+}
+.mobileusername {
+display: none;
+}
+#mobilesignin li.dropdown:hover .dropdown-menu {
+display: block !important;
+}
+#mobilesignin .dropdown-menu:after {
+bottom: 100%;
+left: auto;
+right: 12%;
+border: solid transparent;
+content: " ";
+height: 0;
+width: 0;
+position: absolute !important;
+pointer-events: none;
+border-color: rgba(136, 183, 213, 0);
+border-bottom-color: #fff;
+border-width: 8px;
+margin-left: -5px;
+}
+#mobilesignin .dropdown-menu {
+min-width: auto !important;
+right: 35px;
+padding: 0px 20px;
+}
+#mobilesignin .dropdown-menu {
+top: 38px;
+}
+#mobilesignin .dropdown-menu li {
+padding: 5px;
+}
+#mobilesignin .dropdown-menu li a {
+display: block;
+}
+li.mobileusername a {
+max-width: 110px;
+white-space: nowrap;
+text-overflow: ellipsis;
+overflow: hidden;
+padding-left: 0;
+}
+@media ( max-width : 1023px) {
+div#logo a {
+margin: 0 40px;
+}
+.mobileusername {
+display: block;
+}
+#mobilesignin:after {
+top: -2px;
+right: 0;
+color: #479fc6;
+font-size: 8px;
+font-family: 'Fira Sans', sans-serif;
+font-weight: 600;
+position: absolute;
+content: "Beta !";
+}
+}
+@media ( min-width : 480px) and (max-width:768px) {
+#mobilesignin .dropdown-menu {
+min-width: auto !important;
+right: 0px;
+padding: 0px 20px;
+}
+#mobilesignin .dropdown-menu:after {
+right: 0%;
+}
+}
+@media(max-width:767px) {
+#mobilesignin:after {
+top: -2px;
+right: 50px;
+color: #479fc6;
+font-size: 8px;
+font-family: 'Fira Sans', sans-serif;
+font-weight: 600;
+position: absolute;
+content: "Beta !";
+}
+}
+@media(max-width:1023px) {
+.dropdwnHide{
+display:none !important;
+}
+}
+</style>
+<script>
+if (userId != "") {
+isloggedinUser();
+}
+function daysleft(enddate){
+var day_start = new Date();
+var day_end = new Date(enddate);
+day_end.setHours(23,59,59,999);
+var enddatefinal = new Date(day_end);
+var total_days = (enddatefinal - day_start) / (1000 * 60 * 60 * 24);
+total_days = total_days - 1;
+if(Math.ceil(total_days) < 1){
+total_days = "0";
+}
+return Math.ceil(total_days);
+}
+function isloggedinUser() {
+var userFullName = JSON.parse(isUserDetails.userInfo);
+var userName = userFullName.FullName;
+if (userName != "") {
+userName = "Hi " + userName;
+} else if (isUserDetails.userName != ""
+&& isUserDetails.userName != undefined) {
+userName = "Hi " + isUserDetails.userName;
+} else {
+userName = "Hi user";
+}
+document.getElementById("sso-signin").innerText = userName;
+var dropdown = '<ul class="dropdown-menu sso-signinuser">'
++ '<li class="mobileusername" ><a class="" >'
++ userName
++ '</a>'
++ '<li class="Subscribebtnremove" data-category="Hi user" data-label="SUBSCRIBE NOW"><a class="Subscribebtn" href="https://subscription.thehindu.com/subscription?utm_source=thusermenu&utm_medium=subscribebutton&utm_campaign=subscription">Subscribe Now</a>'
++ '<li data-category="Hi user" data-label="My Dashboard"><a href="/my-dashboard/" class="sso-profile">My Dashboard</a>'
++ '<li data-category="Hi user" data-label="My profile"><a href="https://subscription.thehindu.com/profile" target="_blank" class="sso-profile">My Profile</a>'
++ '<li data-category="Hi user" data-label="Personalization"><a href="https://subscription.thehindu.com/profile?info=preference" class="sso-profile infopersonal">Personalisation</a>'
++ '<li data-category="Hi user" data-label="My Plan"><a href="https://subscription.thehindu.com/profile?info=subscriptioninfo" target="_blank" class="sso-profile">My Plan</a>'
++'<li data-category="Hi user" data-label="Transaction History"><a href="https://subscription.thehindu.com/profile?info=transactioninfo" target="_blank" class="sso-profile">Transaction History</a>'
++'<li data-category="Hi user" data-label="Feedback"><a href="https://subscription.thehindu.com/profile?info=feedback" target="_blank" class="sso-profile">Feedback</a>'
++ '<li data-category="Hi user" data-label="FAQ"><a href="https://subscription.thehindu.com/faq" target="_blank" class="sso-profile">FAQS</a>'
++ '<li data-category="Hi user" data-label="Contact us"><a href="https://www.thehindu.com/contacts/" target="_blank" class="sso-profile">Contact Us</a>'
++ '<li data-category="Hi user" data-label="Sign Out"><a class="sso-logout" onclick="taiApi(\'https://tai.thehindu.com/taiauth/logout/HINDU\');" >Sign Out</a>'
++ '</ul>';
+document.getElementById("sso-signin").removeAttribute("href");
+document.getElementById("sso-signin").classList.remove("sso-signin");
+document.getElementById("mobilesigninlink").removeAttribute("href")
+document.getElementById("mobilesignin").classList.remove("sso-signin");
+document.getElementById("mobilesignin").classList
+.add("sso-signinmobile");
+var els = document
+.querySelectorAll("#main-menu>ul>li:nth-last-child(-n+2)");
+[].forEach.call(els, function(els) {
+els.style.display = "none";
+});
+document.getElementsByClassName("subsEntrymenu")[0].style.display = "block";
+document.getElementsByClassName("submobileentry")[0].style.display = "block";
+var list = document.querySelectorAll(".signinbtn");
+for (var i = 0; i < list.length; ++i) {
+list[i].classList.add('ssologin');
+list[i].insertAdjacentHTML('beforeend', dropdown);
+}
+var listmobile = document.querySelectorAll(".sigininmobile");
+for (var i = 0; i < listmobile.length; ++i) {
+listmobile[i].insertAdjacentHTML('beforeend', dropdown);
+}
+var NextRenewalDate = isUserDetails.nextRenewalDate;
+if(typeof isUserDetails.nextRenewalDate == "undefined"){
+NextRenewalDate = 0;
+}
+if (isUserDetails.userPlanList.length > 0) {
+for (var j = 0; j < isUserDetails.userPlanList.length; ++j) {
+if (isUserDetails.userPlanList[j].status == "success" && isUserDetails.userPlanList[j].amount != "0" && daysleft(NextRenewalDate) > 10 ) {
+var btnremove = document.querySelectorAll(".Subscribebtnremove");
+for (var m = 0; m < btnremove.length; ++m) {
+btnremove[m].style.display = "none";
+}
+}
+else if(isUserDetails.userPlanList[j].status == "success" && isUserDetails.userPlanList[j].amount == "0" && daysleft(NextRenewalDate) > 30){
+var btnremove = document.querySelectorAll(".Subscribebtnremove");
+for (var m = 0; m < btnremove.length; ++m) {
+btnremove[m].style.display = "none";
+}
+}
+}
+}
+}
+$(function() {
+$(".ssologin>a").on("click", function() {
+$(this).parent().toggleClass('open');
+});
+$(".sso-signin-entry").click(function(){
+window.location.href="https://subscription.thehindu.com/signup?utm_source=thmenu&utm_medium=signupbutton&utm_campaign=subscription";
+});
+});
+$(document).ready(function() {
+hidedd = true;
+$(".sso-signinmobile").on("click", function() {
+$(this).children(".dropdown-menu").toggle();
+if (hidedd)$('.dropdown-menu.sso-signinuser').removeClass('dropdwnHide');
+hidedd = false;
+});	$('body').on('click', function () {
+if (hidedd)$('.dropdown-menu.sso-signinuser').addClass('dropdwnHide');
+hidedd = true;
+});
+});
+var els = document.querySelectorAll("#main-menu>ul>li:nth-last-child(-n+2)");
+[].forEach.call(els, function(els) {	els.style.display = "none";
+});
+document.getElementsByClassName("subsEntrymenu")[0].style.display = "block";
+document.getElementsByClassName("submobileentry")[0].style.display = "block";
+</script>
+<div class="sticky-article-heading">
+<div class="logo-sq">
+<a href="https://www.thehindu.com/"><img src="https://www.thehindu.com/static/theme/default/base/img/logo-sq.png" alt="Return to frontpage"></a>
+</div>
+<a href="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece">
+<div class="artcl-nm-stky-text">
+Pragya says pendency of trial does not bar her from contesting election
+</div>
+</a>
+<div class="artcl-social-media">
+<ul class="aricle-sticky-share">
+<span class="share-artcl">Share On</span>
+<li data-label="Facebook" data-category="social-shares">
+<a>
+<i class="fa fa-facebook fb"></i> <span class='share-counter cnt'></span>
+</a>
+</li>
+<li data-label="Twitter" data-category="social-shares">
+<a>
+<i class="fa fa-twitter tw"></i>
+</a>
+</li>
+<li class="hidden-xs">
+<a>
+<i class="fa fa-reddit-alien"></i><span class='cnt'></span>
+</a>
+</li>
+<li class="hidden-lg hidden-md hidden-sm" data-label="WhatsApp" data-category="social-shares">
+<a>
+<i class="fa fa-whatsapp wa"></i>
+</a>
+</li>
+<li>
+<a>
+<i class="fa fa-envelope en"></i>
+</a>
+</li>
+<li class="hidden-xs">
+<a data-cstyle="art" href="#comments_26920453">
+<i class="fa fa-comment"></i> <span data="vuukle-count"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<nav class="navbar city-menu-wrapper article-sub-header " role="navigation" >
+<div class="city-menu-1">
+<nav class="navbar navbar-default " role="navigation" >
+<ul>
+<li ><a class="all-sub-drop">States<i class="fa fa-sort-desc fa-lg all-cities-drop"></i></a></li> <li ><a href="https://www.thehindu.com/news/national/andhra-pradesh/" >Andhra Pradesh</a></li> <li ><a href="https://www.thehindu.com/news/national/karnataka/" >Karnataka</a></li> <li ><a href="https://www.thehindu.com/news/national/kerala/" >Kerala</a></li> <li ><a href="https://www.thehindu.com/news/national/tamil-nadu/" >Tamil Nadu</a></li> <li ><a href="https://www.thehindu.com/news/national/telangana/" >Telangana</a></li> <li class="active"><a href="https://www.thehindu.com/news/national/other-states/" class="active">Other States</a></li> </ul>
+<div class="sub-section-list" style="display: none;">
+<ul>
+<li ><a href="https://www.thehindu.com/news/national/andhra-pradesh/" >Andhra Pradesh</a></li> <li ><a href="https://www.thehindu.com/news/national/karnataka/" >Karnataka</a></li> <li ><a href="https://www.thehindu.com/news/national/kerala/" >Kerala</a></li> <li ><a href="https://www.thehindu.com/news/national/tamil-nadu/" >Tamil Nadu</a></li> <li ><a href="https://www.thehindu.com/news/national/telangana/" >Telangana</a></li> <li class="active"><a href="https://www.thehindu.com/news/national/other-states/" class="active">Other States</a></li> </ul>
+</div>
+</nav>
+</div>
+<div class="city-menu-2 hidden-xs"data-label="article-page-other-states"data-category="menu-promo">
+<span class="art_sub_head-gradient"></span>
+<div class="left" style="display:none;">
+<i class="fa fa-dot-circle-o fa-lg yellow-color blink-active" style="padding-right: 2px;"></i></div>
+<script>
+$(function () {
+if($(".city-menu-2").children().length > 3){$(".city-menu-2 .left").show();}
+});
+</script>
+<div class="teaser ">
+<span class="title ">
+<a href="https://www.thehindu.com/sport/cricket/icc-cricket-world-cup-2019-schedule/article26268656.ece">
+ICC Cricket World Cup 2019 schedule
+</a>
+</span>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<div class=" " >
+<div class="mob-top-add hidden-sm hidden-md hidden-lg">
+<!-- Begin DFP : /22390678/Hindu_WAP_AT_TOP, publisher: The Hindu -->
+<div id="div-gpt-ad-1518418788389-0" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[large, medium]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518418788389-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_AT_TOP, publisher: The Hindu -->
+</div>
+<section class="pages-details">
+<div class="container clear">
+<ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope	itemtype="https://schema.org/ListItem"><a href="https://www.thehindu.com/news/" itemtype="https://schema.org/Thing"	itemprop="item"><span itemprop="name">News</span></a><meta itemprop="position" content="1" />
+</li>
+<li itemprop="itemListElement" itemscope	itemtype="https://schema.org/ListItem"><a href="https://www.thehindu.com/news/states/" itemtype="https://schema.org/Thing"	itemprop="item"><span itemprop="name">States</span></a><meta itemprop="position" content="2" />
+</li>
+<li itemprop="itemListElement" itemscope	itemtype="https://schema.org/ListItem"><a href="https://www.thehindu.com/news/national/other-states/" itemtype="https://schema.org/Thing"	itemprop="item"><span itemprop="name">Other States</span> </a><meta itemprop="position" content="3" /></li>
+</ul>
+</div>
+</section>
+</div>
+<div class="jscroll">
+<div class="jscroll-inner">
+<div class="active">
+<div class="articlepage" data-artid="26920453" data-secid="168" data-surl="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece">
+<section class="container container-mobile article-cont" role="main">
+<div class="row">
+<div class="col-xs-12">
+<div class="article" role="main">
+<div class=" " >
+<div class="article-exclusive">
+<span class="exclusive red-color">
+</span>
+<a class="section-name" href="https://www.thehindu.com/news/national/other-states/">
+Other States
+</a>
+</div>
+<h1
+class="title">
+Pragya says pendency of trial does not bar her from contesting election
+</h1>
+<div class="author-container hidden-xs">
+<span
+class="author-img-name 1">
+<a href="https://www.thehindu.com/profile/author/Sonam-Saigal-911/" class="auth-img lnk">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="SQUARE" data-device-variant=""
+data-src-template="https://th.thgim.com/migration_catalog/article14362798.ece/BINARY/thumbnail/sonam%202"	alt=""
+title=""
+class=" adaptive placeholder"
+/>
+</a>
+<a href="https://www.thehindu.com/profile/author/Sonam-Saigal-911/" class="auth-nm lnk">
+Sonam Saigal
+</a>
+</span>
+<div class="ut-container">
+<!---->
+<span class="blue-color ksl-time-stamp">
+Mumbai,
+</span>
+<!---->	<span class="blue-color ksl-time-stamp">
+<none
+>
+April 23, 2019 15:36 IST
+</none>
+</span>
+<div class="teaser-text update-time">
+Updated:
+<span >
+<none
+>
+April 23, 2019 15:53 IST
+</none>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class=" " >
+<div class="artcl-social-media hidden-xs" data-artid="26920453" >
+<ul class="aricle-share" data-share-url="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece" data-share-text="Pragya says pendency of trial does not bar her from contesting election">
+<span class="share-artcl">Share Article</span>
+<li data-label="Facebook" data-category="social-shares">
+<a>
+<i class="fa fa-facebook fb"></i> <span class='cnt'></span>
+</a>
+</li>
+<li data-label="Twitter" data-category="social-shares">
+<a>
+<i class="fa fa-twitter tw"></i>
+</a>
+</li>
+<li class="hidden-xs">
+<a>
+<i class="fa fa-reddit-alien"></i><span class='cnt'></span>
+</a>
+</li>
+<li class="hidden-lg hidden-md hidden-sm" data-label="WhatsApp" data-category="social-shares">
+<a>
+<i class="fa fa-whatsapp wa"></i>
+</a>
+</li>
+<li>
+<a>
+<i class="fa fa-envelope en"></i>
+</a>
+</li>
+<li class="hidden-xs">
+<a data-cstyle="art" href="#comments_26920453">
+<i class="fa fa-comment"></i> <span data="vuukle-count"></span>
+</a>
+</li>
+<li class="hidden-xs">
+<a>
+<i class="fa fa-print print"></i>PRINT
+</a>
+</li>
+<li class="hidden-xs">
+<span class="edite-text-cont">
+<a id="small" data-parent-class="small-font" class="small-text">A</a>
+<a id="medium" data-parent-class="medium-font" class="medium-text">A</a>
+<a id="large" data-parent-class="large-font" class="large-text">A</a>
+</span>
+</li>
+</ul>
+</div>
+<div class="ad-container ad-box hidden-xs">
+<!-- Begin DFP : /22390678/Hindu_Desktop_Text_640x65, publisher: The Hindu -->
+<div id="div-gpt-ad-1525336073032-0" class="dfp-ad text-ad" style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525336073032-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_Text_640x65, publisher: The Hindu -->
+</div>
+<div class="lead-img-cont">
+<div class="img-container picture" style="width:100%">
+<picture> <!--[if IE 9]><video style="display: none;"><![endif]-->
+<source media="(min-width: 1281px)" sizes="960px" srcset="https://www.thehindu.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/ALTERNATES/FREE_960/IN25PRAGYA">
+<source media="(min-width: 421px) and (max-width: 1280px)" sizes="660px" srcset="https://www.thehindu.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/ALTERNATES/FREE_660/IN25PRAGYA">
+<source media="(min-width: 321px) and (max-width: 420px)" sizes="435px" srcset="https://www.thehindu.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/ALTERNATES/FREE_435/IN25PRAGYA">
+<source media="(max-width: 320px)" sizes="320px" srcset="https://www.thehindu.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/ALTERNATES/FREE_320/IN25PRAGYA">
+<!--[if IE 9]></video><![endif]-->
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="FREE" data-device-variant="FREE~FREE~FREE"
+data-src-template="https://th.thgim.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/BINARY/thumbnail/IN25PRAGYA"	alt="Malegaon blast case accused Pragya Singh Thakur. File"
+title="Malegaon blast case accused Pragya Singh Thakur. File"
+class="lead-img adaptive placeholder"
+/>
+</picture>
+<span class="lead-img-caption " >
+<p>
+Malegaon blast case accused Pragya Singh Thakur. File &nbsp; | Photo Credit: <a href="https://www.thehindu.com/profile/photographers/A-M-Faruqui/">
+A.M. Faruqui </a> </p>
+<span class="show-caption hidden-lg hidden-md hidden-sm"><i class="fa fa-info-circle"></i></span>
+</span>
+</div>	</div>
+<div class="mobile-author-cont hidden-sm hidden-md hidden-lg">
+<span class="mobile-author">
+<a href="https://www.thehindu.com/profile/author/Sonam-Saigal-911/" class="mobile-auth-nm lnk">
+Sonam Saigal
+</a>
+</span>
+<div class="mobile-ut-container">
+<!---->
+<span class="blue-color ksl-time-stamp">
+Mumbai,
+</span>
+<!---->	<span class="blue-color ksl-time-stamp">
+<none
+>
+April 23, 2019 15:36 IST
+</none>
+</span>
+<div class="teaser-text update-time">
+Updated:
+<span >
+<none
+>
+April 23, 2019 15:53 IST
+</none>
+</span>
+</div>
+</div>
+</div>
+<div class="article-topics-container">
+<span class="more-in">
+more-in
+</span>
+<div>
+<a href="https://www.thehindu.com/topic/general-elections-2019/" class ="topic-1 txt" >General Elections 2019</a>
+</div>
+</div>
+</div>
+<div class=" " >
+<div id="content-body-14269002-26920453"
+>
+<p> BJP candidate in the Bhopal Lok Sabha constituency and main accused in the <a href="https://www.thehindu.com/news/national/NIA-drops-charges-against-Pragya-five-others-in-Malegaon-blast-case/article14317486.ece" title="">2008 Malegaon blast case </a>Pragya Singh Thakur told a National Investigation Agency (NIA) court on Tuesday that pendency of the trial was no bar for her contesting the election.</p><p>She was replying to a plea filed by Nisar Ahmed Sayyed Bilal, father of Sayyed Azhar Nisar Ahmed, who was killed on September 29, 2008 in the blast, which also claimed the life of five others. </p><p>Mr. Bilal contended that Ms. Pragya should be restricted from contesting the election as she was still facing trial for a terrorist act and a petition challenging her bail was pending before the Supreme Court.</p><p>Ms. Pragya, however, told the court that the Representation of the People Act did not restrict her from contesting the election as only those convicted in certain offences could be disbarred. She wanted the application to be dismissed with costs.</p><p>The NIA said it had no jurisdiction over the matter as it related to the Election Commission of India.</p><p>The trial is being conducted by special judge Vinod Padalkar and victims are testifying.</p>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-14269002-26920453 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-14269002-26920453").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-14269002-26920453").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = false;
+var datelineStr = "Mumbai";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-14269002-26920453").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+<script>
+$(document).ready(function () {
+$('a.tweetable').click(function(){
+var text = $(this).text();
+$('[href*="#"]').attr('href', 'https://twitter.com/intent/tweet?text='+text+" "+url);
+});
+});
+</script>
+</div>
+<div class=" " >
+<!-- Begin DFP : /22390678/Hindu_Desktop_Inarticle_1x1, publisher: The Hindu -->
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+var slotName = 'div-gpt-ad-1552914402102-0';
+var idStart = "content-body-";
+var articleSize = document.getElementsByClassName("article").length - 1;
+var componentContainer = document.getElementsByClassName("article")[articleSize].getElementsByTagName("div");
+for (var i = 0; i < componentContainer.length; i++) {
+var id = componentContainer[i].id;
+if ((id.length >= idStart.length) && (id.substring(0, idStart.length) == idStart)) {
+var pTagList = componentContainer[i].getElementsByTagName('P');
+if (pTagList.length > 1) {
+var secondPTag = componentContainer[i].getElementsByTagName('p')[3];
+if(typeof secondPTag !== "undefined"){
+Element.prototype.appendAfter = function(element) {
+element.parentNode.insertBefore(this, element.nextSibling);
+};
+var newElement = document.createElement('div');
+newElement.id = slotName;
+newElement.setAttribute("class", "dfp-ad Inarticle");
+newElement.appendAfter(secondPTag);
+break;
+}
+}
+}
+}
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552914402102-0'); });
+}
+</script>
+<!-- End DFP : /22390678/Hindu_Desktop_Inarticle_1x1, publisher: The Hindu -->
+<div class="author-bottom custom-author">
+<div class="AuthorBottom-srch">
+<div class="row">
+<div class="hidden-sm hidden-xs">
+<div class="col-12 col-xs-12 col-md-10 col-lg-9 aruthMainSrch">
+<div class="RightSubs-txt">
+<span>SUBSCRIBE TO OUR POLITICAL ANALYSIS NEWSLETTER</span>
+</div>
+<div class="LeftLetterSrch">
+<div id="arutSrch" class="arutRight-txtIn">
+<input type="text" placeholder="Enter Your Email Here" name="email">
+<button id="auth_button" class="aruthLeft-btn auth-submit"
+type="submit">Submit</button>
+<div class="nl-error " style="display: none">
+<p>Please enter a valid email address.</p>
+</div>
+<div class="nl-success errorMsg" style="display: none"></div>
+<div class="nl-load"></div>
+</div>
+</div>
+</div>
+<script>
+var emailAddressFilter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/;
+function validate_email(fieldId) {
+var email = $(fieldId).val();
+email= email.trim();
+if (email == "" || email == "undefined") {
+return false;
+} else if (!emailAddressFilter.test(email)) {
+return false;
+}
+return true;
+}
+//<!-- article page contains multiple times if infinite scroll is enabled. -->
+$(document).ready(function(){
+$(".aruthMainSrch button.auth-submit:last").on("click", function(event){
+$(this).attr("disabled","disabled");
+var selector = $(this).closest(".LeftLetterSrch");
+$(selector).find("input").click(function(){$(selector).find("button").removeAttr("disabled");});
+var email = $(selector).find("input").val();
+email= email.trim();
+$(selector).find(".nl-error").css("display", "none");
+$(selector).find(".nl-success").css("display", "none");
+$(selector).find("input").removeClass("error");
+if (validate_email($(selector).find("input"))){ if(typeof sendTaiData !== "undefined" ) {
+taiData.push({"email":email});
+sendTaiData(taiData, 'newslettersub');
+}
+$(selector).find(".nl-load").show();
+$(selector).find(".nl-load").addClass("active");
+var data = {	"email" : email, "category" : "newsletter"};
+$.ajax({
+type : "POST",
+contentType : "application/json",
+url : publist("url") + "s/mailsubscription/subscribe/",
+data : JSON.stringify(data),
+dataType : 'json',
+timeout : 10000,
+success : function(response) { $(selector).find(".nl-success").html("<p>"+response.data+"</p>");
+$(selector).find(".nl-success").css("display", "block");
+$(selector).find(".nl-load").hide();
+},
+error : function(e) { // console.log("ERROR: ", e);
+},
+done : function(e) {
+// console.log("DONE");
+}
+});
+} else {
+$(selector).find(".nl-load").fadeOut( "slow");
+$(selector).find(".nl-error").css("display", "block");
+$(selector).find("input").addClass("error");
+}
+});
+});
+</script>
+</div>
+<div class="col-12 col-xs-12 col-md-2 col-lg-3 aruthorComment">
+<div class="arutCommRight">
+<a href="#comments_26920453" class="post-comment">Comments</a>	</div>
+</div>
+</div>
+</div>
+</div>
+<div class="author-bottom hidden">
+<div class="author-container auth-bt-cont">
+<a href="#comments_26920453" class="post-comment">Comments</a>	</div>
+</div>
+<div class="artNL">
+<div class="artNLbdr">
+</div>
+</div>
+<div class="morein-tag-cont">
+<span class="more_in-head">
+Related Topics
+</span>
+<a href="https://www.thehindu.com/news/national/other-states/" class="tag-button section-button">Other States</a>
+<div class="tag-button">
+<a href="https://www.thehindu.com/tag/165-81/maharashtra/" class =" txt" >Maharashtra</a>
+</div>
+</div>
+<div class="morein-tag-cont related-artlc-cont">
+<span class="related-artcl">
+Related Articles
+</span>
+<div class="related_article_carousel">
+<div class="related-artcl-cont">
+<div id="GATracker"
+class="e-p-c-container relatet-slider relatet-slider2">
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+$('.relatet-slider2:last').slick({
+infinite: true,
+slidesToShow: 5,
+slidesToScroll: 1,
+autoplay: true,
+autoplaySpeed: 2000,
+variableWidth: true,
+prevArrow: '<div class="left-arrow left"></div>',
+nextArrow: '<div class="right-arrow right"></div>',
+responsive: [{
+breakpoint: 1599,
+settings: {
+slidesToShow: 3
+}
+}]
+});
+});
+</script>
+<!---GA tracker for Article Page for Related Article - START -->
+<script>
+$(document).ready(function(){
+$("#GATracker .e-p-slide, .e-p-slide-text").click(function() {
+ga('send', 'event', 'Related Article Links', 'Related Article Links Click', 'Related Link Article');
+return true;
+});
+});
+</script>
+<!---GA tracker for Article Page for Related Article - END-->
+<script>
+$(function(){
+var slidelength = $(".articlepage:last .e-p-slide.related-slide").length;
+if(slidelength > 0){
+//alert("hi");
+$(".articlepage:last .related-artlc-cont").css('display','block');
+}
+else{
+//alert("byugfy");
+$(".articlepage:last .related-artlc-cont").css('display','none');
+}
+var morein = $(".articlepage:last .tag-button").length;
+if(morein > 0){
+$(".articlepage:last .more_in-head").css('display','block');
+}
+else{
+$(".articlepage:last .more_in-head").css('display','none');
+}
+});
+</script>
+<style>
+.article-block-multiple{float:initial;}
+</style>
+</div>
+<script>
+function footerStickyCarousel() {
+$('.footercar:last').on('init', function(event, slick) {
+$('.textcount').append('<span class="current"></span> / <span class="totalslides"></span>');
+$('.current').text(slick.currentSlide + 1);
+$('.totalslides').text(slick.slideCount);
+})
+.slick({
+slidesToShow: 4,
+slidesToScroll: 1,
+autoplay: false,
+autoplaySpeed: 0,
+speed: 300,
+draggable: true,
+swipeToSlide: true,
+arrows: true,
+prevArrow: '<div class="left-arrow"></div>',
+nextArrow: '<div class="right-arrow"></div>',
+responsive: [{
+breakpoint: 1599,
+settings: {
+slidesToShow: 4,
+slidesToScroll: 1
+}
+},
+{
+breakpoint: 1023,
+settings: {
+slidesToShow: 2,
+slidesToScroll: 1
+}
+},
+{
+breakpoint: 768,
+settings: {
+slidesToShow: 1,
+slidesToScroll: 1,
+variableWidth:true,
+centerPadding: '0px',
+arrows: false,
+dots:false
+}
+}
+]
+})
+.on('beforeChange', function(event, slick, currentSlide, nextSlide) {
+$('.current').text(nextSlide + 1);
+});
+}
+function destroyCarousel() {
+if($('.footercar').hasClass('slick-initialized'))
+{
+$('.footercar').slick('destroy');
+} }
+function recommendedstories(data){
+if(data.articles.length > 0 && (!infiniteScroll) ){
+$('#stickyfooterarticle').show();
+for (var i=0;i<data.articles.length;++i)
+{ var arturl = data.articles[i].articleUrl;
+var arttitle = data.articles[i].articletitle;
+var artimg = data.articles[i].thumbnailUrl;
+var url = document.location.href;
+var SecNameUrl = url.split('/');
+var SecName = SecNameUrl[SecNameUrl.length - 3];
+if(artimg == undefined || artimg ==""){
+artimg ="https://www.thehindu.com/brandhub/article23412490.ece/BINARY/thumbnail/og-imagejpg";
+}
+var html ='<div class="fooeterarticleswrapper" data-label="article-page-'+SecName+'" data-category="udmprecommendation"><a href="'+arturl+'?utm_source=udmprecommendation_'+SecName+'&utm_medium=sticky_footer&transactionId='+transactionId+'"><div class="footerstickylist"><span class="fooetrstickyimg"><img src="https://www.thehindu.com/static/img/placeholder/LANDSCAPE.gif" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~WIDE" data-src-template="'+artimg+'" data-proxy-width="" class="lazy media-object adaptive placeholder"></span><div class="recomendedtitle"><h3>'+arttitle+'</h3></div></div></a></div>';
+$('#recommededstories').append(html);
+}
+WFImager.update($(document));
+footerStickyCarousel();
+}
+}
+</script>
+<script>
+$(function () {
+var close = true;
+$('.close').click(function(){
+close = false;
+$('#stickyfooterarticle').hide();
+});
+var w = $(window).width();
+var stickyfooterimg= false;
+var slideFotterStaus="down";
+if($('#stickyfooterarticle').length > 0){
+var withoutbodycontent =$('div[id^="content-body"]' ).length;
+if(!DevIdf.isMobile){
+$(window).scroll(function() {
+if(withoutbodycontent > 0){
+stickyfooterarticleheight =$('div[id^="content-body"]' ).offset().top + $('div[id^="content-body"]' ).height() - $(window).height();
+var scrollpos = $(window).scrollTop() | $("body").scrollTop();
+if(scrollpos > stickyfooterarticleheight && close && slideFotterStaus == "down"){
+if(w < 1200){
+$('.back-top').css("bottom", "175px");
+}
+$('#stickyfooterarticle').css("visibility", "visible");
+}else{ if(w < 1200){
+$('.back-top').css("bottom", "70px");
+}
+$('#stickyfooterarticle').css("visibility", "hidden");
+}
+}
+else if ($(this).scrollTop() > 230){
+if(w < 1200){
+$('.back-top').css("bottom", "175px");
+}
+$('#stickyfooterarticle').css("visibility", "visible");
+}
+else{ if(w < 1200){
+$('.back-top').css("bottom", "70px");
+}
+$('#stickyfooterarticle').css("visibility", "hidden");
+}
+});
+}
+else{ $('#stickyfooterarticle').css({"visibility":"visible","position":"relative"});
+}
+}
+});
+</script>
+<style>
+#storyNextPopUp {
+display: none !important;
+}
+@media ( max-width : 1023px) and (min-width: 768px) {
+.back-top {
+bottom: 125px;
+}
+}
+</style>
+<div id="stickyfooterarticle">
+<div class="recommendedtitlediv">
+<div class="recommendedtitlewrap">
+<span>Recommended for you </span> </div>
+</div>
+<div class="close">
+<span aria-hidden="true">Close X</span>
+</div>
+<div class="footercar" id="recommededstories"></div>
+<div class="textcount"></div>
+</div>
+<script>
+$(document).ready(function() {
+$('#stickyfooterarticle').hide();
+// console.log("transaction Id :", transactionId);
+if(transactionId != "")
+{ CrossdomainAjax("https://tai.thehindu.com/userreco?section=other-states&size=10&aid=26920453&transactionId="+transactionId,recommendedstories);
+}
+});
+</script>
+<div class="nxt-prv-2-story-cont hidden-sm hidden-md hidden-lg">
+<div class="next-story" data-selector="26918417" data-label="other-states" data-category="next-story">
+<a href="https://www.thehindu.com/news/national/other-states/odisha-naveen-patnaik-casts-his-vote/article26918417.ece" class="next-heading yellow-color">Next Story <i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
+<a href="https://www.thehindu.com/news/national/other-states/odisha-naveen-patnaik-casts-his-vote/article26918417.ece" class="story-text">Odisha: Naveen Patnaik casts his vote</a>
+</div>
+<div class="jscroll-next-selector">
+<a href="https://www.thehindu.com/news/national/other-states/odisha-naveen-patnaik-casts-his-vote/article26918417.ece" class="jscroll-next"></a>
+</div>
+</div>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+$(function(){
+if(isNonSubcribedUser()){
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'alternating-thumbnails-a',
+container: 'taboola-below-article-thumbnails',
+placement: 'Below Article Thumbnails',
+target_type: 'mix'
+});
+}
+});
+</script>
+<!-- Begin DFP : /22390678/Hindu_WAP_AT_Middle, publisher: The Hindu -->
+<script>
+if(isDeviceEnabled("[large, medium]") && isNonSubcribedUser()) {
+var slotName = 'div-gpt-ad-1518418788389-1';
+var idStart = "content-body-";
+var articleSize = document.getElementsByClassName("article").length - 1;
+var componentContainer = document.getElementsByClassName("article")[articleSize].getElementsByTagName("div");
+for (var i = 0; i < componentContainer.length; i++) {
+var id = componentContainer[i].id;
+if ((id.length >= idStart.length) && (id.substring(0, idStart.length) == idStart)) {
+var pTagList = componentContainer[i].getElementsByTagName('P');
+if (pTagList.length > 1) {
+var secondPTag = componentContainer[i].getElementsByTagName('p')[1];
+Element.prototype.appendAfter = function(element) {
+element.parentNode.insertBefore(this, element.nextSibling);
+};
+var newElement = document.createElement('div');
+newElement.id = slotName;
+newElement.setAttribute("class", "dfp-ad");
+newElement.appendAfter(secondPTag);
+break;
+}
+}
+}
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518418788389-1'); });
+}
+</script>
+<!-- End DFP : /22390678/Hindu_WAP_AT_Middle, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_WAP_AT_Bottom, publisher: The Hindu -->
+<div id="div-gpt-ad-1518418788389-2" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[large, medium]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518418788389-2'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_AT_Bottom, publisher: The Hindu -->
+<div class="outbrain-main-cont mobile-padding">
+<section >
+<div id="comments_26920453"></div>
+<div id="vuukle-comments" data-article-id="26920453" data-comments-open="false"></div>
+</section>
+<!-- Begin DFP : /22390678/Hindu_Desktop_ROS_BTF03, publisher: The Hindu -->
+<div id="div-gpt-ad-1532934634309-0" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1532934634309-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_ROS_BTF03, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_WAP_AT_Bottom02, publisher: The Hindu -->
+<div id="div-gpt-ad-1532934750977-0" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[large, medium]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1532934750977-0'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_AT_Bottom02, publisher: The Hindu -->
+<section >
+<div class="comment-rules">
+<ol>
+<li>
+Comments will be moderated by The Hindu editorial team. </li>
+<li>
+Comments that are abusive, personal, incendiary or irrelevant cannot be published.
+</li>
+<li>
+Please write complete sentences. Do not type comments in all capital letters, or in all lower case letters, or using abbreviated text. (example: u cannot substitute for you, d is not 'the', n is not 'and').
+</li>
+<li>
+We may remove hyperlinks within comments.
+</li>
+<li>
+Please use a genuine email ID and provide your name, to avoid rejection.
+</li>
+</ol>
+</div>
+</section>
+</div>
+<div class="printfooter">
+<p>
+Printable version | Apr 23, 2019 3:56:10 PM | https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece
+</p>
+<p class="copyright">
+&copy; The Hindu
+</p>
+</div>
+<!-- Begin DFP : /22390678/Hindu_WAP_AT_Footer, publisher: The Hindu -->
+<div id="div-gpt-ad-1518418788389-3" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[large, medium]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518418788389-3'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_WAP_AT_Footer, publisher: The Hindu -->
+<div class="nextinfinite"><div class="inifinitecontain"><span>Next Story</span></div></div>
+<!-- User Data Capture start -->
+<script type="text/javascript">
+(function(w,d,l,i) {
+w[l]=w[l]||[];
+w[l].push({start: new Date().getTime(), siteId: 'TRC-J3AFTO'});
+})(window, document, 'taiDataLayer', 'TRC-J3AFTO');
+var taiData = (typeof window.taiDataLayer != 'undefined') ? window.taiDataLayer : [];
+var taiDataObject = {
+msisdn:'',
+productId: 'thehindu',
+uid: '',
+skuid: '',
+aid: '26920453',
+geo: '',
+pageTitle: 'Pragya says pendency of trial does not bar her from contesting election',
+pageUrl: 'https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece',
+etime: '',
+search: '',
+share: '',
+userinfo:isUserDetails,
+pageName: 'other-states',
+pageCategory: 'Malegaon blast case, Sadhvi Pragya, Pragya Singh Thakur, saffron terror',
+sectionId: '168', };
+taiData.push(taiDataObject);
+</script>
+<!-- User Data Capture end -->
+<!-- Begin DFP : /22390678/Hindu_WAP_Inarticle_1x1, publisher: The Hindu -->
+<script>
+if(isDeviceEnabled("[large, medium]") && isNonSubcribedUser()) {
+var slotName = 'div-gpt-ad-1531980463264-0';
+var idStart = "content-body-";
+var articleSize = document.getElementsByClassName("article").length - 1;
+var componentContainer = document.getElementsByClassName("article")[articleSize].getElementsByTagName("div");
+for (var i = 0; i < componentContainer.length; i++) {
+var id = componentContainer[i].id;
+if ((id.length >= idStart.length) && (id.substring(0, idStart.length) == idStart)) {
+var pTagList = componentContainer[i].getElementsByTagName('P');
+if (pTagList.length > 1) {
+var secondPTag = componentContainer[i].getElementsByTagName('p')[3];
+if(typeof secondPTag !== "undefined"){
+Element.prototype.appendAfter = function(element) {
+element.parentNode.insertBefore(this, element.nextSibling);
+};
+var newElement = document.createElement('div');
+newElement.id = slotName;
+newElement.setAttribute("class", "dfp-ad Inarticle");
+newElement.appendAfter(secondPTag);
+break;
+}
+}
+}
+}
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1531980463264-0'); });
+}
+</script>
+<!-- End DFP : /22390678/Hindu_WAP_Inarticle_1x1, publisher: The Hindu -->
+</div>
+</div>
+<aside>
+<aside class="hidden-sm hidden-xs aside lazyimage-anchor" >
+<div class="row">
+<!-- Begin DFP : /22390678/Hindu_Desktop_HP_CPD, publisher: The Hindu -->
+<div id="div-gpt-ad-1521709628297-1" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521709628297-1'); });
+}
+else if(isDeviceEnabled("[medium, small]") && !isNonSubcribedUser()){
+$(document).ready(function () {
+RecAdvtFiller('div-gpt-ad-1521709628297-1');
+});
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_HP_CPD, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_Desktop_HP_RT, publisher: The Hindu -->
+<div id="div-gpt-ad-1521709628297-2" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521709628297-2'); });
+}
+else if(isDeviceEnabled("[medium, small]") && !isNonSubcribedUser()){
+$(document).ready(function () {
+RecAdvtFiller('div-gpt-ad-1521709628297-2');
+});
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_HP_RT, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_Desktop_HP_300x100_1, publisher: The Hindu -->
+<div id="div-gpt-ad-1521709628297-4" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521709628297-4'); });
+}
+else if(isDeviceEnabled("[medium, small]") && !isNonSubcribedUser()){
+$(document).ready(function () {
+RecAdvtFiller('div-gpt-ad-1521709628297-4');
+});
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_HP_300x100_1, publisher: The Hindu -->
+</div>
+</aside>
+<aside class="hidden-sm hidden-xs aside lazyimage-anchor" >
+<div class="row">
+<div class="wf-placeholder"
+data-loadURL="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece/wf.fragment/26fcd6fd-1684-45bb-804f-a9d2fc678da6?homepage=true"
+data-elementwidth="285.0"
+data-skip-profiles=""></div>
+</div>
+</aside>
+<aside class="hidden-sm hidden-xs aside lazyimage-anchor" >
+<div class="row">
+<!-- Begin DFP : /22390678/Hindu_Desktop_HP_300x100_2, publisher: The Hindu -->
+<div id="div-gpt-ad-1521709628297-5" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521709628297-5'); });
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_HP_300x100_2, publisher: The Hindu -->
+<div class="col-xs-12">
+<div data-label="article-page-other-states"data-category="first-promo-story">
+<div class="3x_PromotedStory mobile-padding">
+<div class="hover-icon">
+<div class="promoted-story promoted-single-story">
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/three-fifths-rate-economic-situation-average-or-bad/article26750123.ece" class="promoted-story-img promoted-single-story-img focuspoint" data-focus-x="0" data-focus-y="0">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~SQUARE"
+data-src-template="https://th.thgim.com/news/rzrddl/article26750355.ece/BINARY/thumbnail/vbk-jobs"	alt="The Lokniti survey reveals concerns over jobs and income, but also middling support for government. File"
+title="The Lokniti survey reveals concerns over jobs and income, but also middling support for government. File"
+class="media-object lazy adaptive placeholder"
+/>
+</a>
+<div class="promoted-story-heading heading-container">
+<h3>
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/three-fifths-rate-economic-situation-average-or-bad/article26750123.ece" class="promoted-news-heading left" title="Updated: April 8, 2019 16:48 IST&#013;Published: April 5, 2019 22:33 IST">
+Three-fifths rate economic situation as ‘average’ or ‘bad’
+</a>
+</h3>
+<a class="share-icon hidden-xs hidden-sm right"><i class="fa fa-share-alt"></i></a>
+</div>
+<div class="promoted-story-text pss-text">
+<p class="author-text hidden-xs">
+But nearly half of those surveyed want Prime Minister Modi to return to power.
+</p>
+<a href='https://www.thehindu.com/profile/author/Lokniti-Team-55420/'class='person-name lnk'>Lokniti Team</a>
+</div>
+<!-- [comment-section] -->
+<div class="news-comments-area hidden-xs hidden-sm">
+<ul>
+<li>
+<i class="fa fa-clock-o"></i> </li>
+<!-- li><i class="fa fa-eye"></i> </li -->
+</ul>
+</div>
+<!-- [/comment-section] -->
+<!-- [hover-social-media] -->
+<div class='hover-social-media-top hidden-xs' data-share-url='https://www.thehindu.com/elections/lok-sabha-2019/three-fifths-rate-economic-situation-average-or-bad/article26750123.ece' data-share-text='Three-fifths rate economic situation as ‘average’ or ‘bad’' ><ul><a style='color:#3B5998; border-right:1px solid #fff;'><li><i class='fa fa-facebook'></i></li></a><a style='color:#55ACEE;'><li><i class='fa fa-twitter'></i></li></a></ul></div>
+<!-- [/hover-social-media] --> </div>
+</div>
+</div>
+</div>
+<div data-label="article-page-other-states"data-category="Second-promo-story">
+<div class="3x_PromotedStory mobile-padding">
+<div class="hover-icon">
+<div class="promoted-story promoted-single-story">
+<a href="https://www.thehindu.com/news/national/other-states/nursed-back-to-health-after-poisoning-30-vultures-released-in-assam/article26788961.ece" class="promoted-story-img promoted-single-story-img focuspoint" data-focus-x="0" data-focus-y="0">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~SQUARE"
+data-src-template="https://th.thgim.com/news/national/other-states/lebits/article26788960.ece/BINARY/thumbnail/Vulture-release"	alt="The birds had fed on a cattle carcass that was apparently poisoned to kill feral dogs."
+title="The birds had fed on a cattle carcass that was apparently poisoned to kill feral dogs."
+class="media-object lazy adaptive placeholder"
+/>
+</a>
+<div class="promoted-story-heading heading-container">
+<h3>
+<a href="https://www.thehindu.com/news/national/other-states/nursed-back-to-health-after-poisoning-30-vultures-released-in-assam/article26788961.ece" class="promoted-news-heading left" title="Updated: April 10, 2019 22:57 IST&#013;Published: April 10, 2019 08:57 IST">
+Nursed back to health after poisoning, 30 vultures released in Assam
+</a>
+</h3>
+<a class="share-icon hidden-xs hidden-sm right"><i class="fa fa-share-alt"></i></a>
+</div>
+<div class="promoted-story-text pss-text">
+<p class="author-text hidden-xs">
+They had undergone treatment at the Centre for Wildlife Rehabilitation and Conservation at Kaziranga
+</p>
+<a href='#'class='person-name no-lnk'>Special Correspondent</a>
+</div>
+<!-- [comment-section] -->
+<div class="news-comments-area hidden-xs hidden-sm">
+<ul>
+<li>
+<i class="fa fa-clock-o"></i> </li>
+<!-- li><i class="fa fa-eye"></i> </li -->
+</ul>
+</div>
+<!-- [/comment-section] -->
+<!-- [hover-social-media] -->
+<div class='hover-social-media-top hidden-xs' data-share-url='https://www.thehindu.com/news/national/other-states/nursed-back-to-health-after-poisoning-30-vultures-released-in-assam/article26788961.ece' data-share-text='Nursed back to health after poisoning, 30 vultures released in Assam' ><ul><a style='color:#3B5998; border-right:1px solid #fff;'><li><i class='fa fa-facebook'></i></li></a><a style='color:#55ACEE;'><li><i class='fa fa-twitter'></i></li></a></ul></div>
+<!-- [/hover-social-media] --> </div>
+</div>
+</div>
+</div>
+</div>
+<!-- Begin DFP : /22390678/Hindu_Desktop_HP_RB, publisher: The Hindu -->
+<div id="div-gpt-ad-1521709628297-6" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521709628297-6'); });
+}
+else if(isDeviceEnabled("[medium, small]") && !isNonSubcribedUser()){
+$(document).ready(function () {
+EditAdvtFiller('div-gpt-ad-1521709628297-6');
+});
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_HP_RB, publisher: The Hindu -->
+<div class="3x_CuratedListImgCarousel">
+<div class="col-xs-12 hover-icon">
+<div class="promoted-story clic-container">
+<div class="promoted-story-heading clic-heading-container">
+<a class="promoted-news-heading clic-heading left">
+Top Picks in The Hindu today
+</a> </div>
+<div class="clic-slider"data-label="article-page-other-states"data-category="top-picks">
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/sci-tech/technology/internet/battle-of-the-bans-in-india-pewdiepies-diss-tracks-pubg-and-tiktok/article26912395.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/sci-tech/technology/internet/xuphg6/article26912390.ece/BINARY/thumbnail/23bgappsbanned"	alt=""
+title=""
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/sci-tech/technology/internet/battle-of-the-bans-in-india-pewdiepies-diss-tracks-pubg-and-tiktok/article26912395.ece">PewDiePie’s diss tracks, PUBG and TikTok: Battle of the bans in India 2019</a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/snake-inside-vvpat-machine-holds-up-polling-in-kannur-kerala/article26918791.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/news/national/kerala/fe8jvf/article26919781.ece/BINARY/thumbnail/Snakejpg"	alt="A snake which wa found inside a VVPAT machine in a booth during a poll at Kandakkai near Mayyil in Kannur Lok constituency, Kerala on Tuesday, April 23, 2019."
+title="A snake which wa found inside a VVPAT machine in a booth during a poll at Kandakkai near Mayyil in Kannur Lok constituency, Kerala on Tuesday, April 23, 2019."
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/snake-inside-vvpat-machine-holds-up-polling-in-kannur-kerala/article26918791.ece">Snake inside VVPAT machine holds up polling in Kannur, Kerala </a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/sci-tech/energy-and-environment/water-home-delivered-at-turahalli-forest/article26919566.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/sci-tech/energy-and-environment/x8utmh/article26919565.ece/BINARY/thumbnail/22BGM-TURAHALLIFORESTMM"	alt=""
+title=""
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/sci-tech/energy-and-environment/water-home-delivered-at-turahalli-forest/article26919566.ece">Water, home-delivered at Turahalli forest</a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/society/history-and-culture/after-two-years-century-old-ma-hajiani-dargah-restored-to-glory/article26915467.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/news/cities/mumbai/cnpu2e/article26915465.ece/BINARY/thumbnail/23BMafter-restoration-image-Khorshed-Deboo"	alt=""
+title=""
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/society/history-and-culture/after-two-years-century-old-ma-hajiani-dargah-restored-to-glory/article26915467.ece">After two years, century-old Ma Hajiani Dargah restored to glory </a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/entertainment/movies/andhadhun-wins-big-at-first-critics-choice-awards/article26915161.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/news/cities/mumbai/bxw2jw/article26915160.ece/BINARY/thumbnail/23BMShah-Rukh-Khan"	alt="Centre of attraction: Shah Rukh Khan rated the first edition of Critics’ Choice Awards one-and-a-half stars."
+title="Centre of attraction: Shah Rukh Khan rated the first edition of Critics’ Choice Awards one-and-a-half stars."
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/entertainment/movies/andhadhun-wins-big-at-first-critics-choice-awards/article26915161.ece">'Andhadhun' wins big at first Critics’ Choice Awards </a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/news/national/chowkidar-chor-hai-is-a-political-slogan-rahul-tells-sc/article26911708.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/elections/lok-sabha-2019/jjzlja/article26899870.ece/BINARY/thumbnail/20TH-THGRP-RAHUL"	alt="Congress president Rahul Gandhi addresses an election rally in Chikodi on April 19, 2019."
+title="Congress president Rahul Gandhi addresses an election rally in Chikodi on April 19, 2019."
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/news/national/chowkidar-chor-hai-is-a-political-slogan-rahul-tells-sc/article26911708.ece">‘Chowkidar chor hai’ is a political slogan, Rahul tells SC</a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/news/international/three-children-of-danish-billionaire-anders-holch-povlsen-killed-in-sri-lanka-blasts/article26912263.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/news/international/qpryb7/article26912262.ece/BINARY/thumbnail/DENMARKSRILANKA"	alt="FILE - In this Aug. 21, 2017 file photo, Bestseller CEO Anders Holch Povlsen speaks during an event in Aarhus, Denmark."
+title="FILE - In this Aug. 21, 2017 file photo, Bestseller CEO Anders Holch Povlsen speaks during an event in Aarhus, Denmark."
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/news/international/three-children-of-danish-billionaire-anders-holch-povlsen-killed-in-sri-lanka-blasts/article26912263.ece">Three children of Danish billionaire Anders Holch Povlsen killed in Sri Lanka blasts </a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/news/international/climate-change-protesters-chart-a-new-course/article26913758.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/news/international/a5p3b9/article26913757.ece/BINARY/thumbnail/THJC-BRITAIN-POLITICS-ENVIRONMENT-CLIMATE-DEMONSTRATION1"	alt="Pedestrians walk by the tents of climate change activists at Marble Arch in London on Monday."
+title="Pedestrians walk by the tents of climate change activists at Marble Arch in London on Monday."
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/news/international/climate-change-protesters-chart-a-new-course/article26913758.ece">Climate change protesters chart a new course</a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/news/international/as-new-era-dawns-in-japan-canny-shops-sell-tins-of-old-air/article26913690.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/news/international/8ij0cu/article26913689.ece/BINARY/thumbnail/23TH-JAPAN-ROYALS-ERA-EMPEROR"	alt="This handout photograph taken on April 22, 2019 and released by Heso Production Company shows the company's production, a can containing the air of Japan's outgoing Heisei era, in Seki city, Gifu prefecture."
+title="This handout photograph taken on April 22, 2019 and released by Heso Production Company shows the company's production, a can containing the air of Japan's outgoing Heisei era, in Seki city, Gifu prefecture."
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/news/international/as-new-era-dawns-in-japan-canny-shops-sell-tins-of-old-air/article26913690.ece">As new era dawns in Japan, canny shops sell tins of old air </a>
+</div>
+</div>
+</div>
+<div class="clic-slide">
+<div class="clics-img-text">
+<div class="clics-cont">
+<a href="https://www.thehindu.com/news/international/homeless-activists-outside-notre-dame-seek-a-roof-too/article26913822.ece"><span class="clics-text-img">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="LANDSCAPE" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE"
+data-src-template="https://th.thgim.com/news/international/t98l23/article26913821.ece/BINARY/thumbnail/THJC-FRANCENOTREDAME"	alt="A woman holds a poster that reads in French: "One billion for Notre Dame! Zero for homeless" during a protest in front of the Notre Dame cathedral in Paris, Monday, April 22, 2019."
+title="A woman holds a poster that reads in French: "One billion for Notre Dame! Zero for homeless" during a protest in front of the Notre Dame cathedral in Paris, Monday, April 22, 2019."
+class="media-object lazy adaptive placeholder"
+/>
+</span></a>
+<a href="https://www.thehindu.com/news/international/homeless-activists-outside-notre-dame-seek-a-roof-too/article26913822.ece">Homeless activists outside Notre Dame seek ‘a roof too’ </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$( document ).ready(function() {
+$('.clic-slider:last').slick({
+slidesToShow: 3,
+vertical: true,
+autoplay: false,
+autoplaySpeed: 3000,
+swipeToSlide: true,
+prevArrow: '<div class="top-arrow"></div>',
+nextArrow: '<div class="bottom-arrow"></div>',
+responsive: [
+{
+breakpoint: 1023,
+settings: {
+slidesToShow: 3,
+slidesToScroll: 1,
+infinite: true,
+dots: false,
+vertical: false,
+arrows: false,
+variableWidth: true
+}
+}
+// You can unslick at a given breakpoint now by adding:
+// settings: "unslick"
+// instead of a settings object
+]
+});
+});
+</script>
+<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+$(function(){
+if(isNonSubcribedUser()){
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'alternating-thumbnails-rr',
+container: 'taboola-right-rail-thumbnails',
+placement: 'Right Rail Thumbnails',
+target_type: 'mix'
+});
+}
+});
+</script>
+<div class="stickyadwrapper hidden-xs hidden-sm">
+<div class="stickybottom">
+<!-- Begin DFP : /22390678/Hindu_Desktop_HP_BTF01, publisher: The Hindu -->
+<div id="div-gpt-ad-1521709628297-7" class="dfp-ad " style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521709628297-7'); });
+}
+else if(isDeviceEnabled("[medium, small]") && !isNonSubcribedUser()){
+$(document).ready(function () {
+EditAdvtFiller('div-gpt-ad-1521709628297-7');
+});
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_HP_BTF01, publisher: The Hindu -->
+<!-- Begin DFP : /22390678/Hindu_Desktop_HP_BTF02, publisher: The Hindu -->
+<div id="div-gpt-ad-1521709628297-8" class="dfp-ad stickybottom" style="">
+<script>
+if(isDeviceEnabled("[medium, small]") && isNonSubcribedUser()) {
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1521709628297-8'); });
+}
+else if(isDeviceEnabled("[medium, small]") && !isNonSubcribedUser()){
+$(document).ready(function () {
+EditAdvtFiller('div-gpt-ad-1521709628297-8');
+});
+}
+</script>
+</div>
+<!-- End DFP : /22390678/Hindu_Desktop_HP_BTF02, publisher: The Hindu -->
+</div>
+</div>
+</div>
+</aside>
+</aside>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<section class=" " >
+<div class="wf-placeholder"
+data-loadURL="https://www.thehindu.com/wf.fragment/0794209c-de45-4029-9e03-a0f1e0a55dee"
+data-elementwidth="1140"
+data-skip-profiles="small"></div>
+<div class="33_1x_StoryNextPopUp storyNextPopUp" id="storyNextPopUp" data-label="other-states" data-category="next-story">
+<div class="SNextP3x1-container hidden-xs hidden-sm">
+<button class="nextStoryClose">Close X</button>
+<div class="story-card">
+<a href="https://www.thehindu.com/news/national/other-states/odisha-naveen-patnaik-casts-his-vote/article26918417.ece" class="story-card-img focuspoint" data-focus-x="0" data-focus-y="0">
+<img src="https://th.thgim.com/static/img/1x1_spacer.png" data-variant="SQUARE" data-device-variant=""
+data-src-template="https://th.thgim.com/elections/lok-sabha-2019/en41n0/article26847818.ece/BINARY/thumbnail/TH16NATIONNAVEEN"	alt=""
+title="Odisha Chief Minister Naveen Patnaik. File"
+class="media-object lazy adaptive placeholder"
+/>
+</a>
+<div class="story-card-news">
+<span class="story-card-heading">
+<a class="SNextP3x1-next-story yellow-color" href="https://www.thehindu.com/news/national/other-states/odisha-naveen-patnaik-casts-his-vote/article26918417.ece">Next Story &raquo;</a>
+</span>
+<a href="https://www.thehindu.com/news/national/other-states/odisha-naveen-patnaik-casts-his-vote/article26918417.ece" class="story-card-news-text">
+Odisha: Naveen Patnaik casts his vote
+</a>
+</div>
+</div>
+</div>
+</div>
+<script>
+$( document ).ready(function() {
+$( "div#storyNextPopUp .nextStoryClose" ).click(function() {
+$( "div#storyNextPopUp .story-card" ).toggle( "fast" );
+$(this).text(function(i, text){
+return text === "view next story" ? "close x" : "view next story";
+});
+});
+});
+</script>
+<!-- this marks the end of articles -->
+<div class="special-end-mark"></div>
+</section>
+<footer class=" " >
+<div class="container">
+<div class="full-width-add-footer250 hidden-xs hidden-sm">
+</div>
+</div>
+</footer>
+<footer class=" " >
+<div id="test" >
+<style type="text/css">
+.chevron::before {
+border-style: solid;
+border-width: 0.25em 0.25em 0 0;
+content: '';
+display: inline-block;
+height: 10px;
+position: relative;
+top: 6px;
+transform: rotate(-45deg);
+width: 10px;
+}
+.chevron.bottom:before {
+top: 2px;
+transform: rotate(135deg);
+}
+.entrySubs p, .entrySubs button {
+font-family: 'Fira Sans', sans-serif;
+}
+.entrySubs {
+font-family: 'Fira Sans', sans-serif;
+background: transparent;
+position: fixed;
+width: 100%;
+bottom: 0px;
+z-index: 999;
+}
+.entryBcg {
+background: #479fc6;
+width: 100%;
+/* float: left; */
+z-index: 999;
+}
+i.chevron {
+background: #479fc6;
+padding: 5px 15px 25px 15px;
+border-radius: 35px;
+text-align: center;
+font-size: 9px;
+font-weight: normal;
+font-style: normal;
+font-stretch: normal;
+color: #f5f5f5;
+font-family: 'FontAwesome';
+cursor: pointer;
+}
+.entryIcons:before {
+background-color: red;
+content: "";
+display: block;
+height: 3px;
+position: absolute;
+right: -27px;
+top: 7px;
+width: 23px;
+z-index: 7;
+}
+.entryIcons:after {
+background-color: #fff;
+content: "";
+display: block;
+height: 3px;
+position: absolute;
+right: -27px;
+top: 7px;
+width: 23px;
+z-index: 7;
+}
+.entryCommonDiv {
+text-align: center;
+padding: 0;
+margin: 0;
+}
+.entryCommonSubDiv {
+color: #ffffff;
+}
+.entryCommonRightDiv {
+padding: 10px;
+font-family: 'Fira Sans', sans-serif;
+font-size: 16px;
+font-weight: 600;
+line-height: 1.3;
+letter-spacing: 1.1px;
+text-align: left;
+color: #ffffff;
+}
+.entryCommonLeftDiv {
+text-align: right;
+padding: 0px 8px;
+}
+.removeentrySubs {
+margin: 8px 12px;
+border: 1px solid #ffffff;
+border-radius: 4px;
+background: #479fc6;
+font-size: 14px;
+font-weight: bold;
+line-height: 1.29;
+letter-spacing: 1.1px;
+text-align: center;
+color: #ffffff;
+display: inline-block;
+padding: 10px;
+}
+.btnremove {
+margin: 8px 0px;
+border: 1px solid rgb(71, 159, 198);
+border-radius: 4px;
+background: rgb(255, 255, 255);
+font-size: 14px;
+font-weight: bold;
+line-height: 1.29;
+letter-spacing: 1.1px;
+text-align: center;
+color: rgb(71, 159, 198);
+display: inline-block;
+padding: 10px;
+}
+.entrySubs .box {
+display: none;
+}
+.entrySubs .boxResLeft {
+margin: 60px 0px;
+width: 100%;
+float: left;
+}
+.entrySubs .boxResMiddle {
+margin: 60px 0px;
+text-align:center;
+}
+.entrySubs .boxResMiddle img {
+width: 70%;
+}
+.entrySubs .boxTitle {
+padding: 15px 0px 5px 0px;
+font-family: 'Fira Sans', sans-serif;
+font-size: 20px;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+line-height: 0.9;
+letter-spacing: 1.6px;
+color: #479fc6;
+}
+.entrySubs .boxSubTitle {
+font-family: 'Fira Sans', sans-serif;
+font-size: 16px;
+line-height: 1.13;
+letter-spacing: 1.3px;
+color: #282828;
+}
+.entrySubs .boxResRight div {
+margin: 41px 0px;
+text-align:center;
+}
+.entrySubs .boxResRight .btSubbtn {
+background: #479fc6;
+border: 1px solid #479fc6;
+border-radius: 5px;
+width: 100%;
+font-family: 'Fira Sans', sans-serif;
+font-size: 16px;
+font-weight: 600;
+line-height: 1;
+letter-spacing: 1.4px;
+padding: 12px 8px;
+display: block;
+color: #fff;
+text-transform: capitalize;
+text-decoration: none;
+}
+.entrySubs .boxResRight .btSign {
+background: #d1ecef;
+border: 1px solid #d1ecef;
+width: 100%;
+font-family: 'Fira Sans', sans-serif;
+font-size: 16px;
+font-weight: bold;
+line-height: 1;
+letter-spacing: 1.4px;
+text-align: center;
+color: #282828;
+border-radius: 4px;
+background-color: #d7eaf2;
+padding: 14px 8px;
+display: block;
+text-transform: inherit;
+text-decoration: none;
+}
+.entrySubs .boxAddTextRight {
+margin: 8px 0px !important;
+}
+.entryBcgRow {
+margin: 0px;
+padding: 0px;
+}
+.entryIcons {
+text-align: center;
+}
+.onlymobile {
+display: none;
+}
+.bannerinline {
+display: inline-block;
+}
+.LetsDoItBtnDiv .close {
+display: block;
+left: 25px;
+text-transform: uppercase;
+font-size: 16px;
+font-family: 'Fira Sans',sans-serif;
+font-weight: 600;
+position: relative;
+z-index: 1;
+letter-spacing: 2px;
+color: #FFF;
+top: 0 !important;
+left: 10px !important;
+}
+.LetsDoItBtnDiv {
+float: right;
+display:flex;
+align-items:center;
+}
+.LetsDoItBtnDiv .close:hover {
+text-decoration:none;
+}
+@media ( max-width :1023px) and (min-width:768px) {
+.entrySubs .boxResLeft img {
+display: block !important;
+}
+.entrySubs .boxResMiddle img {
+width: 50% !important;
+}
+.entrySubs .boxResRight .btSubbtn, .entrySubs .boxResRight .btSign {
+font-size: 9px !important;
+}
+.entrySubs .box {
+padding: 13px;
+width: 100%;
+float: left;
+}
+.removeentrySubs, .btnremove {
+font-size: 12px !important;
+}
+.removeentrySubs {
+margin: 8px 6px !important;
+}
+.entrySubs .boxResRight .btSubbtn, .entrySubs .boxResRight .btSign {
+font-size: 10px !important;
+}
+}
+@media ( max-width :1023px) and (min-width:1px) {
+.entrySubs .entryCommonRightDiv {
+text-align: center;
+}
+.entrySubs .entryCommonLeftDiv {
+text-align: center;
+}
+.entrySubs .boxResMiddle, .entrySubs .boxResLeft {
+margin: 10px 0px;
+}
+.entrySubs .boxResRight div {
+margin: 10px 5px;
+display: block;
+}
+.entrySubs .boxResLeft img {
+display: none;
+}
+.entrySubs .boxResRight {
+text-align: center;
+}
+.entrySubs .BoxcomBtnDiv {
+display: inline-block;
+}
+.entrySubs .boxResMiddle img {
+width: 40%;
+}
+.boxResLeft {
+margin: 0 !important;
+}
+.boxResMiddle {
+margin: 5px 0px !important;
+}
+.entrySubs .boxTitle {
+font-size: 16px;
+}
+.entrySubs .boxSubTitle {
+font-size: 14px;
+padding: 5px;
+}
+.entryCommonRightDiv {
+padding: 11px 7px 0px;
+}
+.entryCommonRightDiv {
+font-size: 12px;
+padding: 10px 0;
+}
+.entrySubs {
+bottom: 50px;
+padding: 0 10px;
+background: transparent;
+}
+.entrySubs.lgin {
+bottom: 0px;
+}
+}
+.LetsDoItBtn {
+color: #479fc6;
+margin: 8px 0px;
+border: 1px solid rgb(71, 159, 198);
+border-radius: 4px;
+background: rgb(255, 255, 255);
+font-size: 14px;
+font-weight: bold;
+line-height: 1.29;
+letter-spacing: 1.1px;
+text-align: center;
+padding: 6px 45px;
+display: inline-block;
+}
+.cookieEnablePopup {
+display: block !important;
+}
+.LetsDoItBtn:hover {
+text-decoration: none;
+}
+.bgWhite {
+background: #f5f5f5;
+}
+.nowrap {
+white-space: nowrap;
+font-weight: unset;
+}
+.closemobile{
+display:none;
+}
+@media ( max-width : 767px) and (min-width: 1px) {
+.back-top {
+bottom: 110px;
+}
+.onlymobile {
+display: block;
+padding: 0;
+position: relative;
+}
+i.chevron {
+background: #fff;
+color: #282828;
+box-shadow: 0px -3.1px 4px 0px rgba(0, 0, 0, .28);
+padding: 5px 10px 15px 10px;
+}
+.entryIcons:after {
+background-color: #fff;
+}
+.entryBcg {
+background: #fff;
+width: 100%;
+border-radius: 10px;
+z-index: 999;
+box-shadow: 0 0 4px 0 rgba(0, 0, 0, .328);
+color: #282828;
+margin-bottom: 10px;
+}
+.entryBcg.open {
+margin-bottom: 0px;
+display: none;
+}
+.onlymobile .entryCommonRightDiv {
+text-align: center;
+color: #282828;
+padding: 8px;
+font-size: 12px;
+}
+.onlymobile .btnremove {
+display: block;
+background: rgb(71, 159, 198);
+color: rgb(255, 255, 255);
+padding: 5px 0;
+font-size: 12px;
+width: 85%;
+}
+.onlymobile .removeentrySubs {
+position: absolute;
+top: -7px;
+right: 0px;
+background: transparent;
+color: #282828;
+border: none;
+margin: 8px;
+padding: 0;
+}
+.bgWhite.stickyboxcontent {
+background: #fff;
+box-shadow: 0 0 4px 0 rgba(0, 0, 0, .328);
+border-radius: 6px;
+padding: 0 10px;
+}
+.stickyboxcontent .boxTitle {
+font-size: 15px;
+color: #000;
+line-height: 1.3;
+padding: 10px;
+letter-spacing: 1.1px;
+}
+.stickyboxcontent .boxSubTitle {
+font-size: 12px;
+padding: 0 16px;
+line-height: 1.5;
+color: #000;
+}
+.onlymobile .entryCommonLeftDiv {
+padding: 0px 8px;
+display: flex;
+}
+.entrySubs .boxResRight .btSign {
+background: #fff;
+border: 1px solid #479fc6;
+background-color: transparent;
+color: #479fc6;
+text-transform: inherit;
+}
+.entrySubs .boxResRight .btSubbtn {
+text-transform: capitalize;
+}
+.LetsDoItBtn {
+padding: 6px;
+display: inline-block;
+width: 100%;
+}
+.closemobile{
+display:block;
+}
+.closemobile .removeentrySubs {
+margin: 0;
+background: transparent;
+color: #000;
+border: none;
+padding: 0;
+float: right;
+position: relative;
+left: 5px;
+}
+.LetsDoItBtnDiv .close {
+display:none;
+}
+}
+@media ( max-width : 320px) and (min-width: 1px) {
+.onlymobile .btnremove {
+font-size: 11px;
+}
+.onlymobile .entryCommonRightDiv {
+font-size: 10px;
+}
+}
+</style>
+<script type="text/javascript">
+$(document).ready(function() {
+$(".chevron").click(function() {
+$(this).toggleClass('bottom');
+$(".entryBcg").toggleClass('open');
+if(DevIdf.isMobile){
+$(".onlymobile").toggle();
+}
+$(".btnremove").toggle();
+$(".stickybox").slideToggle(500);
+$(".removeentrySubs").toggleClass("boxAddTextRight");
+});
+$(".removeentrySubs").click(function() {
+$(".entrySubs").hide();
+});
+});
+</script>
+<div class="entrySubs" style="display:none"> <div class="entryIcons" align="middle">
+<i class="chevron"></i>
+</div>
+<div class="entryBcg clearfix">
+<div class="container">
+<div class="row text-center entryBcgRow">
+<div class="col-md-12 col-sm-12 col-xs-12 entryCommonDiv">
+<div class="entryCommonSubDiv row hidden-xs">
+<div class="col-md-7 col-sm-7 col-xs-12 entryCommonRightDiv">Enjoy The Hindu's new online experience with zero advertisements, personalised recommendations, and news briefings.</div>
+<div class="col-md-5 col-sm-5 col-xs-12 entryCommonLeftDiv">
+<div class="bannerinline" data-category="Banner" data-label="Footer-banner-exploreplans">
+<a href="https://subscription.thehindu.com/subscription?utm_source=curtainraiser&utm_medium=exploreplans&utm_campaign=subscription" class="btnremove text-uppercase btSubbtn" type="button">Explore Plans</a>
+</div>
+<div class="bannerinline" data-category="Banner" data-label="Footer-banner-close">	<a class="removeentrySubs text-uppercase" type="button">Remind Me Later</a>
+</div>
+</div>
+</div>
+<div class="entryCommonSubDiv row onlymobile">
+<div class="col-md-7 col-sm-7 col-xs-7 entryCommonRightDiv">Become a digital subscriber of The Hindu Plus</div>
+<div class="col-md-5 col-sm-5 col-xs-5 entryCommonLeftDiv" data-category="Banner" data-label="Footer-banner-signup-mobile">
+<a href="https://subscription.thehindu.com/subscription?utm_source=curtainraiser&utm_medium=subscribe&utm_campaign=subscription" class="btnremove text-uppercase btSubbtn">Subscribe Now</a>
+</div>
+<div data-category="Banner" data-label="Footer-banner-close-mobile">
+<a class="removeentrySubs text-uppercase">x</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bgWhite stickyboxcontent clearfix">
+<div class="box stickybox">
+<div class="container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<div class="boxResLeft" align="middle"><img src="https://www.thehindu.com/news/7uxv4l/article25732806.ece/alternates/FREE_300/img-responsive"/>
+</div>
+</div>
+<div class="col-sm-6 col-xs-12" align="middle">
+<div data-category="Banner" data-label="Footer-banner-close-mobile" class="closemobile">
+<a class="removeentrySubs text-uppercase boxAddTextRight">x</a>
+</div>
+<div class="boxResMiddle">
+<a href="https://www.thehindu.com/" class="hidden-xs">
+<img src="https://th.thgim.com/static/theme/default/base/img/logo.png" alt="footer-logo">
+</a>
+<div align="middle">
+<p class="boxTitle">Join our online subscriber community</p>
+<p class="boxSubTitle">Experience an advertisement-free site with article recommendations tailored for you</p>
+</div>
+</div>
+</div>
+<div class="col-sm-3 col-xs-12 text-uppercase">
+<div class="boxResRight">
+<div class="BoxcomBtnDiv" align="middle" data-category="Banner" data-label="Footer-banner-signup"><a href="https://subscription.thehindu.com/signup?utm_source=curtainraiser&utm_medium=freetrail&utm_campaign=subscription" class="btSign" >Sign up for Free Trial</a></div>
+<div class="BoxcomBtnDiv" align="middle" data-category="Banner" data-label="Footer-banner-subscription" ><a href="https://subscription.thehindu.com/subscription?utm_source=curtainraiser&utm_medium=subscribe&utm_campaign=subscription" class="btSubbtn" >Subscribe now</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+$(document).ready(function () {
+if(isUserDetails != ""){
+$(".entrySubs").addClass("lgin");
+if(isCampaignLive("userlogin1",1)){
+$(".entryCommonRightDiv").text("Personalise your reading experience by setting up your dashboard");
+$(".entryCommonLeftDiv button, .entryIcons").css("display","none");
+var x = '<div class="LetsDoItBtnDiv" align="middle" data-category="Banner" data-label="Footer-banner-dashboard"><a href="https://subscription.thehindu.com/profile?info=preference" class="LetsDoItBtn" type="button">Lets Do It</a><a class="close LetsCrossBtn">X</a></div>';
+$(".entryCommonLeftDiv").html(x);
+$(".entrySubs").css("display","block");
+setFrequency("userlogin1",365,1)
+}
+}else{
+if(isCampaignLive("regcamp",365)){
+$(".entrySubs").css("display","block");
+setFrequency("regcamp",365,1)
+}
+}
+$(document).on("click", ".LetsCrossBtn", function(){
+$(".entrySubs").css("display","none");
+});
+});
+</script>
+</div>
+<div class="justin-popup-container hidden-sm hidden-md hidden-lg">
+<span class="justin-heading">
+JUST IN
+</span>
+<div class="justin-text-cont">
+<ul >
+<li>
+<a href="https://www.thehindu.com/news/national/telangana/youth-from-telanganas-bellampally-drowns-in-usa/article26920660.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>6mins</span></span>
+Youth from Telangana’s Bellampally drowns in USA
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>20mins</span></span>
+Pragya says pendency of trial does not bar her from contesting election
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/sc-orders-gujarat-govt-to-pay-50-lakh-compensation-to-bilkis-bano/article26919852.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>1hr</span></span>
+SC orders Gujarat govt to pay ₹50 lakh compensation to Bilkis Bano
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/international/citizens-of-at-least-12-countries-died-in-sri-lanka-bombings/article26919659.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>1hr</span></span>
+Citizens of at least 12 countries died in Sri Lanka bombings </a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/chowkidar-chor-hai-remark-sc-issues-formal-contempt-notice-against-rahul-gandhi/article26919705.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>1hr</span></span>
+‘Chowkidar chor hai’ remark: SC issues formal contempt notice against Rahul Gandhi
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/international/japanese-emperor-visits-fathers-tomb-before-abdication/article26919120.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>2hrs</span></span>
+Japanese Emperor visits father’s tomb before abdication
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/people-brave-maoist-threat-hilly-terrain-to-vote-in-wayanad/article26919116.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>2hrs</span></span>
+Lok Sabha Election 2019: People brave Maoist threat, hilly terrain to vote in Wayanad </a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/kerala/people-brave-maoist-threat-hilly-terrain-to-vote-in-wayanad/article26919100.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>2hrs</span></span>
+People brave Maoist threat, hilly terrain to vote in Wayanad </a>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/hindi-cinema-actor-sunny-deol-joins-bjp/article26918965.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Hindi cinema actor Sunny Deol joins BJP </a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/karnataka/families-of-sri-lanka-blasts-victims-demand-special-flight-to-transport-bodies/article26918935.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Families of Sri Lanka blasts victims demand special flight to transport bodies
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/anantnag-mehbooba-muftis-hometown-in-boycott-mode-congress-pockets-polling/article26918884.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Lok Sabha 2019: Mehbooba Mufti’s hometown in boycott mode, Congress pockets polling </a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/movies/video-of-aamir-khan-flying-in-economy-class-goes-viral/article26918823.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Video of Aamir Khan flying in economy class goes viral
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/international/unidentified-gunmen-shot-dead-policeman-escorting-polio-team-in-pakistan/article26918813.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Unidentified gunmen shot dead policeman escorting polio team in Pakistan </a>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/snake-inside-vvpat-machine-holds-up-polling-in-kannur-kerala/article26918791.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+Snake inside VVPAT machine holds up polling in Kannur, Kerala </a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/icici-videocon-case-ed-summons-chanda-kochhar-husband-at-delhi/article26918675.ece">
+<span class="red-color"><i class="fa fa-clock-o"></i> <span>3hrs</span></span>
+ICICI-Videocon case: ED summons Chanda Kochhar, husband at Delhi </a>
+</li>
+</ul>
+<span class="close-justin-container">
+<a class="cj-sub-container">CLOSE</a>
+</span>
+<script type="text/javascript">
+$(document).ready(function(e){
+var just_in_count = $(".justin-text-cont ul li").length;
+$(".just-in-counter").html(just_in_count);
+});
+</script>
+</div>
+</div>
+<div id="popup-menu"
+class="js-menu">
+<!-- POPUP MENU TOP AREA -->
+<div class="menu-top">
+<div class="container clear">
+<div class="menu-icon">
+<a href="javascript:void(0)" id="" class="close menu-close focus">
+<i class="icon"></i>
+</a>
+</div>
+<a href="javascript:void(0)" class="close menu-close close-top">CLOSE THIS MENU</a>
+</div>
+<!-- AFTER SEARCH FUNCTIONALITY IMPLEMENTED -->
+<div class="popup-search-bar hidden-sm hidden-md hidden-lg">
+<div class="ps-sub-container">
+<form action="https://www.thehindu.com/search/">	<input type="text" class="popup-input search-input" placeholder="Search here" name="q" required></input>
+<span class="popup-remove-text clear-button" style="display:none;"></span>
+<button class="popup-search">
+<i class="fa fa-search"></i>
+</button>
+</form>
+</div>
+</div>
+<div class="container clear">
+<span class="trending-sticky-menu">TRENDING TODAY</span>
+</div>
+<div class="trading-menu clear">
+<ul>
+<li>
+<a href="https://www.thehindu.com/news/cities/chennai/" >
+Chennai
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Hyderabad/" >
+Hyderabad
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/bangalore/" >
+Bengaluru
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/videos/" >
+Videos
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/" >
+Entertainment
+</a>
+</li>
+</ul>
+</div>
+</div>
+<!-- main menu -->
+<div class="containerd clear popup-menu-blue">
+<div class="popup-menu clear">
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/todays-paper/" >
+Today&#039;s Paper
+</a>
+</li>
+<li>
+<a href="https://epaper.thehindu.com/" target="" >
+ePaper
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/" >
+News
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/news/national/" >
+National
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/international/" >
+International
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/states/" >
+States
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/news/national/andhra-pradesh/" >
+Andhra Pradesh
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/karnataka/" >
+Karnataka
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/kerala/" >
+Kerala
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/tamil-nadu/" >
+Tamil Nadu
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/telangana/" >
+Telangana
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/national/other-states/" >
+Other States
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/" >
+Business
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/business/agri-business/" >
+Agri-Business
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/Industry/" >
+Industry
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/Economy/" >
+Economy
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/markets/" >
+Markets
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/business/budget/" >
+Budget
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/real-estate/" >
+Real Estate
+</a>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/news/cities/" >
+Cities
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/news/cities/bangalore/" >
+Bengaluru
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/chennai/" >
+Chennai
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Coimbatore/" >
+Coimbatore
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Delhi/" >
+Delhi
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Hyderabad/" >
+Hyderabad
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Kochi/" >
+Kochi
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/kolkata/" >
+Kolkata
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/mumbai/" >
+Mumbai
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/kozhikode/" >
+Kozhikode
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Madurai/" >
+Madurai
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Mangalore/" >
+Mangaluru
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/puducherry/" >
+Puducherry
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Thiruvananthapuram/" >
+Thiruvananthapuram
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Tiruchirapalli/" >
+Tiruchirapalli
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Vijayawada/" >
+Vijayawada
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/cities/Visakhapatnam/" >
+Visakhapatnam
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/" >
+Elections
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/elections/lok-sabha-2019/" >
+Lok Sabha Election 2019
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/andhra-pradesh-assembly/" >
+Andhra Pradesh 2019
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/arunachal-pradesh-assembly/" >
+Arunachal Pradesh 2019
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/odisha-assembly/" >
+Odisha 2019
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/elections/sikkim-assembly/" >
+Sikkim 2019
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/opinion/" >
+Opinion
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/opinion/editorial/" >
+Editorial
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/lead/" >
+Lead
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/op-ed/" >
+Comment
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/columns/" >
+Columns
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/interview/" >
+Interview
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/cartoon/" >
+Cartoon
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/open-page/" >
+Open Page
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/Readers-Editor/" >
+Readers&#039; Editor
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/opinion/letters/" >
+Letters
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/" >
+Sport
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/sport/athletics/" >
+Athletics
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/cricket/" >
+Cricket
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/football/" >
+Football
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/hockey/" >
+Hockey
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/motorsport/" >
+Motorsport
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/other-sports/" >
+Other Sports
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/races/" >
+Races
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sport/tennis/" >
+Tennis
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/entertainment/" >
+Entertainment
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/entertainment/art/" >
+Art
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/dance/" >
+Dance
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/movies/" >
+Movies
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/music/" >
+Music
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/reviews/" >
+Reviews
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/entertainment/theatre/" >
+Theatre
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/society/" >
+Society
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/society/faith/" >
+Faith
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/society/history-and-culture/" >
+History &amp; Culture
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/books/" >
+Books
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/books/books-reviews/" >
+Reviews
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/books/books-authors/" >
+Authors
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/children/" >
+Children
+</a>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/life-and-style/" >
+Life &amp; Style
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/life-and-style/fashion/" >
+Fashion
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/fitness/" >
+Fitness
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/food/" >
+Food
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/motoring/" >
+Motoring
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/travel/" >
+Travel
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/homes-and-gardens/" >
+Homes and gardens
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/life-and-style/luxury/" >
+Luxury
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/technology/" >
+Technology
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/sci-tech/technology/gadgets/" >
+Gadgets
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/technology/internet/" >
+Internet
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/" >
+Sci-Tech
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/sci-tech/science/" >
+Science
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/technology/" >
+Technology
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/health/" >
+Health
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/agriculture/" >
+Agriculture
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/sci-tech/energy-and-environment/" >
+Environment
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+<li>
+<a href="https://www.thehindu.com/education/" >
+Education
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/education/careers/" >
+Careers
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/education/colleges/" >
+Colleges
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/education/schools/" >
+Schools
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/multimedia/" >
+Multimedia
+</a>
+<ul class="sub-menu">
+<li>
+<a href="https://www.thehindu.com/photos/" >
+Photos
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/videos/" >
+Videos
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/podcast/" >
+Podcast
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.thehindu.com/data/" >
+Data
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/specials/" >
+Specials
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/crossword/" >
+Crossword
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/news/resources/" >
+Resources
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/Tags/" >
+Tags
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/thread/" >
+thREAD
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/theatre-fest/" >
+Theatre - Fest
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/november-fest/" >
+November Fest
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/lit-for-life/" >
+Lit for Life
+</a>
+</li>
+</ul>
+</div>
+<div class="other-menu clear">
+<ul class="menu">
+<li>
+<a href="https://www.thehindu.com/archive/" >
+Archive
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/classifieds/" >
+Classifieds
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/ebooks/" >
+eBooks
+</a>
+</li>
+<li>
+<a href="http://www.thehindugroup.in/subscribe/" target="" >
+Subscribe
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/social/" >
+Social
+</a>
+</li>
+<li>
+<a href="https://www.thehindu.com/aboutus/" >
+About Us
+</a>
+</li>
+</ul>
+<ul class="socialize">
+<li>
+<span>CONNECT WITH US</span>
+</li>
+<li>
+<a href="https://www.facebook.com/thehindu" title="Facebook" target="_blank">
+<i class="fa fa-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/The_Hindu" title="Twitter" target="_blank">
+<i class="fa fa-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/the-hindu" title="Linkedin" target="_blank">
+<i class="fa fa-linkedin"></i>
+</a>
+</li>
+<li>
+<a href="https://instagram.com/the_hindu/?ref=badge" title="Instagram" target="_blank">
+<i class="fa fa-instagram"></i>
+</a>
+</li>
+</ul>
+</div>
+<div class="popup-menu-blue-close clear">
+<div style="margin-right:25px;">
+<a href="javascript:void(0)" class="close menu-close popup-bottom-close right">
+<i class="close-icon"></i>
+CLOSE THIS MENU
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<section id="GA-tracking-bottom"
+class="header-top footer-menu clear">
+<!-- [Socialize] -->
+<div class="socialize hidden-xs">
+<ul>
+<li><a href="https://www.facebook.com/thehindu" class="fb" title="Connect on Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/The_Hindu" class="tw" title="Follow on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.linkedin.com/school/the-hindu/" class="in" title="Connect on Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+<li><a href="https://instagram.com/the_hindu/?ref=badge" class="ins" title="Follow on Instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><<a target="_blank" href="https://www.thehindu.com/newsletter-subscription/" class="usernews" title="Subscribe to our Newsletter"><i class="fa fa-envelope"></i></a></li>
+<li><a href="https://www.thehindu.com/social/" class="user androidos" title="Install our Android &amp; iOS apps"><i class="fa fa-mobile"></i></a></li>
+<li><a href="https://store.thehindu.com/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" class="ePaper" title="ePaper">ePaper</a></li>
+<!-- <li><a href="https://epaper.thehindu.com/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" class="user" title="ePaper"><i class="fa fa-newspaper-o"></i></a></li> -->
+</ul>
+</div>
+<!-- [/Socialize] -->
+<div class="footer-logo">
+<a href="https://www.thehindu.com/">
+<img src="https://www.thehindu.com/static/theme/default/base/img/logo.png" alt="Return to frontpage"/>
+</a>
+</div>
+<div class="search-block hidden-xs hidden-sm">
+<form action="https://www.thehindu.com/search/">	<input type="text" data-type="search" title ="Please enter your search text" placeholder="Search here"
+name="q" required oninvalid="setCustomValidity('Please enter your search text.')" oninput="setCustomValidity('')" pattern=".*\S+.*" autocomplete="off">	<button class="fa fa-search search-selection-icon"
+style="background: none !important; color: black"></button>
+<input type="hidden" name="order" value="DESC">
+<input type="hidden" name="sort" value="publishdate">
+</form>
+</div>
+<div class="groupsitesfooter">
+<div class="row">
+<div class="col-md-8 col-sm-8 col-xs-12 grouplist8">
+<div class="row">
+<div class="col-md-4 col-xs-12 col-sm-4 ">
+<span >
+TRENDING TODAY
+</span>
+<ul>
+<li><a href="https://www.thehindu.com/news/international/sri-lanka-bomb-blasts-on-easter-daylive-updates-april-22-2019/article26908682.ece" >Sri Lanka</a></li>
+<li><a href="https://www.thehindu.com/news/national/sexual-harassment-allegations-was-offered-15-crore-to-frame-cji-says-supreme-court-lawyer/article26916017.ece" >Supreme Court</a></li>
+<li><a href="https://www.thehindu.com/news/national/four-indians-among-sri-lankan-blasts-victims/article26904168.ece" >India-Sri Lanka</a></li>
+<li><a href="https://www.thehindu.com/elections/lok-sabha-2019/have-we-kept-our-nuclear-bomb-for-diwali-asks-narendra-modi/article26905408.ece" >Balakot Air Strikes</a></li>
+</ul>
+<ul>	<li><a href="https://www.thehindu.com/news/national/chowkidar-chor-hai-is-a-political-slogan-rahul-tells-sc/article26911708.ece" >Rafale deal</a></li>
+<li><a href="https://www.thehindu.com/elections/lok-sabha-2019/kerala-parliamentary-election-live-updates/article26913309.ece" >Kerala</a></li>
+<li><a href="https://www.thehindu.com/opinion/editorial/in-his-own-cause/article26905324.ece" >Supreme Court</a></li>
+</ul>
+</div>
+<div class="col-md-4 col-xs-12 col-sm-4">
+<span >
+TRENDING THIS WEEK
+</span>
+<ul>
+<li><a href="https://www.thehindu.com/news/international/live-multiple-explosions-in-colombo-and-other-parts-of-sri-lanka/article26903170.ece" >Sri Lanka Easter bombings</a></li>
+<li><a href="https://www.thehindu.com/news/international/sri-lanka-bomb-blasts-on-easter-daylive-updates-april-22-2019/article26908682.ece" >Sri Lanka</a></li>
+<li><a href="https://www.thehindu.com/news/national/sexual-harassment-allegation-cji-ranjan-gogois-presence-on-bench-raises-eyebrows/article26900497.ece" >Supreme Court</a></li>
+<li><a href="https://www.thehindu.com/news/national/sexual-harassment-allegation-against-cji-ranjan-gogoi-a-time-of-deep-turmoil-for-the-supreme-court-says-dushyant-dave/article26900374.ece" >Supreme Court</a></li>
+</ul>
+<ul>	<li><a href="https://www.thehindu.com/news/national/four-indians-among-sri-lankan-blasts-victims/article26904168.ece" >India-Sri Lanka</a></li>
+<li><a href="https://www.thehindu.com/news/national/sexual-harassment-allegations-was-offered-15-crore-to-frame-cji-says-supreme-court-lawyer/article26916017.ece" >Supreme Court</a></li>
+<li><a href="https://www.thehindu.com/elections/lok-sabha-2019/have-we-kept-our-nuclear-bomb-for-diwali-asks-narendra-modi/article26905408.ece" >Balakot Air Strikes</a></li>
+</ul>
+</div>
+<div class="col-md-4 col-xs-12 col-sm-4">
+<span >
+LATEST NEWS
+</span>
+<ul>
+<li><a href="https://www.thehindu.com/news/national/telangana/youth-from-telanganas-bellampally-drowns-in-usa/article26920660.ece">death</a></li>
+<li><a href="https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece">General Elections 2019</a></li>
+<li><a href="https://www.thehindu.com/news/national/sc-orders-gujarat-govt-to-pay-50-lakh-compensation-to-bilkis-bano/article26919852.ece">Supreme Court</a></li>
+<li><a href="https://www.thehindu.com/news/international/sri-lankas-bombings-carried-out-in-retaliation-for-christchurch-mosque-attacks-state-defence-minister-tells-in-parliament/article26919766.ece">Sri Lanka</a></li>
+</ul>
+<ul>	<li><a href="https://www.thehindu.com/news/international/citizens-of-at-least-12-countries-died-in-sri-lanka-bombings/article26919659.ece">terrorism (crime)</a></li>
+<li><a href="https://www.thehindu.com/news/national/chowkidar-chor-hai-remark-sc-issues-formal-contempt-notice-against-rahul-gandhi/article26919705.ece">Rafale deal</a></li>
+<li><a href="https://www.thehindu.com/entertainment/movies/gowtham-bharadwaj-sings-for-vijay-deverakonda-in-dear-comrade/article26919603.ece">The Hindu MetroPlus</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-xs-12 col-sm-4">
+<div class="row">
+<span class="col-xs-12">
+Trending on our group sites
+</span>
+<div class="col-md-6 col-xs-12 col-sm-6 ">
+<span class="groupsitesheading">
+Businessline
+</span>
+<ul>
+<li><a href="https://www.thehindubusinessline.com/news/variety/a-major-himalayan-quake-is-coming-but-when/article26904635.ece" target="_blank">earthquake</a></li>
+<li><a href="https://premium.thehindubusinessline.com/portfolio/personal-finance/in-the-ipo-market-its-a-game-of-luck/article26903680.ece" target="_blank">initial public offering</a></li>
+</ul>
+</div>
+<div class="col-md-6 col-xs-12 col-sm-6 ">
+<span class="groupsitesheading">
+Sportstar
+</span>
+<ul>
+<li><a href="https://sportstar.thehindu.com/cricket/ipl/ipl-2019-rr-dc-rajasthan-royals-delhi-capitals-live-score-prediction-streaming-rabada-smith-pant-dhawan/article26910978.ece" target="_blank">Rajasthan Royals</a></li>
+<li><a href="https://sportstar.thehindu.com/cricket/ipl/ipl-2019-live-score-rcb-csk-dhoni-kohli-tahir-royal-challengers-bangalore-chennai-super-kings-commentary-streaming/article26904019.ece" target="_blank">Royal Challengers Bangalore</a></li>
+<li><a href="https://sportstar.thehindu.com/cricket/ipl/ipl-2019-stats-most-runs-wickets-sixes-fours-centuries/article26722459.ece" target="_blank">IPL</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="footerbg">
+<nav class="navbar footer-main-menu clear hidden-xs " role="navigation" >
+<div id="main-menu"
+>
+<ul class=" hidden-xs">
+<li class="">
+<a href="https://www.thehindu.com/">
+Home
+</a>
+</li>
+<li class="active">
+<a href="https://www.thehindu.com/news/">
+News
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/elections/">
+Elections
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/opinion/">
+Opinion
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/business/">
+Business
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/sport/">
+Sport
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/sport/cricket/">
+Cricket
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/crossword/">
+Crossword
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/entertainment/">
+Entertainment
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/life-and-style/">
+Life &amp; Style
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<nav class="navbar footer-sub-menues " role="navigation" >
+<div class="the-sites clear">
+<span class="footer-nav-heading blue-color hidden-xs">THE SITE</span>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.thehindu.com/aboutus/">
+About Us
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/termsofuse/">
+Terms of Use
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/privacypolicy/">
+Privacy Policy
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/contacts/">
+Contacts
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/archive/">
+Archive
+</a>
+</li>
+<li class="">
+<a href="http://www.thehindugroup.in/subscribe/" target="" >
+Print Subscription
+</a>
+</li>
+<li class="">
+<a href="https://store.thehindu.com/?utm_source=Thehindu.com&utm_medium=MotherDomain&utm_campaign=TheHindu" target="" >
+ePaper
+</a>
+</li>
+<li class="">
+<a href="https://subscription.thehindu.com/subscription" target="" >
+Digital Subscription
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/rssfeeds/">
+Rss Feeds
+</a>
+</li>
+</ul>
+</div>
+<div class="group-sites clear hidden-xs">
+<span class="footer-nav-heading blue-color hidden-xs">GROUP SITES</span>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.thehindu.com/" target="" >
+The Hindu
+</a>
+</li>
+<li class="">
+<a href="https://tamil.thehindu.com/" target="" >
+இந்து தமிழ் திசை
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindubusinessline.com/" target="" >
+Business Line
+</a>
+</li>
+<li class="">
+<a href="https://bloncampus.thehindubusinessline.com/" target="" >
+BL on Campus
+</a>
+</li>
+<li class="">
+<a href="https://sportstar.thehindu.com/" target="" >
+Sportstar
+</a>
+</li>
+<li class="">
+<a href="https://frontline.thehindu.com/" target="" >
+Frontline
+</a>
+</li>
+<li class="">
+<a href="https://www.thehinducentre.com/" target="" >
+The Hindu Centre
+</a>
+</li>
+<li class="">
+<a href="https://roofandfloor.thehindu.com/?utm_source=thehindu&utm_medium=referral&utm_campaign=Internal-Marketing" target="_blank" rel="nofollow">
+RoofandFloor
+</a>
+</li>
+<li class="">
+<a href="https://step.thehindu.com/" target="_blank" rel="nofollow">
+STEP
+</a>
+</li>
+<li class="">
+<a href="http://www.youngworldclub.com/" target="_blank" rel="nofollow">
+Young World Club
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/publications/" target="" >
+Publications
+</a>
+</li>
+<li class="">
+<a href="https://www.thehindu.com/ebooks/" target="" >
+eBooks
+</a>
+</li>
+<li class="">
+<a href="https://thehinduimages.com/" target="_blank" rel="nofollow">
+Images
+</a>
+</li>
+<li class="">
+<a href="http://www.thehinduclassifieds.in/" target="_blank" rel="nofollow">
+Classifieds
+</a>
+</li>
+</ul>
+</div>
+<div class="comment-to clear hidden-xs">
+<span class="footer-nav-heading blue-color">Send your feedback to:</span>
+<a href="mailto:customersupport@thehindu.co.in">customersupport@thehindu.co.in</a>Copyright© 2019, The Hindu </div>
+<div class="back-top" style="display: block;"><a href="#top"><i class="fa fa-angle-up"></i></a></div>
+</nav>
+<nav class="navbar navbar-default " role="navigation" >
+<ul class="nav navbar-nav ">
+</ul>
+</nav>
+</div>
+</div>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m,n){
+i['moengage_object']=r;t={}; q = function(f){return function(){(i['moengage_q']=i['moengage_q']||[]).push({f:f,a:arguments});};};
+f = ['track_event','add_user_attribute','add_first_name','add_last_name','add_email','add_mobile',
+'add_user_name','add_gender','add_birthday','destroy_session','add_unique_user_id','moe_events','call_web_push','track','location_type_attribute'];
+for(k in f){t[f[k]]=q(f[k]);}
+a=s.createElement(o);m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+i['moe']=i['moe'] || function(){n=arguments[0];return t;}; a.onload=function(){if(n){i[r] = moe(n);}};
+})(window,document,'script','https://cdn.moengage.com/webpush/moe_webSdk.min.latest.js','Moengage');
+Moengage = moe({
+app_id:"BIELH8M8CONB0AXBRWP0FYQP",
+debug_logs: 0
+});
+window.addEventListener("MOE_OPT_IN",function(e){
+if(e.detail === "opt_in_shown"){
+ga('send', 'event', "Hard Notification", "click", "shown");
+}
+else if(e.detail === "opt_in_allowed"){
+ga('send', 'event', "Hard Notification", "click", "Allow");
+if(typeof(Notification)=="function" && !DevIdf.isMobile ){
+spawnNotification("You can manage your subscriptions from the browser settings.", "https://www.thehindu.com/static/theme/default/base/img/thlogo1.png","Thank you for Subscribing!");
+}
+}
+else if(e.detail === "opt_in_blocked"){
+ga('send', 'event', "Hard Notification", "click", "Block");
+}
+else if(e.detail === "opt_in_dismissed"){
+ga('send', 'event', "Hard Notification", "click", "Dismiss");
+} });
+function spawnNotification(theBody,theIcon,theTitle) { var options = { body: theBody, icon: theIcon }; navigator.serviceWorker.ready.then(function(sw_reg){
+var n = sw_reg.showNotification(theTitle,options); }).catch(function(e){console.log(e);});
+}
+function addEvent(obj, evt, fn) {
+if (obj.addEventListener) {
+obj.addEventListener(evt, fn, false);
+}
+else if (obj.attachEvent) {
+obj.attachEvent("on" + evt, fn);
+}
+}
+</script>
+<script>
+if(isUserDetails != "" && !isNonSubcribedUser()){
+if(isUserDetails.loginSource == "direct"){
+ga('send', 'event', 'AdFree', document.title , document.location.href, {
+nonInteraction: true
+});
+}
+else if(isUserDetails.loginSource != "direct"){
+ga('send', 'event', 'AdFree', isUserDetails.loginSource , 'Social Login', {
+nonInteraction: true
+});
+}
+}
+else if(isUserDetails != "" && isNonSubcribedUser()){
+if(isUserDetails.loginSource == "direct"){
+ga('send', 'event', 'Signinwithoutplan', document.title , document.location.href, {
+nonInteraction: true
+});
+}
+else if(isUserDetails.loginSource != "direct"){
+ga('send', 'event', 'Signinwithoutplan', isUserDetails.loginSource , 'Social Login', {
+nonInteraction: true
+});
+}
+}
+</script>
+<script>
+$( document ).ready(function() {
+$("input").attr("autocomplete", "off");
+$("img.lazy").lazyload();
+});
+<!---GA tracker for social media - start -->
+$(document).ready(function () {
+$("#GA-tracking-top .fb").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link Facebook');
+return true;
+});
+$("#GA-tracking-bottom .fb").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link Facebook');
+return true;
+});
+$("#GA-tracking-top .tw").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link twitter');
+return true;
+});
+$("#GA-tracking-bottom .tw").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link twitter');
+return true;
+});
+$("#GA-tracking-top .in").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link linkedin');
+return true;
+});
+$("#GA-tracking-bottom .in").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link linkedin');
+return true;
+});
+$("#GA-tracking-top .ins").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link Instagram');
+return true;
+});
+$("#GA-tracking-bottom .ins").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link Instagram');
+return true;
+});
+$("#GA-tracking-top .news").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link newsletter');
+return true;
+});
+$("#GA-tracking-bottom .news").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link newsletter');
+return true;
+});
+$("#GA-tracking-top .androidos").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link Android & iOS');
+return true;
+});
+$("#GA-tracking-bottom .androidos").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link Android & iOS');
+return true;
+});
+$("#GA-tracking-top .ePaper").click(function () {
+ga('send', 'event', 'Header Links', 'Header Links Click', 'Header Link epaper');
+return true;
+});
+$("#GA-tracking-bottom .ePaper").click(function () {
+ga('send', 'event', 'Footer Links', 'Footer Links Click', 'Footer Link epaper');
+return true;
+});
+$('*[id^="content-body"] p a').click(function () {
+ga('send', 'event', 'Inline Links', 'Inline Links Click', 'Inline Link');
+return true;
+});
+$("._hoverrDone div.also-view-container .also-view-img-,.article-topics-container .topic-1").click(function () {
+ga('send', 'event', 'More-In Links', 'More-In Links Click', 'More In');
+return true;
+});
+$('*[id^="content-body"] .also-view-text-cont p').click(function () {
+ga('send', 'event', 'Also-Read Links', 'Also-Read Links Click', 'Also Read');
+return true;
+});
+$(".artNL .nl-submit").click(function () {
+ga('send','event','Article Bottom','NewsletterClick_Article Bottom','NewsletterCallToAction_ArticleBottom')
+return true;
+});
+$(".NLemail .nl-submit").click(function () {
+ga('send','event','Newsletter_Headerlanding','NewsletterClick_Headerlanding ','NewsletterCallToAction_Headerlanding')
+return true;
+});
+$("#GA-tracking-top .usernews").click(function () {
+ga('send','event','Newsletter_Top_Header','NewsletterClick_Header ','NewsletterCallToAction_Headernewsletter')
+return true;
+});
+$(".hpNL .nl-submit").click(function () {
+ga('send','event','Subscription Widget Home Page','NewsletterClick_WidgetHomepage ','NewsletterCallToAction_WidgetHomepage')
+return true;
+});
+$("#stickyfooterarticle .fooeterarticleswrapper a").click(function () {
+ga('send','event','Footer Sticky','FooterSticky_Article Bottom','FooterStickyCallToAction_ArticleBottom')
+return true;
+});
+});
+<!---GA tracker for social media - end -->
+</script>
+<!-- GDPR Common JS -->
+<script>
+function overlayControll (evt) {
+if(evt.origin === 'https://creatives.thehindu.com'){
+document.querySelector("#ppoverlay").style.display = "none";
+}
+}
+if (window.addEventListener) {
+window.addEventListener("message", overlayControll, false);
+}
+else {
+window.attachEvent("onmessage", overlayControll);
+}
+</script>
+<div class="overlay" style="display:none;"></div>
+<div class="addblockersection" style="display:none">
+<div class="callout">
+<div class="callout-container">
+<h2>Using Ad blocker for Ad Free experience?</h2>
+<div class="addMidDiv">
+<div class="addLeft">
+<h4>Introducing The Hindu Plus </h4>
+<ul class="addsubInsideList">
+<li><span class="addsubscribeSlideimg zeroadds"></span> Zero Ads</li>
+<li><span class="addsubscribeSlideimg personalised"> </span>Personalised Recommendations</li>
+<li><span class="addsubscribeSlideimg dashboard"> </span>Dashboard Tool</li>
+<li><span class="addsubscribeSlideimg Briefing"> </span>Briefing</li>	</ul>
+</div>
+<div class="addVerticleLine"></div>
+<div class="addRight">
+<h4>Try our <span>"Ad free"</span> Website</h4>
+<div class="addBtnComDiv">
+<div class="addBoxcomBtnDiv" align="middle">
+<button class="addsubBtn popupBtn" type="button">Sign Up for 30 Days Free Trial </button>
+<button class="addExploreBtn popupBtn" type="button">Explore our Subscription Plans</button>
+<p>Already a user? <a class="addLink" href="https://subscription.thehindu.com/signup?utm_source=adblocker&utm_medium=signin&utm_campaign=adblocker&#signin">Sign In</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="addFooterDiv">
+<p>To know more about Ad free news reading experience and subscription <a class="addLink" href="https://subscription.thehindu.com/subscription?utm_source=adblocker&utm_medium=clickhere&utm_campaign=adblocker">Click Here</a></p>
+<p>or Please whitelist our website on your Adblocker</p>
+</div>
+</div>
+</div>
+</div>
+<script>
+$(document).ready(function(){
+$(".addsubBtn").click(function() {
+location.href = "https://subscription.thehindu.com/signup?utm_source=adblocker&utm_medium=freetrailbutton&utm_campaign=adblocker";
+});
+$(".addExploreBtn").click(function() {
+location.href = "https://subscription.thehindu.com/subscription?utm_source=adblocker&utm_medium=subscribtionbutton&utm_campaign=adblocker";
+});
+});
+</script>
+</footer>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.thehindu.com/analysis-logger/Logger?rt=1&ctxId=168&contextPath=16-157-162-168-&pubId=2&cat=&meta=read-story&objId=26920453&type=article&title=Pragya+says+pendency+of+trial+does+not+bar+her+from+contesting+election&url=https%3a%2f%2fwww.thehindu.com%2fnews%2fnational%2fother-states%2fpragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election%2farticle26920453.ece&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.thehindu.com/analysis-logger/Logger?rt=1&amp;ctxId=168&amp;contextPath=16-157-162-168-&amp;pubId=2&amp;cat=&amp;meta=read-story&amp;objId=26920453&amp;type=article&amp;title=Pragya+says+pendency+of+trial+does+not+bar+her+from+contesting+election&amp;url=https%3a%2f%2fwww.thehindu.com%2fnews%2fnational%2fother-states%2fpragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election%2farticle26920453.ece" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" ></script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style")
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+)
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<!-- custom mordenizr, can be changed if required by cms. We are currently only using no-csscolumn. Later we may need to use other elements also
+<script src="https://th.thgim.com/static/js/modernizr.js"></script>-->
+<script type="text/javascript" src="https://th.thgim.com/static/js/wf-site.ea977f0fbadb948e94494c035b391a1a.min.js"></script>
+<script src="https://th.thgim.com/static/js/lib/slick.min.js"></script>
+<script>
+(function ($, d) {
+$.each(readyQ, function (i, f) {
+$(f)
+});
+$.each(bindReadyQ, function (i, f) {
+$(d).bind("ready", f)
+})
+})(jQuery, document)</script>
+<!-- User Data Capture start -->
+<!-- User Data Capture end -->
+<script type="text/javascript" src="https://dm.thehindu.com/feeder/v2/js/feed.js" async></script>
+<script>
+var RecAdvtFillerURL ="https://tai.thehindu.com/mydashboard/userreco/hindu?siteid="+siteId+"&size=10&recotype=all&userid="+isUserDetails.userId;
+var EditAdvtFillerURL = "https://www.thehindu.com/feeder/advtfiller.json";
+var EditLabel = "Recommended by The Hindu"
+</script>
+<script src="https://th.thgim.com/static/theme/default/base/js/default-base.58d56c876995d23667d9894f78e1ae52.min.js"></script> <script>
+require.config({
+// Local Directory
+baseUrl: "https://th.thgim.com/static/js",
+// Script Locations
+paths: {
+"jquery":"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min",
+"jquery-ui":"jquery-ui-1.12.1.min",
+"slick": "https://th.thgim.com/static/js/lib/slick.min",
+"dateformat":"jquery-dateFormat.min",
+"d3": "d3.min",
+"jplayer": "jquery.jplayer.min",
+"jplayerlist": "jplayer.playlist.min",
+"marquee": "jquery.marquee.min",
+"tipTip": "jquery.tipTip.min",
+"jscroll": "jquery.jscroll.default.min",
+"magnificpopup": "jquery.magnific-popup.min",
+"jquerymobile": "jquery.mobile.min",
+"jqueryautocomplete": "jquery.autocomplete.min",
+"jquerydataTables": "jquery.dataTables.min",
+"jqueryslimscroll":"jquery.slimscroll.min",
+"topojson":"topojson.v2.min"
+},
+waitSeconds:0
+});
+</script>
+<script>
+var Adblock = true;
+</script>
+<script type="text/javascript" src="https://th.thgim.com/static/js/ads.min.js"></script>
+<script>
+if (isNonSubcribedUser() && Adblock) {
+document.body.style.overflow = "hidden";
+$('.overlay').addClass('overlayblock');
+$('.addblockersection').addClass('enableaddblockersection');
+ga('send', 'event', "AdBlock", "AdBlock PopUp", "AdBlock PopUp View", {
+nonInteraction : true
+});
+}
+</script>
+<script>
+$(document).ready(function (e) {
+$(document).on("makeSocialShareReady", function(event, data) {
+var selector = $(data).find(".hover-social-media-top ul li, .hover-social-media-bottom ul li");
+$(selector).on('click', function (e) {
+var shareUrl = $(this).parents('[data-share-url]').data('share-url');
+var shareText = $(this).parents('[data-share-url]').data('share-text');
+if ($(this).find('i').hasClass('fa-facebook')) {
+openShareLink('http://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(shareUrl));
+} else if ($(this).find('i').hasClass('fa-twitter')) {
+openShareLink('http://twitter.com/share?text=' + encodeURIComponent(shareText) + '&url=' + encodeURIComponent(shareUrl));
+}
+});
+});
+$(document).on('pageContentReady', function (event, content) {
+$(document).trigger( "makeSocialShareReady", content );
+});
+});
+$(document).ready(function (e) {
+$(document).trigger( "makeSocialShareReady", $('body') );
+});
+function openShareLink(pLink) {
+var popUp = window.open(pLink, 'popupwindow', 'scrollbars=yes,width=740,height=400');
+popUp.focus();
+return false;
+}
+</script>
+<script>
+var articleShareData = {};
+var excludeShareClickList = ["fa-whatsapp", "fa-envelope", "fa-comment"];
+$(document).ready(function(){
+$(document).on("articleSocialShareReady", function(event, data) {
+var font_key = "article_font_id";
+$(data).find(".edite-text-cont").on("click", " a:not(.active)", function(e){
+var prevActiveId = $(".edite-text-cont a.active").attr('id');
+$(".article-cont").removeClass( $("a#"+prevActiveId).data('parent-class') ).addClass( $(this).data('parent-class') );
+hinduStore.save(font_key, $(this).attr('id'), 1);
+$(".edite-text-cont a").removeClass('active');
+$(".edite-text-cont a#" + $(this).attr('id')).addClass('active');
+});
+var tmpObj = hinduStore.get(font_key);
+if(!tmpObj){
+tmpObj = "medium";
+} else {
+tmpObj = tmpObj.value;
+}
+$(data).find(".edite-text-cont a#" + tmpObj).click();
+});
+});
+</script>
+<script>
+$(document).ready(function(){
+$('.share-more-icon').on('click', function() {
+$(this).next('.share-more').slideToggle();
+});
+$('.close-share-more').on('click', function() {
+$(this).parent('.share-more').slideToggle();
+});
+});	</script>
+<script>
+$(document).ready(function(e){
+$(document).on("articleSocialShareReady", function(event, data) {
+var selector = $(data).find("ul.aricle-share:last li a");
+$(selector).on('click',function(e){
+if($(this).find('i').hasClass('fa-print')) {
+window.print();
+} else {	var targetClass = $(this).find("i").attr("class").split(" ")[1];
+if(excludeShareClickList.indexOf(targetClass) === -1 ) {
+if(typeof sendTaiData !== "undefined" ) {
+taiDataObject['share'] = targetClass.split("-")[1];
+taiDataObject['etime'] = "" + new Date().getTime();
+taiData.push(taiDataObject);
+sendTaiData(taiData, 'share');
+}
+var id = $(".jscroll-inner>.active .articlepage").data("artid") + "-" + targetClass;
+openShareLink(articleShareData[id]);
+}
+}
+});
+});
+// pointing sticky share click to article share click.
+$("ul.aricle-sticky-share li a").on('click',function(e){
+var targetClass = $(this).find("i").attr("class").split(" ")[1];
+if(excludeShareClickList.indexOf(targetClass) === -1 ) {
+$(".jscroll-inner>.active .articlepage ul.aricle-share li a i." + targetClass).parent('a').click();
+}
+});
+function openShareLink(pLink, target) {
+var popUp = window.open(pLink, 'popupwindow', 'scrollbars=yes,width=740,height=400');
+popUp.focus();
+return false;
+}
+});
+</script>
+<script>
+$(document).ready(function(e){
+$(document).on("articleSocialShareReady", function(event, data) {
+var url = $(data).find(".aricle-share").data("shareUrl");
+var text = $(data).find(".aricle-share").data("shareText");
+var articleId = $(data).data("artid");
+var selectorArray = new Array();
+selectorArray.push("articlepage:last .aricle-share");
+selectorArray.push("sticky-article-heading[data-artid='26920453'] .aricle-sticky-share");
+var getOrApply = function(value, context) {
+if($.isFunction(value)) {
+return value.apply(context, $.makeArray(arguments).slice(2));
+}
+return value;
+};
+var URL_PARAMS_REGEX = /(&?[a-zA-Z0-9]+=)?\{([a-zA-Z0-9]+)\}/g;
+var MEASURES = {
+"G": 1000000000,
+"M": 1000000,
+"K": 1000
+};
+_renderShareCount = function(share, container) {
+var $count = $(container).next('.cnt');
+this._loadCount(share).done($.proxy(function(count) {
+if(count) {
+$count.text(count);
+}
+}, this));
+}
+_loadCount = function(share) {
+var deferred = $.Deferred();
+var countUrl = this._getCountUrl(share);
+if(!countUrl) {
+return deferred.resolve(0).promise();
+}
+var handleSuccess = $.proxy(function(response) {
+deferred.resolve(this._getCountValue(response, share));
+}, this);
+$.getJSON(countUrl).done(handleSuccess)
+.fail(function() {
+$.get(countUrl).done(handleSuccess)
+.fail(function() {
+deferred.resolve(0);
+});
+});
+return deferred.promise();
+}
+_getShareUrl = function(share) {
+var shareUrl = getOrApply(share.shareUrl, share);
+return this._formatShareUrl(shareUrl, share);
+}
+_getCountUrl = function(share) {
+var countUrl = getOrApply(share.countUrl, share);
+return this._formatShareUrl(countUrl, share);
+}
+_getCountValue = function(response, share) {
+var count = ($.isFunction(share.getCount) ? share.getCount(response) : response) || 0;
+return (typeof count === "string") ? count : this._formatNumber(count);
+}
+_formatNumber = function(number) {
+$.each(MEASURES, function(letter, value) {
+if(number >= value) {
+number = parseFloat((number / value).toFixed(2)) + letter;
+return false;
+}
+});
+return number;
+}
+_formatShareUrl = function(url, share) {
+return url.replace(URL_PARAMS_REGEX, function(match, key, field) {
+var value = share[field] || "";
+return value ? (key || "") + window.encodeURIComponent(value) : "";
+});
+}
+_createSelector = function(identifier) {
+var tmp = "";
+for(var i=0; i<selectorArray.length; i++) {
+tmp += "."+selectorArray[i]+" ."+identifier;
+if(selectorArray.length > 1 && i < (selectorArray.length - 1))
+tmp += ", ";
+}
+return tmp;
+}
+var tmpCards = new Array();
+var tmpArray = ["facebook", "twitter", "reddit", "whatsapp", "email"];
+for(i = 0; i < tmpArray.length; i++) { tmpCards.push(socialCards[tmpArray[i]]);
+}
+$.each(tmpCards, function(index){
+var share = tmpCards[index];
+share.url = url;
+share.text = text;
+_renderShareCount(share, _createSelector(share.faClass));
+sUrl = _getShareUrl(share);
+// share.shareUrl = sUrl;
+var tmpKey = articleId + "-" + share.faClass;	articleShareData[tmpKey] = sUrl;
+});
+var share = socialCards.whatsapp;
+var shareUrl = articleShareData[articleId + "-" + share.faClass];
+shareUrl += window.encodeURIComponent("?utm_campaign=article_share&utm_medium=referral&utm_source=whatsapp.com");
+$(data).find('.fa-whatsapp.wa').parent().attr("href", shareUrl)
+.attr("target", "_" + share.shareIn);	$(".sticky-article-heading ul.aricle-sticky-share li i.fa-whatsapp.wa").parent().attr("href", shareUrl)
+.attr("target", "_" + share.shareIn);
+share = socialCards.email;
+shareUrl = articleShareData[articleId + "-" + share.faClass];
+$(data).find('.fa-envelope.en').parent().attr("href", shareUrl)
+.attr("target", "_" + share.shareIn);
+$(".sticky-article-heading ul.aricle-sticky-share li i.fa-envelope.en").parent().attr("href", shareUrl)
+.attr("target", "_" + share.shareIn);
+});	});
+$(document).ready(function (e) {
+$(document).trigger( "articleSocialShareReady", $('.articlepage:last'));
+});
+var socialCards = {
+facebook: {
+faClass : 'fa-facebook',
+shareUrl: "https://facebook.com/sharer/sharer.php?u={url}",
+countUrl: function() {
+return "https://graph.facebook.com/?id={url}";
+},
+getCount: function(data) {
+return (data.share && data.share.share_count) || 0;
+}
+},
+googleplus: {
+faClass : 'fa-google-plus',
+shareUrl: "https://plus.google.com/share?url={url}",
+countUrl: function() {
+return "https://cors-anywhere.herokuapp.com/https://plusone.google.com/_/+1/fastbutton?url="+ window.encodeURIComponent(this.url);
+},
+getCount: function(data) {
+return parseFloat((data.match(/\{c: ([.0-9E]+)/) || [])[1]);
+}
+},
+linkedin: {
+faClass : 'fa-linkedin',
+shareUrl: "https://www.linkedin.com/shareArticle?mini=true&url={url}",
+countUrl: "https://www.linkedin.com/countserv/count/share?format=jsonp&url={url}&callback=?",
+getCount: function(data) {
+return data.count;
+}
+},
+pinterest: {
+faClass : 'fa-pinterest-p',
+shareUrl: "https://pinterest.com/pin/create/bookmarklet/?media={media}&url={url}&description={text}",
+countUrl: "https://api.pinterest.com/v1/urls/count.json?&url={url}&callback=?",
+getCount: function(data) {
+return data.count;
+}
+},
+stumbleupon: {
+faClass : 'fa-stumbleupon',
+shareUrl: "http://www.stumbleupon.com/submit?url={url}&title={title}",
+countUrl: "https://cors-anywhere.herokuapp.com/https://www.stumbleupon.com/services/1.01/badge.getinfo?url={url}",
+getCount: function(data) {
+return data.result.views;
+}
+},
+twitter: {
+faClass : 'fa-twitter',
+shareUrl: "https://twitter.com/share?url={url}&text={text}&via={via}&hashtags={hashtags}",
+countUrl: ""
+},
+whatsapp: {
+faClass: "fa-whatsapp",
+shareUrl: "whatsapp://send?text={text} {url}",
+countUrl: "",
+shareIn: "self"
+},
+email: {
+faClass : 'fa-envelope',
+shareUrl: "mailto:{to}?subject={text}&body={url}",
+countUrl: "",
+shareIn: "self"
+},
+gmail: {
+faClass : 'fa-envelope',
+shareUrl: "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=&su={text}&body={url}",
+countUrl: "",
+shareIn: "blank"
+},
+reddit: {
+faClass : 'fa-reddit-alien',
+shareUrl: "https://reddit.com/submit?url={url}&title={title}",
+countUrl: "https://www.reddit.com/api/info.json?url=",
+getCount: function(response) {
+var childrens = response.data.children;
+if(childrens.length > 0) {
+if(childrens[0].hasOwnProperty("data")) {
+return childrens[0].data.score;
+}
+}
+return "";
+}
+}
+}
+</script>
+<script>
+function publist(item) {
+url = "https://www.thehindu.com/";
+id = "2";
+switch (item) {
+case "url":
+item = url;
+break;
+case "id":
+item = id;
+break;
+default:
+}
+return item;
+}
+</script>
+<script>
+var VUUKLE_HOST=window.location.hostname.replace("www.","").replace(/^(m\.)/,"");
+var VUUKLE_CONFIG = {
+"apiKey": "432081eb-6e8e-4abc-a88f-ca5357aa7244",
+"host": VUUKLE_HOST,
+"articleId": "26920453",
+"img": "https://www.thehindu.com/elections/lok-sabha-2019/oyxxvq/article26887876.ece/ALTERNATES/LANDSCAPE_100/IN25PRAGYA",
+"tags": "news,national,other-states",
+"url": "https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece",
+"title": "Pragya says pendency of trial does not bar her from contesting election",
+"language": "en",
+"globalRecommendations": false,
+"recommendationsWideImages": false,
+"darkMode": false,
+"color": "1f57a5",
+ads: {
+enabled: isNonSubcribedUser()
+},
+"comments": {
+"enabled": true,
+"hideRecommendedArticles": !isNonSubcribedUser(),
+"socialAuth": true,
+"vuukleAuth": true,
+"sorting": "latest",
+"transliteration": {
+"language": "en",
+"enabledByDefault": false
+},
+"hideCommentInputBox": false,
+"commentingClosed": false,
+"maxChars": 1000,
+"countToLoad": 1,
+"toxicityLimit": 80,
+"customText": {}
+}
+};
+(function() {
+var d = document,
+s = d.createElement('script');
+s.async = true; s.src = 'https://cdn.vuukle.com/platform.js';
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<div class="overlay-screen"></div>
+</body>
+</html>

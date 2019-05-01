@@ -3,9 +3,11 @@ Backend of the LittleWord2 app
 
 
 ## What's new
-- GrahQL implementation
+- YouTube integration
+
 
 ## Coming soon
+- ❓ Faster way to get meta information
+- Video description must be processed before using it for matching it with related stories
 - Bug fixes
-- YouTube integration
 - Improved code readability

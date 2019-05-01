@@ -1,14 +1,57 @@
 [
   {
     "name": "The Hindu",
-    "rssLink": "https://www.thehindu.com/news/international/feeder/default.rss"
+    "rssLink": "https://www.thehindu.com/news/international/feeder/default.rss",
+    "type": "text",
+    "domain": "world"
   },
   {
     "name": "BBC",
-    "rssLink": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    "rssLink": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "type": "text",
+    "domain": "world"
   },
   {
     "name": "The Guardian",
-    "rssLink": "https://www.theguardian.com/world/rss"
+    "rssLink": "https://www.theguardian.com/world/rss",
+    "type": "text",
+    "domain": "world"
+  },
+  {
+    "name": "CNN",
+    "domain": "world",
+    "type":"video",
+    "userName": "CNN",
+    "id": "UUupvZG-5ko_eiXAupbDfxWw"
+  },
+  {
+    "name": "Washington Post",
+    "domain": "world",
+    "type":"video",
+    "userName": "WashingtonPost",
+    "id": "UUHd62-u_v4DvJ8TCFtpi4GA"
+  },
+  {
+    "name": "CNET",
+    "domain": "tech",
+    "explainer": true,
+    "userName": "CNETTV",
+    "type":"video",
+    "id": "UUOmcA3f_RrH6b9NmcNa4tdg"
+  },
+  {
+    "name": "BBC",
+    "domain": "world",
+    "type":"video",
+    "userName": "bbcnews",
+    "id": "UU16niRr50-MSBwiO3YDb3RA"
+  },
+  {
+    "name": "Vox",
+    "domain": "world",
+    "type":"video",
+    "explainer": true,
+    "userName": "voxdotcom",
+    "id": "UULXo7UDZvByw2ixzpQCufnA"
   }
 ]
