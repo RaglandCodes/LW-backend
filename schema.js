@@ -6,7 +6,7 @@ const {
   GraphQLObjectType,
   GraphQLString,
   GraphQLSchema,
-//  GraphQLBoolean,
+  //  GraphQLBoolean,
   GraphQLList
 } = graphql;
 
@@ -24,12 +24,34 @@ const wordType = new GraphQLObjectType({
     uid: { type: GraphQLString },
     matchid: { type: GraphQLString },
     type: { type: GraphQLString },
-    minutesPassed: { type: GraphQLString }
+    minutesPassed: { type: GraphQLString },
+    displayTime: { type: GraphQLString }
   })
 });
 
+//console.log((moment(moment().format()) - moment("Wed, 22 May 2019 11:36:19 GMT")) / (1000 * 60));
+
 function getTimePassedInMinutes(date) {
   return (moment(moment().format()) - moment(date)) / (1000 * 60);
+}
+
+function getDisplayTime(minutesPassed)
+{
+  let displayTime = ""
+  minutesPassed = parseInt(minutesPassed);
+  if (!(minutesPassed > 0)) {
+  } else if (minutesPassed < 60) {
+    displayTime = `${minutesPassed} minutes ago`;
+  } else if (minutesPassed < 1440) {
+    displayTime = `${Math.floor(minutesPassed / 60)} ${
+      minutesPassed < 121 ? "hour" : "hours"
+    } ago`;
+  } else {
+    displayTime = `${Math.floor(minutesPassed / 1440)} ${
+      minutesPassed < 2881 ? "day" : "days"
+    } ago`;
+  } 
+  return displayTime;
 }
 
 const RootQuery = new GraphQLObjectType({
@@ -52,13 +74,15 @@ const RootQuery = new GraphQLObjectType({
                 .length == 0
             )
               return true;
-              //TODO remove return true and if
+            //TODO remove return true and if
           });
         } // end of if (args.offPhrases !== undefined)
 
         fullData = fullData
           .map(w => {
-            w["minutesPassed"] = getTimePassedInMinutes(w.date);
+            let  timesInMinutes = getTimePassedInMinutes(w.date);
+            w["minutesPassed"] = timesInMinutes
+            w["displayTime"] = getDisplayTime(timesInMinutes)
             //TODO use spread operator
             return w;
           })

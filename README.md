@@ -3,11 +3,10 @@ Backend of the LittleWord2 app
 
 
 ## What's new
-- YouTube integration
+- Better at removing stop words
 
 
 ## Coming soon
-- ❓ Faster way to get meta information
-- Video description must be processed before using it for matching it with related stories
+- Get news for Tech section
 - Bug fixes
 - Improved code readability

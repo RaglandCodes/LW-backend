@@ -4,7 +4,7 @@ const express = require("express");
 const fs = require("fs");
 const moment = require("moment");
 const path = require("path");
-const request = require("request");
+
 const axios = require("axios");
 const Parser = require("rss-parser");
 const metafetch = require("metafetch");
@@ -32,57 +32,743 @@ app.use(
   })
 );
 
-//getMeta("https://www.bbc.co.uk/news/world-africa-47913338");
-
 let parser = new Parser();
+const stopWords2 = [
+  "a",
+  "about",
+  "above",
+  "according",
+  "across",
+  "actually",
+  "adj",
+  "after",
+  "afterwards",
+  "again",
+  "all",
+  "almost",
+  "along",
+  "already",
+  "also",
+  "although",
+  "always",
+  "among",
+  "amongst",
+  "an",
+  "am",
+  "and",
+  "another",
+  "any",
+  "anyhow",
+  "anyone",
+  "anything",
+  "anywhere",
+  "are",
+  "aren",
+  "aren't",
+  "around",
+  "as",
+  "at",
+  "be",
+  "became",
+  "because",
+  "become",
+  "becomes",
+  "been",
+  "beforehand",
+  "begin",
+  "being",
+  "below",
+  "beside",
+  "besides",
+  "between",
+  "both",
+  "but",
+  "by",
+  "can",
+  "cannot",
+  "can't",
+  "caption",
+  "co",
+  "come",
+  "could",
+  "couldn",
+  "couldn't",
+  "did",
+  "didn",
+  "didn't",
+  "do",
+  "does",
+  "doesn",
+  "doesn't",
+  "don",
+  "don't",
+  "down",
+  "during",
+  "each",
+  "early",
+  "eg",
+  "either",
+  "else",
+  "elsewhere",
+  "end",
+  "ending",
+  "enough",
+  "etc",
+  "even",
+  "ever",
+  "every",
+  "everywhere",
+  "except",
+  "few",
+  "for",
+  "found",
+  "from",
+  "further",
+  "had",
+  "has",
+  "hasn",
+  "hasn't",
+  "have",
+  "haven",
+  "haven't",
+  "he",
+  "hence",
+  "her",
+  "here",
+  "hereafter",
+  "hereby",
+  "herein",
+  "hereupon",
+  "hers",
+  "him",
+  "his",
+  "how",
+  "however",
+  "ie",
+  "i.e.",
+  "if",
+  "in",
+  "inc",
+  "inc.",
+  "indeed",
+  "instead",
+  "into",
+  "is",
+  "isn",
+  "isn't",
+  "it",
+  "its",
+  "itself",
+  "last",
+  "late",
+  "later",
+  "less",
+  "let",
+  "like",
+  "likely",
+  "ll",
+  "ltd",
+  "made",
+  "make",
+  "makes",
+  "many",
+  "may",
+  "maybe",
+  "me",
+  "meantime",
+  "meanwhile",
+  "might",
+  "miss",
+  "more",
+  "most",
+  "mostly",
+  "mr",
+  "mrs",
+  "much",
+  "must",
+  "my",
+  "myself",
+  "namely",
+  "near",
+  "neither",
+  "never",
+  "nevertheless",
+  "new",
+  "next",
+  "no",
+  "nobody",
+  "non",
+  "none",
+  "nonetheless",
+  "noone",
+  "nor",
+  "not",
+  "now",
+  "of",
+  "off",
+  "often",
+  "on",
+  "once",
+  "only",
+  "onto",
+  "or",
+  "other",
+  "others",
+  "otherwise",
+  "our",
+  "ours",
+  "ourselves",
+  "out",
+  "over",
+  "own",
+  "per",
+  "perhaps",
+  "rather",
+  "re",
+  "said",
+  "same",
+  "say",
+  "seem",
+  "seemed",
+  "seeming",
+  "seems",
+  "several",
+  "she",
+  "should",
+  "shouldn",
+  "shouldn't",
+  "since",
+  "so",
+  "some",
+  "still",
+  "stop",
+  "such",
+  "taking",
+  "ten",
+  "than",
+  "that",
+  "the",
+  "their",
+  "them",
+  "themselves",
+  "then",
+  "thence",
+  "there",
+  "thereafter",
+  "thereby",
+  "therefore",
+  "therein",
+  "thereupon",
+  "these",
+  "they",
+  "this",
+  "those",
+  "though",
+  "thousand",
+  "through",
+  "throughout",
+  "thru",
+  "thus",
+  "to",
+  "together",
+  "too",
+  "toward",
+  "towards",
+  "under",
+  "unless",
+  "unlike",
+  "unlikely",
+  "until",
+  "up",
+  "upon",
+  "us",
+  "use",
+  "used",
+  "using",
+  "ve",
+  "very",
+  "via",
+  "was",
+  "wasn",
+  "we",
+  "well",
+  "were",
+  "weren",
+  "weren't",
+  "what",
+  "whatever",
+  "when",
+  "whence",
+  "whenever",
+  "where",
+  "whereafter",
+  "whereas",
+  "whereby",
+  "wherein",
+  "whereupon",
+  "wherever",
+  "whether",
+  "which",
+  "while",
+  "whither",
+  "who",
+  "whoever",
+  "whole",
+  "whom",
+  "whomever",
+  "whose",
+  "why",
+  "will",
+  "with",
+  "within",
+  "without",
+  "won",
+  "would",
+  "wouldn",
+  "wouldn't",
+  "yes",
+  "yet",
+  "you",
+  "your",
+  "yours",
+  "yourself",
+  "yourselves"
+];
 
-function tryRegexMeta() {
-  let URL =
-    "https://www.thehindu.com/news/national/other-states/pragya-says-pendency-of-trial-does-not-bar-her-from-contesting-election/article26920453.ece?homepage=true";
-  request(URL, function(error, response, body) {
-    let tt = body;
-    getAmpRegex
-    let getAmpRegex = /<link[\s+]+rel=['"]amphtml['"][\s+]href=["'](.*)">/gi;
-    tt = body.match(getAmpRegex);
-    console.log(tt);
-
-    tt = tt[0].replace(getAmpRegex, "$1");
-    console.log(tt);
-
-    fs.writeFileSync(path.join(__dirname, "./reg.txt"), body);
-    if (error) {
-      console.log(`${error} 👈 error in requestt`);
-    }
-    //console.log(body);
-  });
-} // end of tryRegexMeta
-
-//tryRegexMeta();
+// const stopWords = [
+//   " a ",
+//   " about ",
+//   " above ",
+//   " according ",
+//   " across ",
+//   "  actually ",
+//   "  adj ",
+//   " after ",
+//   " afterwards ",
+//   " again  ",
+//   " all  ",
+//   " almost ",
+//   " along ",
+//   " already ",
+//   " also ",
+//   " although ",
+//   " always ",
+//   " among ",
+//   " amongst ",
+//   " an ",
+//   " am ",
+//   " and ",
+//   " another ",
+//   " any ",
+//   " anyhow ",
+//   " anyone ",
+//   " anything ",
+//   " anywhere ",
+//   " are ",
+//   " aren ",
+//   " aren't ",
+//   " around ",
+//   " as ",
+//   " at ",
+//   " be ",
+//   " became ",
+//   " because ",
+//   " become ",
+//   " becomes ",
+//   " been ",
+//   " beforehand ",
+//   " begin ",
+//   " being ",
+//   " below ",
+//   " beside ",
+//   " besides ",
+//   " between ",
+//   " both ",
+//   " but ",
+//   " by ",
+//   " can ",
+//   " cannot ",
+//   " can't ",
+//   " caption ",
+//   " co ",
+//   " come ",
+//   " could ",
+//   " couldn ",
+//   " couldn't ",
+//   " did ",
+//   " didn ",
+//   " didn't ",
+//   " do ",
+//   " does ",
+//   " doesn ",
+//   " doesn't ",
+//   " don ",
+//   " don't ",
+//   " down ",
+//   " during ",
+//   " each ",
+//   " early ",
+//   " eg ",
+//   " either ",
+//   " else ",
+//   " elsewhere ",
+//   " end ",
+//   " ending ",
+//   " enough ",
+//   " etc ",
+//   " even ",
+//   " ever ",
+//   " every ",
+//   " everywhere ",
+//   " except ",
+//   " few ",
+//   " for ",
+//   " found ",
+//   " from ",
+//   " further ",
+//   " had ",
+//   " has ",
+//   " hasn ",
+//   " hasn't ",
+//   " have ",
+//   " haven ",
+//   " haven't ",
+//   " he ",
+//   " hence ",
+//   " her ",
+//   " here ",
+//   " hereafter ",
+//   " hereby ",
+//   " herein ",
+//   " hereupon ",
+//   " hers ",
+//   " him ",
+//   " his ",
+//   " how ",
+//   " however ",
+//   " ie ",
+//   " i.e. ",
+//   " if ",
+//   " in ",
+//   " inc ",
+//   " inc. ",
+//   " indeed ",
+//   " instead ",
+//   " into ",
+//   " is ",
+//   " isn ",
+//   " isn't ",
+//   " it ",
+//   " its ",
+//   " itself ",
+//   " last ",
+//   " late ",
+//   " later ",
+//   " less ",
+//   " let ",
+//   " like ",
+//   " likely ",
+//   " ll ",
+//   " ltd ",
+//   " made ",
+//   " make ",
+//   " makes ",
+//   " many ",
+//   " may ",
+//   " maybe ",
+//   " me ",
+//   " meantime ",
+//   " meanwhile ",
+//   " might ",
+//   " miss ",
+//   " more ",
+//   " most ",
+//   " mostly ",
+//   " mr ",
+//   " mrs ",
+//   " much ",
+//   " must ",
+//   " my ",
+//   " myself ",
+//   " namely ",
+//   " near ",
+//   " neither ",
+//   " never ",
+//   " nevertheless ",
+//   " new ",
+//   " next ",
+//   " no ",
+//   " nobody ",
+//   " non ",
+//   " none ",
+//   " nonetheless ",
+//   " noone ",
+//   " nor ",
+//   " not ",
+//   " now ",
+//   " of ",
+//   " off ",
+//   " often ",
+//   " on ",
+//   " once ",
+//   " only ",
+//   " onto ",
+//   " or ",
+//   " other ",
+//   " others ",
+//   " otherwise ",
+//   " our ",
+//   " ours ",
+//   " ourselves ",
+//   " out ",
+//   " over ",
+//   " own ",
+//   " per ",
+//   " perhaps ",
+//   " rather ",
+//   " re ",
+//   " said ",
+//   " same ",
+//   " say ",
+//   " seem ",
+//   " seemed ",
+//   " seeming ",
+//   " seems ",
+//   " several ",
+//   " she ",
+//   " should ",
+//   " shouldn ",
+//   " shouldn't ",
+//   " since ",
+//   " so ",
+//   " some ",
+//   " still ",
+//   " stop ",
+//   " such ",
+//   " taking ",
+//   " ten ",
+//   " than ",
+//   " that ",
+//   " the ",
+//   " their ",
+//   " them ",
+//   " themselves ",
+//   " then ",
+//   " thence ",
+//   " there ",
+//   " thereafter ",
+//   " thereby ",
+//   " therefore ",
+//   " therein ",
+//   " thereupon ",
+//   " these ",
+//   " they ",
+//   " this ",
+//   " those ",
+//   " though ",
+//   " thousand ",
+//   " through ",
+//   " throughout ",
+//   " thru ",
+//   " thus ",
+//   " to ",
+//   " together ",
+//   " too ",
+//   " toward ",
+//   " towards ",
+//   " under ",
+//   " unless ",
+//   " unlike ",
+//   " unlikely ",
+//   " until ",
+//   " up ",
+//   " upon ",
+//   " us ",
+//   " use ",
+//   " used ",
+//   " using ",
+//   " ve ",
+//   " very ",
+//   " via ",
+//   " was ",
+//   " wasn ",
+//   " we ",
+//   " well ",
+//   " were ",
+//   " weren ",
+//   " weren't ",
+//   " what ",
+//   " whatever ",
+//   " when ",
+//   " whence ",
+//   " whenever ",
+//   " where ",
+//   " whereafter ",
+//   " whereas ",
+//   " whereby ",
+//   " wherein ",
+//   " whereupon ",
+//   " wherever ",
+//   " whether ",
+//   " which ",
+//   " while ",
+//   " whither ",
+//   " who ",
+//   " whoever ",
+//   " whole ",
+//   " whom ",
+//   " whomever ",
+//   " whose ",
+//   " why ",
+//   " will ",
+//   " with ",
+//   " within ",
+//   " without ",
+//   " won ",
+//   " would ",
+//   " wouldn ",
+//   " wouldn't ",
+//   " yes ",
+//   " yet ",
+//   " you ",
+//   " your ",
+//   " yours ",
+//   " yourself ",
+//   " yourselves"
+// ];
 // --------------- functions ----------
-function stronger(weakTitle, description) {
-  //const dangerPhrases = /- BBC News|– live|- video|– in pictures|– video|– as it happened|Morning digest:|What you need to know/gi;
-  const removeFirst = /’s|’s|'s|’t|’t|'t/gi;
-  //throught???
-  const removeRegex = / on | his | you | very | what | can | news | over | country | about | was | in | this | as | by | after | into | how | they | say | says | said | its | from | but | it | would | which | a | an | the | why | your | will | her | he | have | has | so | with | for | we | at | to | be | if | that | than | of | are | and | is |:|-|–|—|, |‘|\s+|'|’|“|”/gi;
+
+function stronger2(weakTitle, description, type) {
+  if (type == "video") {
+    let testRegex = /https?:\//i;
+
+    description = description
+      .split("\n\n")
+      .filter(paragraph => {
+        return !testRegex.test(paragraph) && paragraph.length > 20;
+      })
+      .join(" ");
+
+    if (description.split(" ").length > 17) {
+      description = description.split(" ");
+      description.splice(17);
+      description = description.join(" ");
+    }
+
+    console.log("in strong video");
+  } // end of if (type == "video")
+  const removeFirst = /’s|’s|'s|’t|\.|’t|\||'t/gi;
+  const removeRegex = / year | years | 2019 | 2020 | news |  country | want|:|-|–|—|, |‘|\s+|'|’|“|”| /gi;
   const publishersNamesRegex = /BBC/gi;
-  let strongTitle = weakTitle
-    .concat(" ", description)
+  const toSingleWord = [
+    "prime minister",
+    "donald trump",
+    "us president",
+    "middle east"
+  ];
+
+  let strongTitle = " "
+    .concat(weakTitle, " ", description, " ")
     .toLowerCase()
     .replace(removeFirst, " ")
-    .replace(removeFirst, " ")
     .replace(publishersNamesRegex, " ")
-    .replace(removeRegex, " ")
-    .replace(removeRegex, " ")
-    .replace(removeRegex, " ")
-    .replace(removeRegex, " ")
-    .replace(removeRegex, " ")
-    .split(/\s+/);
+    .replace(removeRegex, " ");
 
-  return [...new Set(strongTitle)].join(" ").trim();
+  strongTitle = strongTitle
+    .split(/\s+/)
+    .filter(w => w.length > 1 && stopWords2.indexOf(w) === -1)
+    .join(" ");
+
+  for (const word of toSingleWord) {
+    // if (strongTitle.indexOf(word) === -1) continue;
+    // else
+    strongTitle = strongTitle.replace(word, word.split(" ").join(""));
+  }
+
+  // console.log(strongTitle, "\n\n");
+
+  return strongTitle;
 }
 
+// function stronger(weakTitle, description, type) {
+//   //const dangerPhrases = /- BBC News|– live|- video|– in pictures|– video|– as it happened|Morning digest:|What you need to know/gi;
+//   if (type == "video") {
+//     let testRegex = /https?:\//i;
+
+//     description = description
+//       .split("\n\n")
+//       .filter(paragraph => {
+//         return !testRegex.test(paragraph) && paragraph.length > 20;
+//       })
+//       .join(" ");
+
+//     if (description.split(" ").length > 17) {
+//       description = description.split(" ");
+//       description.splice(17);
+//       description = description.join(" ");
+//     }
+
+//     console.log("in strong video");
+//     const toSingleWord = [
+//       "prime minister",
+//       "donald trump",
+//       "us president",
+//       "middle east"
+//     ];
+//   } // end of if (type == "video")
+
+//   const removeFirst = /’s|’s|'s|’t|\.|’t|\||'t/gi;
+//   // TODO check for alphabets . don't allow number or symbol
+//   // don't allow single word
+//   const toSingleWord = [
+//     "prime minister",
+//     "donald trump",
+//     "us president",
+//     "middle east"
+//   ];
+//   const removeRegex = / on | his | him | while | or | you | were | year | years | 2019 | 2020 | very | what | can | news | over | country | more | want| about | was | in | this | as | by | after | into | there | how | they | say | says | said | its | from | who | but | it | would | which | a | an | the | why | your | our | will | her | he | have | has | so | with | for | we | at | to | be | if | that | than | of | are | and | is |:|-|–|—|, |‘|\s+|'|’|“|”| /gi;
+//   const stopWordsRe = new RegExp(stopWords.join("|"), "ig");
+
+//   // console.log(removeRegex);
+//   // console.log(stopWordsRe);
+
+//   const publishersNamesRegex = /BBC/gi;
+
+//   let strongTitle = " "
+//     .concat(weakTitle)
+//     .concat(" ", description, " ")
+//     .toLowerCase()
+//     .replace(removeFirst, " ")
+//     .replace(removeFirst, " ")
+//     .replace(publishersNamesRegex, " ")
+//     .replace(stopWordsRe, " ")
+//     .replace(stopWordsRe, " ")
+//     .replace(removeRegex, " ")
+//     .replace(removeRegex, " ")
+//     .replace(removeRegex, " ")
+//     .replace(removeRegex, " ")
+//     .replace(removeRegex, " ")
+//     .replace(stopWordsRe, " ")
+//     .replace(stopWordsRe, " ")
+//     .replace(stopWordsRe, " ")
+//     .replace(stopWordsRe, " ")
+//     .replace(stopWordsRe, " ")
+//     .replace(stopWordsRe, " ")
+//     .split(/\s+/);
+
+//   strongTitle = [...new Set(strongTitle)].join(" ").trim();
+
+//   for (const word of toSingleWord) {
+//     // if (strongTitle.indexOf(word) === -1) continue;
+//     // else
+//     strongTitle = strongTitle.replace(word, word.split(" ").join(""));
+//   }
+
+//   return strongTitle;
+// }
+
 function sanction(title) {
-  const dangerPhrases = /– live|- video|– video|– in pictures|in pictures|– video|Morning digest:/gi;
+  const dangerPhrases = /– live|Top stories of the day:|– live|- video|– video|Morning mail:|– in pictures|in pictures|US briefing|US briefing:|– video|– politics live|– live updates|- live|Morning digest:|– politics live/gi;
   if (title.search(dangerPhrases) !== -1) {
     console.log(`${title} 👈 will not be published`);
 
@@ -139,30 +825,45 @@ function liason(page) {
 
     for (let j = i + 1; j < page.length; j++) {
       if (
-        page[i].matchid == page[j].matchid &&
-        page[i].matchid != 0 &&
-        page[j].matchid != 0
-      )
+        (page[i].matchid == page[j].matchid &&
+          page[i].matchid != 0 &&
+          page[j].matchid != 0) ||
+        (page[i].type == "video" && page[j].type == "video")
+      ) {
+        // testing bracket
+        let t2 = page[j].strongTitle.split(/\s+/);
+        let matches = t1.filter(v => -1 !== t2.indexOf(v));
+
+        if (
+          page[i].matchid == page[j].matchid &&
+          page[i].matchid != 0 &&
+          matches.length > 2
+        )
+          console.log(matches);
+
         continue;
+      } // end of testing bracket
 
       let t2 = page[j].strongTitle.split(/\s+/);
 
       let matches = t1.filter(v => -1 !== t2.indexOf(v));
+      //console.log(`${t1} == ${t2} 👈 TT12`);
 
       if (matches.length > 2) {
-        console.log(
-          page[i].title,
-          "===",
-          page[i].strongTitle,
-          "= \n =",
-          page[j].title,
-          "===",
-          page[j].strongTitle,
-          "===",
-          matches,
-          " \n\n"
-        );
+        // console.log(
+        //   page[i].title,
+        //   "===",
+        //   page[i].strongTitle,
+        //   "= \n =",
+        //   page[j].title,
+        //   "===",
+        //   page[j].strongTitle,
+        //   "===",
+        //   matches,
+        //   " \n\n"
+        // );
 
+        console.log(matches);
         if (page[j].matchid != 0 && page[i].matchid == 0) {
           page[i].matchid = page[j].matchid;
         } else if (page[i].matchid == 0 && page[j].matchid == 0) {
@@ -187,7 +888,7 @@ function removeOldItems(oldPage) {
     let hoursPased =
       (moment(moment().format()) - moment(word["date"])) / (1000 * 60 * 60);
 
-    if (hoursPased > 72) return false;
+    if (hoursPased > 50) return false;
     else if (word.matchid == 0 && hoursPased > 24) return false;
     else if (word.matchid != 1) return true;
     else if (hoursPased < 24) return true;
@@ -236,12 +937,12 @@ function addVideos(textData, info) {
       )
       .map(source =>
         axios.get(
-          `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=10&playlistId=${
+          `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=3&playlistId=${
             source.id
           }&key=${process.env.YOUTUBE_API_KEY}`
         )
       );
-    //console.log(`${JSON.stringify(videoSources)} 👈 videoSources`);
+
     axios
       .all(axiosVideoqueries)
       .then(
@@ -250,25 +951,27 @@ function addVideos(textData, info) {
             for (const item of result.data.items) {
               if (
                 textData.filter(
-                  word => word["videoID"] == item.snippet.resourceId.videoId
+                  word => word["uid"] == item.snippet.resourceId.videoId
                 ).length !== 0
               )
                 continue;
 
               let newWord = {
                 title: item.snippet.title,
-                strongTitle: stronger(
+                strongTitle: stronger2(
                   item.snippet.title,
-                  item.snippet.description
+                  item.snippet.description,
+                  "video"
                 ),
-                videoID: item.snippet.resourceId.videoId,
+                uid: item.snippet.resourceId.videoId,
                 type: "video",
                 publisher: item.snippet.channelTitle,
                 date: item.snippet.publishedAt,
-                uid: nanoid(4),
+                description: item.snippet.description,
+                //uid: nanoid(4),
                 matchid: 0
               };
-              console.log(JSON.stringify(newWord));
+              //console.log(JSON.stringify(newWord));
 
               textData.push(newWord);
             } // end of for item loop
@@ -299,25 +1002,27 @@ async function refresh(info, data) {
     let feed = await parser.parseURL(source.rssLink);
 
     for (const word of feed.items) {
-      let exists = data.filter(w => word.title == w.title);
+      let titleExists = data.filter(w => word.title == w.title);
+      let urlExists = data.filter(w => word.url == w.url);
       //TODO use promises . all
 
       let sanctioned = sanction(word["title"]);
 
       if (
-        exists.length == 0 &&
+        titleExists.length == 0 &&
+        urlExists.length == 0 &&
         sanctioned == true &&
         getTimePassedInMinutes(word.pubDate) < 4321
       ) {
         //console.log("new news title is", word.title, " from ", source.name);
         let metaData = await getMeta(word["link"]);
-
         let newWord = {
           title: word.title,
-          strongTitle: stronger(word.title, metaData.description),
+          strongTitle: stronger2(word.title, metaData.description),
           url: word.link,
-          ampURL: metaData.ampURL,
-          description: metaData.description,
+          ampURL: metaData.ampURL == undefined ? word.link : metaData.ampURL,
+          description:
+            metaData.description == undefined ? "" : metaData.description,
           image: metaData.image,
           date: word.pubDate,
           publisher: source.name,
@@ -325,6 +1030,10 @@ async function refresh(info, data) {
           matchid: 0,
           type: "text"
         };
+
+        if (metaData.ampURL == undefined) {
+          console.log("found undefined AMP link", " ", word.title);
+        }
         data.push(newWord);
       } else {
       }
@@ -367,21 +1076,42 @@ app.get("/update", (q, a) => {
       console.timeEnd("Update");
     })
     .catch(error => {
-      console.log(`${error} <= This is the error`);
+      console.log(`${error} <= This is the refresh error`);
     });
 }); // end of update
 
 app.get("/show", (q, a) => {
-  // This is called by the front end to get the data
+  // This can be used by developers to look at all the available data
+  //The front-end uses graphql
   let fullData = fs
     .readFileSync(path.join(__dirname, "fullWorld.json"))
     .toString();
-  a.send(selectData(fullData, q.query.off));
+
+  a.send(fullData);
+  //a.send(selectData(fullData, q.query.off));
+}); // end of GET show
+
+app.get("/show_matches", (q, a) => {
+  let fullData = fs.readFileSync(path.join(__dirname, "fullWorld.json"));
+
+  fullData = JSON.parse(fullData);
+  let matchids = fullData.map(word => word["matchid"]);
+  matchids = [...new Set(matchids)];
+  console.log(`${matchids} 👈 matchids`);
+
+  let response = [];
+
+  for (const id of matchids) {
+    if (id == 0) continue;
+    response = response.concat(fullData.filter(word => word["matchid"] == id));
+  }
+
+  a.send(response);
+  console.log(`${response.length} 👈`);
 }); // end of GET show
 
 app.listen(2345, () => {
   console.log("👂 @ port 2345");
-  
 });
 
 /*  
