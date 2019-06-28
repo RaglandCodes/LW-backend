@@ -32,14 +32,6 @@
     "id": "UUHd62-u_v4DvJ8TCFtpi4GA"
   },
   {
-    "name": "CNET",
-    "domain": "tech",
-    "explainer": true,
-    "userName": "CNETTV",
-    "type":"video",
-    "id": "UUOmcA3f_RrH6b9NmcNa4tdg"
-  },
-  {
     "name": "BBC",
     "domain": "world",
     "type":"video",
@@ -53,5 +45,33 @@
     "explainer": true,
     "userName": "voxdotcom",
     "id": "UULXo7UDZvByw2ixzpQCufnA"
-  }
+  },
+  {
+    "name": "CNET",
+    "domain": "tech",
+    "explainer": true,
+    "userName": "CNETTV",
+    "type":"video",
+    "id": "UUOmcA3f_RrH6b9NmcNa4tdg"
+  },
+  {
+    "name": "Engadget ",
+    "domain": "tech",
+    "userName": "CNETTV",
+    "type":"video",
+    "id": "UU-6OW5aJYBFM33zXQlBKPNA"
+  },
+  {
+    "name": "The Verge",
+    "rssLink": "https://www.theverge.com/rss/index.xml",
+    "type": "text",
+    "domain": "tech"
+  },
+  {
+    "name": "Ars Technica",
+    "rssLink": "http://feeds.arstechnica.com/arstechnica/index",
+    "type": "text",
+    "domain": "tech"
+  }  
 ]
+

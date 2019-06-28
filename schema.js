@@ -10,6 +10,13 @@ const {
   GraphQLList
 } = graphql;
 
+const filePaths = {
+  world: `${path.join(__dirname, "fullWorld.json")}`,
+  tech: `${path.join(__dirname, "fullTech.json")}`
+}
+
+console.log(filePaths["world"]);
+
 const wordType = new GraphQLObjectType({
   name: "word",
   fields: () => ({
@@ -35,9 +42,8 @@ function getTimePassedInMinutes(date) {
   return (moment(moment().format()) - moment(date)) / (1000 * 60);
 }
 
-function getDisplayTime(minutesPassed)
-{
-  let displayTime = ""
+function getDisplayTime(minutesPassed) {
+  let displayTime = "";
   minutesPassed = parseInt(minutesPassed);
   if (!(minutesPassed > 0)) {
   } else if (minutesPassed < 60) {
@@ -50,7 +56,7 @@ function getDisplayTime(minutesPassed)
     displayTime = `${Math.floor(minutesPassed / 1440)} ${
       minutesPassed < 2881 ? "day" : "days"
     } ago`;
-  } 
+  }
   return displayTime;
 }
 
@@ -59,13 +65,20 @@ const RootQuery = new GraphQLObjectType({
   fields: {
     articles: {
       type: new GraphQLList(wordType),
-      args: { offPhrases: { type: GraphQLList(GraphQLString) } },
+      args: {
+        offPhrases: { type: GraphQLList(GraphQLString) },
+        domain: { type: GraphQLString }
+      },
+
       resolve(parent, args) {
-        console.log(`${JSON.stringify(args)} 👈 Grapgql args`);
+        console.log(`${JSON.stringify(args.domain)} 👈 Grapgql args`);
         console.log(args.offPhrases);
-        let fullData = JSON.parse(
-          fs.readFileSync(path.join(__dirname, "./fullWorld.json"))
-        );
+        // let fullData = JSON.parse(
+        //   fs.readFileSync(path.join(__dirname, "./fullWorld.json"))
+        // );
+
+        let fullData = JSON.parse(fs.readFileSync(filePaths[`${args.domain}`]))
+        
         if (args.offPhrases !== undefined) {
           fullData = fullData.filter(word => {
             let splitTitle = word["strongTitle"].toLowerCase().split(" ");
@@ -80,9 +93,9 @@ const RootQuery = new GraphQLObjectType({
 
         fullData = fullData
           .map(w => {
-            let  timesInMinutes = getTimePassedInMinutes(w.date);
-            w["minutesPassed"] = timesInMinutes
-            w["displayTime"] = getDisplayTime(timesInMinutes)
+            let timesInMinutes = getTimePassedInMinutes(w.date);
+            w["minutesPassed"] = timesInMinutes;
+            w["displayTime"] = getDisplayTime(timesInMinutes);
             //TODO use spread operator
             return w;
           })
