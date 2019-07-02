@@ -4,7 +4,7 @@ const express = require("express");
 const fs = require("fs");
 const moment = require("moment");
 const path = require("path");
-
+const bodyParser = require('body-parser');
 const axios = require("axios");
 const Parser = require("rss-parser");
 const metafetch = require("metafetch");
@@ -12,9 +12,13 @@ const nanoid = require("nanoid");
 //const graphql = require("graphql");
 const graphqlHTTP = require("express-graphql");
 const schema = require("./schema");
+
+let messengerFunctions = require('./messengerFunctions.js');
+let stopWords2 = require("./stopWords.js")
+stopWords2 = stopWords2.sw;
 require("dotenv").config();
 // --------------- initialisations ----------
-const app = express();
+const app = express().use(bodyParser.json());
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header(
@@ -34,313 +38,9 @@ app.use(
 
 let parser = new Parser();
 
-//http://mlg.ucd.ie/files/datasets/stopwords.txt
-const stopWords2 = [
-  "a",
-  "about",
-  "above",
-  "according",
-  "across",
-  "actually",
-  "adj",
-  "after",
-  "afterwards",
-  "again",
-  "all",
-  "almost",
-  "along",
-  "already",
-  "also",
-  "although",
-  "always",
-  "among",
-  "amongst",
-  "an",
-  "am",
-  "and",
-  "another",
-  "any",
-  "anyhow",
-  "anyone",
-  "anything",
-  "anywhere",
-  "are",
-  "aren",
-  "aren't",
-  "around",
-  "as",
-  "at",
-  "be",
-  "became",
-  "because",
-  "become",
-  "becomes",
-  "been",
-  "beforehand",
-  "begin",
-  "being",
-  "below",
-  "beside",
-  "besides",
-  "between",
-  "both",
-  "but",
-  "by",
-  "can",
-  "cannot",
-  "can't",
-  "caption",
-  "co",
-  "come",
-  "could",
-  "couldn",
-  "couldn't",
-  "did",
-  "didn",
-  "didn't",
-  "do",
-  "does",
-  "doesn",
-  "doesn't",
-  "don",
-  "don't",
-  "down",
-  "during",
-  "each",
-  "early",
-  "eg",
-  "either",
-  "else",
-  "elsewhere",
-  "end",
-  "ending",
-  "enough",
-  "etc",
-  "even",
-  "ever",
-  "every",
-  "everywhere",
-  "except",
-  "few",
-  "for",
-  "found",
-  "from",
-  "further",
-  "had",
-  "has",
-  "hasn",
-  "hasn't",
-  "have",
-  "haven",
-  "haven't",
-  "he",
-  "hence",
-  "her",
-  "here",
-  "hereafter",
-  "hereby",
-  "herein",
-  "hereupon",
-  "hers",
-  "him",
-  "his",
-  "how",
-  "however",
-  "ie",
-  "i.e.",
-  "if",
-  "in",
-  "inc",
-  "inc.",
-  "indeed",
-  "instead",
-  "into",
-  "is",
-  "isn",
-  "isn't",
-  "it",
-  "its",
-  "itself",
-  "last",
-  "late",
-  "later",
-  "less",
-  "let",
-  "like",
-  "likely",
-  "ll",
-  "ltd",
-  "made",
-  "make",
-  "makes",
-  "many",
-  "may",
-  "maybe",
-  "me",
-  "meantime",
-  "meanwhile",
-  "might",
-  "miss",
-  "more",
-  "most",
-  "mostly",
-  "mr",
-  "mrs",
-  "much",
-  "must",
-  "my",
-  "myself",
-  "namely",
-  "near",
-  "neither",
-  "never",
-  "nevertheless",
-  "new",
-  "next",
-  "no",
-  "nobody",
-  "non",
-  "none",
-  "nonetheless",
-  "noone",
-  "nor",
-  "not",
-  "now",
-  "of",
-  "off",
-  "often",
-  "on",
-  "once",
-  "only",
-  "onto",
-  "or",
-  "other",
-  "others",
-  "otherwise",
-  "our",
-  "ours",
-  "ourselves",
-  "out",
-  "over",
-  "own",
-  "per",
-  "perhaps",
-  "rather",
-  "re",
-  "said",
-  "same",
-  "say",
-  "says",
-  "seem",
-  "seemed",
-  "seeming",
-  "seems",
-  "several",
-  "she",
-  "should",
-  "shouldn",
-  "shouldn't",
-  "since",
-  "so",
-  "some",
-  "still",
-  "stop",
-  "such",
-  "taking",
-  "ten",
-  "than",
-  "that",
-  "the",
-  "their",
-  "them",
-  "themselves",
-  "then",
-  "thence",
-  "there",
-  "thereafter",
-  "thereby",
-  "therefore",
-  "therein",
-  "thereupon",
-  "these",
-  "they",
-  "this",
-  "those",
-  "though",
-  "thousand",
-  "through",
-  "throughout",
-  "thru",
-  "thus",
-  "to",
-  "together",
-  "too",
-  "toward",
-  "towards",
-  "under",
-  "unless",
-  "unlike",
-  "unlikely",
-  "until",
-  "up",
-  "upon",
-  "us",
-  "use",
-  "used",
-  "using",
-  "ve",
-  "very",
-  "via",
-  "was",
-  "wasn",
-  "we",
-  "well",
-  "were",
-  "weren",
-  "weren't",
-  "what",
-  "whatever",
-  "when",
-  "whence",
-  "whenever",
-  "where",
-  "whereafter",
-  "whereas",
-  "whereby",
-  "wherein",
-  "whereupon",
-  "wherever",
-  "whether",
-  "which",
-  "while",
-  "whither",
-  "who",
-  "whoever",
-  "whole",
-  "whom",
-  "whomever",
-  "whose",
-  "why",
-  "will",
-  "with",
-  "within",
-  "without",
-  "won",
-  "would",
-  "wouldn",
-  "wouldn't",
-  "yes",
-  "yet",
-  "you",
-  "your",
-  "yours",
-  "yourself",
-  "yourselves"
-];
-
 // --------------- functions ----------
 
-function stronger2(weakTitle, description, type) {
+function stronger2(weakTitle, description, type, domain) {
   if (type == "video") {
     let testRegex = /https?:\//i;
 
@@ -357,21 +57,42 @@ function stronger2(weakTitle, description, type) {
       description = description.join(" ");
     }
 
-    console.log("in strong video");
   } // end of if (type == "video")
   const removeFirst = /’s|’s|\(|\)|'s|’t|\.|’t|\||'t|-/gi;
-  const removeRegex = / year | years | 2019 | 2020 | news |  country | want|:|-|–|—|, |‘|\s+|'|’|“|”/gi;
-  const publishersNamesRegex = /BBC/gi;
+  const removeRegex = / year | sunday | monday | thursday | july | years | week | weeks | 2019 | 2020 | one | two | news | old | company | set | country | countries | anti | man | woman | want |tnw basics|:|-|–|—|, |‘|\s+|'|’|“|”/gi;
+  const publishersNamesRegex = /BBC|Wall Street Journal/gi;
   const toSingleWord = [
     "prime minister",
     "donald trump",
+    "ivanka trump",
     "us president",
+    "russian president",
     "middle east",
+    "north korea",
     "world cup",
-    "Narendra Modi"
+    "world leaders",
+    "scott morrison",
+    "vladimir putin ",
+    "security forces",
+    "narendra modi",
+    "jeremy hunt",
+    "theresa may",
+    "boris johnson",
+    "sri lanka",
+    "social media",
+    "app store",
+    "mac pro",
+    "apple music",
+    "apple watch",
+    "chief executive",
+    "tim cook"
   ];
-  //??russian', 'president
+  
+ 
 
+
+  // remove days and months???
+  //remove numbers??  TODO
   let strongTitle = " "
     .concat(weakTitle, " ", description, " ")
     .toLowerCase()
@@ -380,28 +101,38 @@ function stronger2(weakTitle, description, type) {
     .replace(removeRegex, " ")
     .replace(removeRegex, " ");
 
-  strongTitle = strongTitle
-    .split(/\s+/)
-    .filter(w => w.length > 1 && stopWords2.indexOf(w) === -1);
-  strongTitle = [...new Set(strongTitle)].join(" ");
-
   for (const word of toSingleWord) {
     // if (strongTitle.indexOf(word) === -1) continue;
     // else
     strongTitle = strongTitle.replace(word, word.split(" ").join(""));
   }
 
+  strongTitle = strongTitle
+    .split(/\s+/)
+    .filter(w => w.length > 1 && stopWords2.indexOf(w) === -1);
+  strongTitle = [...new Set(strongTitle)].join(" ");
+
   return strongTitle;
 }
+
 console.log(
   stronger2(
-    "Texas man gets life sentence in 3-year-old daughter’s death",
-    "Mathews was charged with capital murder but pleaded guilty on Monday to a lesser charge of injury to a child by omission ."
+    "Global gag rule linked to abortion rise in African countries that accept US aid",
+    "Study finds Trump-backed policy weeks ago led to increase in pregnancies and reduction in use of modern contraceptives"
   )
 );
 
-function sanction(title) {
-  const dangerPhrases = /– live|Dealmaster:|– podcast|Top stories of the day:|– live|- video|– video|Morning mail:|– in pictures|in pictures|US briefing|US briefing:|– video|– politics live|– live updates|- live|Morning digest:|– politics live/gi;
+function sanction(title, domain) {
+
+  if(domain === 'tech')
+  {
+    if(title.indexOf("$") !== -1)
+    {
+      console.log(`${title} 👈 shall we delete`);
+      
+    }
+  }
+  const dangerPhrases = /– live|Dealmaster:|Deal:Deals:|CHEAP:|– podcast|– podcast|AppleInsider Podcast|Top stories of the day:|– live|- video|– video|Morning mail:|– in pictures|briefing:|in pictures|US briefing|US briefing:|– video|– politics live|– live updates|- live|Morning digest:|– politics live/gi;
   if (title.search(dangerPhrases) !== -1) {
     console.log(`${title} 👈 will not be published`);
 
@@ -507,8 +238,8 @@ function removeOldItems(oldPage) {
   let newPage = oldPage.filter(word => {
     let hoursPased =
       (moment(moment().format()) - moment(word["date"])) / (1000 * 60 * 60);
-// TODO make to 72 
-    if (hoursPased > 60) return false;
+    // TODO make to 72
+    if (hoursPased > 35) return false;
     else if (word.matchid == 0 && hoursPased > 24) return false;
     else if (word.matchid != 1) return true;
     else if (hoursPased < 24) return true;
@@ -620,17 +351,15 @@ async function refresh(info, data, domain) {
 
     //    let newPage = [];
     let feed = await parser.parseURL(source.rssLink);
-    if(!feed)
-    {
+    if (!feed) {
       console.log("undefined feed ⁉");
-      
     }
     for (const word of feed.items) {
       let titleExists = data.filter(w => word.title == w.title);
       let urlExists = data.filter(w => word.link == w.url);
       //TODO use promises . all
 
-      let sanctioned = sanction(word["title"]);
+      let sanctioned = sanction(word["title"], source['domain']);
 
       if (
         titleExists.length == 0 &&
@@ -642,7 +371,12 @@ async function refresh(info, data, domain) {
         let metaData = await getMeta(word["link"]);
         let newWord = {
           title: word.title,
-          strongTitle: stronger2(word.title, metaData.description),
+          strongTitle: stronger2(
+            word.title,
+            metaData.description,
+            "text",
+            source["domain"]
+          ),
           url: word.link,
           ampURL: metaData.ampURL == undefined ? word.link : metaData.ampURL,
           description:
@@ -668,13 +402,55 @@ async function refresh(info, data, domain) {
   console.log(`${data.length} <== new data.length`);
   return data;
 }
+// --------------- POST requests ----------
 
-// --------------- get requests ----------
+app.post('/webhook', (q, a) => {
+  let body = q.body;
+  const VERIFY_TOKEN = process.env.PAGE_ACCESS_TOKEN;
+  if(body.object === 'page'){
+    body.entry.forEach((entry) => {
+      let webhook_event = entry.messaging[0];
+      let sender_psid = webhook_event.sender.id;
+      console.log(`${sender_psid} 👈 sender psid`);
+      console.log(`${JSON.stringify(webhook_event)} 👈 webhook_event`);
+
+      if(webhook_event.message){
+        messengerFunctions.handleMessage(sender_psid, webhook_event.message);
+      }
+      else if(webhook_event.postback){
+        messengerFunctions.handlePostback(sender_psid, webhook_event.postback)
+      }
+    })
+
+    a.status(200).send('EVENT_RECD');
+  }else{
+    a.sendStatus(404);
+  }
+})
+
+// --------------- GET requests ----------
 app.get("/", (q, a) => {
   a.send("HELLO!!!");
 });
 
-//app.get();
+app.get('/webhook', (req, res) => {
+// copyied from https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup
+  let VERIFY_TOKEN = process.env.MESSENGER_VERIFY_TOKEN;
+    
+  let mode = req.query['hub.mode'];
+  let token = req.query['hub.verify_token'];
+  let challenge = req.query['hub.challenge'];
+    
+  if (mode && token) {
+    if (mode === 'subscribe' && token === VERIFY_TOKEN) {
+      console.log('WEBHOOK_VERIFIED');
+      res.status(200).send(challenge);
+    } else {
+      res.sendStatus(403);      
+    }
+  }
+});
+
 app.get("/update", (q, a) => {
   // This function gets called every 30 minutes by  https://cron-job.org
   a.send("K");

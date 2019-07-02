@@ -72,6 +72,33 @@
     "rssLink": "http://feeds.arstechnica.com/arstechnica/index",
     "type": "text",
     "domain": "tech"
+  },
+  {
+    "name": "Reuters",
+    "rssLink": "http://feeds.reuters.com/reuters/technologyNews",
+    "type": "text",
+    "domain": "tech"
+  },
+  {
+    "name": "Android Authority",
+    "rssLink": "http://feed.androidauthority.com/",
+    "type": "text",
+    "domain": "tech"
+  },
+  {
+    "name": "Apple Insider",
+    "rssLink": "https://appleinsider.com/rss/news/",
+    "type": "text",
+    "domain": "tech"
+  } ,
+  {
+    "name": "The Next Web",
+    "rssLink": "http://feeds.feedburner.com/thenextweb",
+    "type": "text",
+    "domain": "tech"
   }  
+  
 ]
+
+
 

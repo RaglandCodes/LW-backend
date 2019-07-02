@@ -3,10 +3,12 @@ Backend of the LittleWord2 app
 
 
 ## What's new
-- Better at removing stop words
+- Get news for Tech section
+- Messenger bot
 
 
 ## Coming soon
-- Get news for Tech section
-- Bug fixes
-- Improved code readability
+- Improved matching algorithm
+- Improved messenger bot
+- News classified by topics(subdomains)
+- More persistant storage(Firebase?) for matched articles

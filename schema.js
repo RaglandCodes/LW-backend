@@ -73,9 +73,6 @@ const RootQuery = new GraphQLObjectType({
       resolve(parent, args) {
         console.log(`${JSON.stringify(args.domain)} 👈 Grapgql args`);
         console.log(args.offPhrases);
-        // let fullData = JSON.parse(
-        //   fs.readFileSync(path.join(__dirname, "./fullWorld.json"))
-        // );
 
         let fullData = JSON.parse(fs.readFileSync(filePaths[`${args.domain}`]))
         
