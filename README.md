@@ -1,6 +1,6 @@
 # LW-backend
-Backend of the LittleWord2 app
-
+Backend of the LittleWord2 app.
+See the site hosted [here](https://littleword.netlify.com).
 
 ## What's new
 - Get news for Tech section
@@ -8,7 +8,7 @@ Backend of the LittleWord2 app
 
 
 ## Coming soon
-- Improved matching algorithm
-- Improved messenger bot
-- News classified by topics(subdomains)
-- More persistant storage(Firebase?) for matched articles
+- Improved matching algorithm.
+- Improved messenger bot.
+- News classified by topics (subdomains).
+- More persistant storage(Firebase?) for matched articles.
