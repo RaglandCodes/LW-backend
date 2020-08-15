@@ -1,5 +1,5 @@
 This is now archived. See the screenshots in the [wiki](https://github.com/RaglandCodes/LW-frontend/wiki) to see how it looked like
-
+[Previous app](https://github.com/RaglandCodes/LW1)
 # LW-backend
 Backend of the LittleWord2 app.
 
